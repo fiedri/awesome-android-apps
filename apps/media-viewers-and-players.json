@@ -75,6 +75,13 @@
       "website": "https://www.simplemobiletools.com/gallery"
     },
     {
+      "source": "https://github.com/fiedri/vibe-player",
+      "name": "Vibe - Music Player",
+      "stars_link": "https://img.shields.io/badge/dynamic/json?label=stars&query=$.stargazers_count&url=https://api.github.com/repos/fiedri/vibe-player",
+      "description": "Fast, minimalist local music player for android, 100% offline.",
+      "fdroid": "https://f-droid.org/packages/dev.fiedri.vibe/"
+    },
+    {
       "name": "Vinyl Music Player",
       "description": "A material designed local music player for Android. Forked from Phonograph; makes all Pro features free, as they used to be, and has some additional features.",
       "source": "https://github.com/AdrienPoupa/VinylMusicPlayer",
