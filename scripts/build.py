@@ -33,6 +33,9 @@ def build_category(cat):
         lines = [
             f'# {cat_json.get("emoji")} {cat_json.get("title")}',
             "[`< go back home`](../README.md)",
+            "",
+            "| App | Description | Stars | Last commit | Links |",
+            "|-----|-------------|-------|-------------|-------|",
         ]
 
         for app in cat_json.get("apps"):
@@ -67,13 +70,10 @@ def build_category(cat):
             )
             link_website = f'[`[website]`]({website} "website")' if website else ""
 
+            safe_description = description.replace("|", "\\|")
+            links = " ".join(filter(None, [link_source, link_fdroid, link_playstore, link_website]))
             lines.append(
-                f"""
-- **{name}**: {description}
-
-    {badge_stars} {badge_commit}
-
-    {link_source} {link_fdroid} {link_playstore} {link_website}"""
+                f"| **{name}** | {safe_description} | {badge_stars} | {badge_commit} | {links} |"
             )
 
         f.write("\n".join(lines))

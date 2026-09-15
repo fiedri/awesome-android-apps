@@ -24,15 +24,21 @@ This document shows you how to get started with your contribution to this projec
     ```
   - Use one branch per app
 
-- Add your app to the list, respecting the general structure
+- Add your app to the list with the helper scripts, no need to edit the json by hand
 
-  - ### The only file that should be edited is `apps.json`
+  - Run `add.py` from the repo root and answer the questions it asks:
+    ```
+    $ python scripts/add.py
+    ```
+    It will first ask if you want to add a **new app** (`0`) or a **new category** (`1`). For a new app it will walk you through the required fields (name, source and description) and the optional ones (fdroid, playstore and website), validating every link before saving. The app is added to the `apps/*.json` file, automatically placed in the correct category and in alphabetical order.
 
-  - If you're not familiar with the `json` format please look it up before editing to avoid errors. For example read [this article](https://www.w3schools.com/whatis/whatis_json.asp "this article").
+  - Once the app is added, run `build.py` to regenerate the markdown content:
+    ```
+    $ python scripts/build.py
+    ```
+    This rebuilds the category tables in `categories/` from the `apps/*.json` files, and updates the README app counter and table of contents.
 
-  - Both the **categories** and the **sublist of apps** in each category are **ordered alphabetically**, so pay attention to this when you're adding your app to the list.
-
-  - Each app entry has the same structure, fill as many fields as possible so that the information is the most complete. If the field remains empty please delete it from the object.
+  - <details><summary>Fields stored per app (reference, in case you ever edit the json by hand)</summary>
 
     ```
       {
@@ -53,6 +59,8 @@ This document shows you how to get started with your contribution to this projec
     - GitLab: please refer to [**issue #1**](https://github.com/albertomosconi/foss-apps/issues/1 "issue #1").
 
     `description` should contain a text from 15 to 60 words, describing the key functionality and selling points of your application.
+
+    </details>
 
 - Commit your changes
 

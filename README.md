@@ -1,11 +1,9 @@
-This page is available as an easy-to-read website at [https://albertomosconi.github.io/foss-apps](https://albertomosconi.github.io/foss-apps).
-
 <h1 id="title" align="center">Cool FOSS Android Apps</h1>
 
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/116-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/117-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <a href="./LICENSE">
 <img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
@@ -59,15 +57,18 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues/new?assignees=&labels=app+suggestion&template=app-suggestion.md&title= 'issue'). Please use the given issue template. This is also the fastest way for your suggestion to be added to the list!
 
-Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](https://github.com/albertomosconi/foss-apps/blob/main/CONTRIBUTING.md).
+Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](https://github.com/albertomosconi/foss-apps/blob/main/CONTRIBUTING.md). The fastest way to send a PR is to run the helper scripts from the repo root:
+
+```bash
+$ python scripts/add.py      # answer the questions to add your app to apps/*.json
+$ python scripts/build.py    # regenerate the category tables and README
+```
 
 ## Acknowledgments
 
 **[`^ back to top ^`](#title)**
 
-- [A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)](https://www.reddit.com/r/androidapps/comments/i7o6rp/a_big_list_of_some_useful_foss_free_and 'A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)')
-- [A List of Open Source Applications (Reddit)](https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/ 'A List of Open Source Applications (Reddit)')
-- [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme 'Building a self-updating profile README for GitHub')
+- This project was originally created by [@albertomosconi](https://github.com/albertomosconi/foss-apps) and was heavily inspired by their work. As the original repository is no longer actively maintained, this fork was created to keep the collection up to date, remove dead links, and review new community contributions.
 
 ---
 
