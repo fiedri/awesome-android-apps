@@ -10,7 +10,7 @@ This document shows you how to get started with your contribution to this projec
 
 - Fork the repo
 
-  - <https://github.com/albertomosconi/foss-apps/fork>
+  - <https://github.com/fiedri/awesome-android-apps>
 
 - Check out a new branch from `main` and name it the same as the app you want to add:
 
