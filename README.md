@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/106-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/556-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <img src="https://img.shields.io/github/stars/fiedri/awesome-mobile-apps?style=for-the-badge" alt="Stars"/>
 <img src="https://img.shields.io/github/forks/fiedri/awesome-mobile-apps?style=for-the-badge" alt="Forks"/>
@@ -26,9 +26,12 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 <!-- table-of-contents starts -->
 
+- [🎬 Android TV](categories/android-tv.md)
+- [⌚️ Android Wear](categories/android-wear.md)
 - [🇯🇵 Anime](categories/anime.md)
 - [🏪 App Stores](categories/app-stores.md)
 - [🌐 Browser](categories/browsers.md)
+- [💼 Business](categories/business.md)
 - [➕ Calculators](categories/calculators.md)
 - [📅 Calendars](categories/calendars.md)
 - [🎨 Customization](categories/customization.md)
@@ -36,13 +39,17 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 - [🕹 Emulators](categories/emulators.md)
 - [🎥 Entertainment](categories/entertainment.md)
 - [📂 File Managers](categories/file-managers.md)
+- [💰 Finance](categories/finance.md)
 - [🎮 Games](categories/games.md)
+- [🏥 Health & Fitness](categories/health-fitness.md)
 - [⌨ Keyboards](categories/keyboards.md)
 - [📱 Launchers](categories/launchers.md)
 - [🎓 Learning](categories/learning.md)
+- [🏠 Life Style](categories/life-style.md)
 - [🗺 Maps](categories/maps.md)
 - [⏯ Media Viewers and Players](categories/media-viewers-and-players.md)
-- [U+1F4E8 Messaging](categories/messaging.md)
+- [📨 Messaging](categories/messaging.md)
+- [📰 News & Magazines](categories/news-and-magazines.md)
 - [🔑 Password Managers](categories/password-managers.md)
 - [👩‍🔧 Productivity](categories/productivity.md)
 - [💻 Programming](categories/programming.md)
@@ -51,7 +58,8 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 - [🔄 Synchronization](categories/synchronization.md)
 - [⚙ System Info](categories/system-info.md)
 - [💬 Texting and Phone](categories/texting-and-phone.md)
-- [U+2699 Tools](categories/tools.md)
+- [🧰 Tools](categories/tools.md)
+- [🗺️ Travel & Local](categories/travel-and-local.md)
 - [🛠 Utilities](categories/utilities.md)
 - [⛅ Weather](categories/weather.md)
 <!-- table-of-contents ends -->

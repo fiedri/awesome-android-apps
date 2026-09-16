@@ -191,8 +191,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },
@@ -288,7 +288,7 @@
     },
     "https://github.com/Arcticons-Team/Arcticons": {
         "repo_http": 200,
-        "last_commit": "2026-09-13T15:35:08Z",
+        "last_commit": "2026-09-16T06:04:07Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -308,7 +308,7 @@
     },
     "https://github.com/Hash-Studios/Prism": {
         "repo_http": 200,
-        "last_commit": "2026-04-08T15:30:48Z",
+        "last_commit": "2026-09-16T11:54:22Z",
         "is_archived": false,
         "license": "BSD-3-Clause",
         "is_foss": true,
@@ -323,7 +323,7 @@
     },
     "https://github.com/M66B/FairEmail": {
         "repo_http": 200,
-        "last_commit": "2026-09-15T11:01:25Z",
+        "last_commit": "2026-09-16T15:00:17Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -343,7 +343,7 @@
     },
     "https://github.com/k9mail/k-9": {
         "repo_http": 200,
-        "last_commit": "2026-09-14T10:30:27Z",
+        "last_commit": "2026-09-16T10:11:10Z",
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
@@ -378,7 +378,7 @@
     },
     "https://github.com/libretro/RetroArch": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T04:45:51Z",
+        "last_commit": "2026-09-16T14:28:29Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -668,7 +668,7 @@
     },
     "https://github.com/Neamar/KISS": {
         "repo_http": 200,
-        "last_commit": "2026-09-14T09:51:48Z",
+        "last_commit": "2026-09-16T14:46:44Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -688,7 +688,7 @@
     },
     "https://github.com/tanujnotes/Olauncher": {
         "repo_http": 200,
-        "last_commit": "2026-09-01T13:58:42Z",
+        "last_commit": "2026-09-16T07:16:55Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -768,7 +768,7 @@
     },
     "https://github.com/osmandapp/Osmand": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T03:51:44Z",
+        "last_commit": "2026-09-16T12:25:37Z",
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
@@ -863,7 +863,7 @@
     },
     "https://github.com/foobnix/LibreraReader": {
         "repo_http": 200,
-        "last_commit": "2026-09-15T16:48:05Z",
+        "last_commit": "2026-09-16T11:41:09Z",
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
@@ -1223,7 +1223,7 @@
     },
     "https://github.com/tasks/tasks": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T02:05:53Z",
+        "last_commit": "2026-09-16T05:55:54Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -1303,7 +1303,7 @@
     },
     "https://github.com/blokadaorg/blokada": {
         "repo_http": 200,
-        "last_commit": "2026-09-15T13:45:13Z",
+        "last_commit": "2026-09-16T08:58:26Z",
         "is_archived": false,
         "license": "MPL-2.0",
         "is_foss": true,
@@ -1358,7 +1358,7 @@
     },
     "https://github.com/emanuele-f/PCAPdroid": {
         "repo_http": 200,
-        "last_commit": "2026-09-14T16:44:34Z",
+        "last_commit": "2026-09-16T09:57:39Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -1415,7 +1415,7 @@
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit",
-                "status": 500,
+                "status": 404,
                 "available": false
             }
         ]
@@ -1517,7 +1517,7 @@
     },
     "https://github.com/nextcloud/android": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T04:12:08Z",
+        "last_commit": "2026-09-16T13:08:24Z",
         "is_archived": false,
         "license": "GPL-2.0",
         "is_foss": true,
@@ -1577,7 +1577,7 @@
     },
     "https://github.com/deltachat/deltachat-android": {
         "repo_http": 200,
-        "last_commit": "2026-09-14T18:43:54Z",
+        "last_commit": "2026-09-16T12:52:37Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -1612,7 +1612,7 @@
     },
     "https://github.com/mattermost/mattermost-mobile": {
         "repo_http": 200,
-        "last_commit": "2026-09-15T15:28:03Z",
+        "last_commit": "2026-09-16T10:53:06Z",
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
@@ -1652,7 +1652,7 @@
     },
     "https://github.com/signalapp/Signal-Android": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T00:41:05Z",
+        "last_commit": "2026-09-16T13:07:10Z",
         "is_archived": false,
         "license": "AGPL-3.0",
         "is_foss": true,
@@ -1768,5 +1768,4706 @@
                 "available": false
             }
         ]
+    },
+    "https://github.com/ProdigyV21/ARVIO": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T13:40:45Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.arvio.tv",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/jellyfin/jellyfin-androidtv": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T10:20:26Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.jellyfin.androidtv",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/NuvioMedia/NuvioTV": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T13:51:44Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.nuvio.app",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/yuliskov/SmartTube": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T08:40:22Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/hitherejoe/Vineyard": {
+        "repo_http": 200,
+        "last_commit": "2018-01-04T17:44:13Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/XiaoMi/android_tv_metro": {
+        "repo_http": 200,
+        "last_commit": "2014-10-11T03:26:35Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/prempalsingh/arcade-watchface": {
+        "repo_http": 200,
+        "last_commit": "2016-10-30T18:40:50Z",
+        "is_archived": false,
+        "license": "WTFPL",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/AsteroidOS/asteroid": {
+        "repo_http": 200,
+        "last_commit": "2026-06-22T15:55:10Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/AsteroidOS/AsteroidOSSync": {
+        "repo_http": 200,
+        "last_commit": "2026-09-05T21:51:37Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/dwa012/WearBinaryWatchFace": {
+        "repo_http": 200,
+        "last_commit": "2015-01-26T21:54:27Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/romannurik/FORMWatchFace": {
+        "repo_http": 200,
+        "last_commit": "2017-03-09T04:23:22Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/chackrahunter/herold": {
+        "repo_http": 200,
+        "last_commit": "2026-09-04T17:57:41Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/matteolobello/lapseface": {
+        "repo_http": 200,
+        "last_commit": "2016-12-06T18:03:53Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/llelectronics/lcars-v1-watchface-asteroidos": {
+        "repo_http": 200,
+        "last_commit": "2018-06-22T15:11:22Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/mbcrump/FirstGoogleWearableApp": {
+        "repo_http": 200,
+        "last_commit": "2015-03-26T11:53:20Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/sealskej/wear-for-swarm": {
+        "repo_http": 200,
+        "last_commit": "2015-10-29T17:26:07Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/emmaguy/wear-notify-for-reddit": {
+        "repo_http": 200,
+        "last_commit": "2016-06-11T10:01:31Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/soygabimoreno/Wear-Offline-Notes": {
+        "repo_http": 200,
+        "last_commit": "2023-11-11T21:56:00Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/mitchazj/Wearable-Chess": {
+        "repo_http": 200,
+        "last_commit": "2016-04-21T12:32:39Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/davidvavra/WearSquare": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/dkhmelenko/WearTimer": {
+        "repo_http": 200,
+        "last_commit": "2016-03-22T21:33:22Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/openpetra/openpetra": {
+        "repo_http": 200,
+        "last_commit": "2025-12-27T21:15:47Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/getopenpost/openpost": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T14:47:18Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/openshopio/openshop.io-android": {
+        "repo_http": 200,
+        "last_commit": "2018-08-13T08:42:14Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/ashutoshgngwr/10-bitClockWidget": {
+        "repo_http": 200,
+        "last_commit": "2026-06-05T10:20:54Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/xLexip/Adaptive-Theme": {
+        "repo_http": 200,
+        "last_commit": "2026-09-11T16:14:19Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=dev.lexip.hecate",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/zixpo/candybar": {
+        "repo_http": 200,
+        "last_commit": "2026-06-12T08:51:59Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/jahirfiquitiva/IconShowcase": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/MM2-0/Kvaesitso": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T14:17:09Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/ricknout/lens-launcher": {
+        "repo_http": 200,
+        "last_commit": "2026-08-28T19:24:54Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=nickrout.lenslauncher",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/tecdrop/LoneColor": {
+        "repo_http": 200,
+        "last_commit": "2026-06-05T10:29:03Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.appgramming.lonecolor",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/iamrasel/lunar-launcher": {
+        "repo_http": 200,
+        "last_commit": "2024-04-17T04:19:44Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/easytarget2000/micopi_android": {
+        "repo_http": 200,
+        "last_commit": "2019-08-23T14:52:29Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/muzei/muzei": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T04:40:51Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=net.nurik.roman.muzei",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/afollestad/polar-dashboard": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/dessalines/thumb-key": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T13:58:56Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/zzhoujay/WallpaperStore": {
+        "repo_http": 200,
+        "last_commit": "2016-07-18T15:12:19Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/mikepenz/wallsplash-android": {
+        "repo_http": 200,
+        "last_commit": "2017-05-01T16:10:05Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/musenkishi/wally": {
+        "repo_http": 200,
+        "last_commit": "2015-05-24T16:16:05Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/TNT-Likely/BeeCount": {
+        "repo_http": 200,
+        "last_commit": "2026-09-13T02:31:38Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.tntlikely.beecount",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/schildbach/bitcoin-wallet": {
+        "repo_http": 200,
+        "last_commit": "2019-10-27T10:57:50Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/bither/bither-android": {
+        "repo_http": 200,
+        "last_commit": "2026-01-23T11:37:21Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/Nightonke/CoCoin": {
+        "repo_http": 200,
+        "last_commit": "2016-05-23T02:25:51Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/soffes/coins-android": {
+        "repo_http": 200,
+        "last_commit": "2015-01-29T07:14:38Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mvarnagiris/financius": {
+        "repo_http": 200,
+        "last_commit": "2017-10-19T20:10:05Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/codinguser/gnucash-android": {
+        "repo_http": 200,
+        "last_commit": "2020-12-02T07:13:11Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/byoutline/kickmaterial": {
+        "repo_http": 200,
+        "last_commit": "2018-11-14T15:57:08Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/sauravrao637/Kripto": {
+        "repo_http": 200,
+        "last_commit": "2022-04-21T12:22:45Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/hulkdx/MoneyManager": {
+        "repo_http": 200,
+        "last_commit": "2019-06-02T09:13:39Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/moneymanagerex/android-money-manager-ex": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T17:45:30Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/RetroMusicPlayer/Paisa": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=dev.hemanths.paisa",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/WillWcchan/Simple-Random-Stock": {
+        "repo_http": 200,
+        "last_commit": "2022-03-31T19:44:35Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/uberspot/2048-android": {
+        "repo_http": 200,
+        "last_commit": "2021-06-04T07:47:53Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/lucasnlm/antimine-android": {
+        "repo_http": 200,
+        "last_commit": "2025-08-02T01:20:06Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.logical.minato",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Lallassu/bintris": {
+        "repo_http": 200,
+        "last_commit": "2022-01-19T11:03:17Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/vocollapse/Blockinger": {
+        "repo_http": 200,
+        "last_commit": "2013-08-05T06:31:11Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/ValentinFunk/BrainPhaser": {
+        "repo_http": 200,
+        "last_commit": "2017-03-02T12:02:53Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/huntergdavis/cantstoptherock": {
+        "repo_http": 200,
+        "last_commit": "2016-01-23T19:56:40Z",
+        "is_archived": false,
+        "license": "BSD-3-Clause",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/tvbarthel/ChaseWhisplyProject": {
+        "repo_http": 200,
+        "last_commit": "2017-02-11T15:47:34Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/lukedd3/ClonesOnline": {
+        "repo_http": 200,
+        "last_commit": "2016-12-05T21:45:34Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/google/cloud-cup-android": {
+        "repo_http": 200,
+        "last_commit": "2018-03-16T17:34:12Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/VedantAdka/destiny_game": {
+        "repo_http": 200,
+        "last_commit": "2023-08-18T09:53:09Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/crawl/crawl": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T09:35:23Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/AndreMiras/EtherollApp": {
+        "repo_http": 200,
+        "last_commit": "2021-09-01T07:28:44Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/chiuki/friendspell": {
+        "repo_http": 200,
+        "last_commit": "2017-11-23T16:45:48Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/rohitramkumar308/GameOfCards": {
+        "repo_http": 200,
+        "last_commit": "2019-11-24T01:33:20Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/restorer/gloomy-dungeons-2": {
+        "repo_http": 200,
+        "last_commit": "2020-07-02T17:43:17Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/restorer/gloomy-dungeons-3d": {
+        "repo_http": 200,
+        "last_commit": "2018-07-04T15:54:21Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/google/santa-tracker-android": {
+        "repo_http": 200,
+        "last_commit": "2022-06-30T06:38:28Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/juankysoriano/MaterialLife": {
+        "repo_http": 200,
+        "last_commit": "2019-11-24T04:38:15Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/sromku/memory-game": {
+        "repo_http": 200,
+        "last_commit": "2026-09-12T12:40:18Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Anuken/Mindustry": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T14:18:06Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=io.anuke.mindustry",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/luanti-org/luanti": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T04:50:54Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=net.minetest.minetest",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/nuptboyzhb/newplanegame": {
+        "repo_http": 200,
+        "last_commit": "2014-10-24T13:44:00Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/GunshipPenguin/open_flood": {
+        "repo_http": 200,
+        "last_commit": "2018-01-31T18:50:05Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/google/pienoon": {
+        "repo_http": 200,
+        "last_commit": "2015-12-10T00:47:53Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/watabou/pixel-dungeon": {
+        "repo_http": 200,
+        "last_commit": "2015-10-01T09:36:02Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/pokerth/pokerth": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T14:10:57Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/sidhant947/Puzzle": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T18:18:56Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.sidhant.puzzle",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/chrisboyle/sgtpuzzles": {
+        "repo_http": 200,
+        "last_commit": "2025-10-21T22:29:10Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/djschilling/sopa": {
+        "repo_http": 200,
+        "last_commit": "2026-07-20T19:23:13Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/reime005/splintersweets": {
+        "repo_http": 200,
+        "last_commit": "2019-12-16T19:46:11Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/drodin/Stratagus": {
+        "repo_http": 200,
+        "last_commit": "2022-08-11T07:28:31Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.drodin.stratagus",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/w84death/Tanks-of-Freedom": {
+        "repo_http": 200,
+        "last_commit": "2025-02-03T10:54:41Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Zachacious/Zabyrinth": {
+        "repo_http": 200,
+        "last_commit": "2015-03-20T19:33:56Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/nic-delhi/AarogyaSetu_Android": {
+        "repo_http": 200,
+        "last_commit": "2020-06-01T10:50:55Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Ana06/medical-data-android": {
+        "repo_http": 200,
+        "last_commit": "2017-01-23T09:30:47Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/phishman3579/android-heart-rate-monitor": {
+        "repo_http": 200,
+        "last_commit": "2015-12-09T15:03:12Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/KrisKodira/fitPlant": {
+        "repo_http": 200,
+        "last_commit": "2020-03-26T17:24:52Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/landtanin/Ishihara": {
+        "repo_http": 200,
+        "last_commit": "2017-07-24T08:47:42Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/HMAKT99/OpenHearing": {
+        "repo_http": 200,
+        "last_commit": "2026-07-09T14:11:43Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/OpenTracksApp/OpenTracks": {
+        "repo_http": 200,
+        "last_commit": "2025-08-24T06:41:30Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/meghalagrawal/NightSight": {
+        "repo_http": 200,
+        "last_commit": "2016-07-11T05:47:11Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/j4velin/Pedometer": {
+        "repo_http": 200,
+        "last_commit": "2022-05-01T08:03:53Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/jonasoreland/runnerup": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T20:35:23Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.runnerup",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Antimatter543/mood-tracker": {
+        "repo_http": 200,
+        "last_commit": "2026-09-13T06:46:15Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/QuantumPhysique/trale": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T06:32:46Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/ankidroid/Anki-Android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T13:00:05Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.ichi2.anki",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/MummyDing/Awesome-Campus": {
+        "repo_http": 200,
+        "last_commit": "2018-06-07T14:04:55Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/pjay94/enguageapp": {
+        "repo_http": 200,
+        "last_commit": "2017-12-18T21:12:57Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/appteam-nith/festnimbus": {
+        "repo_http": 200,
+        "last_commit": "2016-11-24T14:14:12Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/tema6120/ForgetMeNot": {
+        "repo_http": 200,
+        "last_commit": "2023-04-23T09:14:58Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/jparkie/GivesMeHopeAndroidClient": {
+        "repo_http": 200,
+        "last_commit": "2020-01-05T23:00:06Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/appteam-nith/Hillffair": {
+        "repo_http": 200,
+        "last_commit": "2018-06-19T17:36:20Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/derekcsm/hubble_gallery": {
+        "repo_http": 200,
+        "last_commit": "2019-10-07T21:24:32Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/braille-systems/learn-braille": {
+        "repo_http": 200,
+        "last_commit": "2022-02-07T09:32:27Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.github.braillesystems.learnbraille",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Nightonke/LeeCo": {
+        "repo_http": 200,
+        "last_commit": "2016-05-23T02:28:23Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/NSITonline/NSIT-Connect": {
+        "repo_http": 200,
+        "last_commit": "2019-10-14T08:32:55Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/oppia/oppia-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T06:57:22Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/Neophytes/microsoft-pragyan-hackathon": {
+        "repo_http": 200,
+        "last_commit": "2017-11-01T19:17:15Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/amritsinghcse/Say-Hi": {
+        "repo_http": 200,
+        "last_commit": "2017-07-23T14:31:17Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/drakeet/Seashell-app": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/StepicOrg/stepik-android": {
+        "repo_http": 200,
+        "last_commit": "2026-05-22T12:05:42Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.stepic.droid",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/securityfirst/Umbrella_android": {
+        "repo_http": 200,
+        "last_commit": "2024-05-27T15:40:30Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/alter-ego/unisannio-reboot": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/xiprox/WaniKani-for-Android": {
+        "repo_http": 200,
+        "last_commit": "2022-07-22T13:44:24Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/forezp/banya": {
+        "repo_http": 200,
+        "last_commit": "2018-10-24T07:57:40Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/m-i-n-a-r/birday": {
+        "repo_http": 200,
+        "last_commit": "2026-03-26T15:01:00Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.minar.birday",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/apozas/contactdiary": {
+        "repo_http": 200,
+        "last_commit": "2023-09-16T18:06:58Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/hanjoongcho/aaf-easydiary": {
+        "repo_http": 200,
+        "last_commit": "2026-09-13T15:19:42Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/hanjoongcho/aaf-easyphotomap": {
+        "repo_http": 200,
+        "last_commit": "2019-01-07T15:35:09Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/hieuwu/android-groceries-store": {
+        "repo_http": 200,
+        "last_commit": "2025-10-02T14:06:32Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/2plus1star/material-prayer-times": {
+        "repo_http": 200,
+        "last_commit": "2026-09-05T23:23:50Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/2plus1star/material-quran": {
+        "repo_http": 200,
+        "last_commit": "2026-09-05T23:22:13Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/alexstyl/Memento-Calendar": {
+        "repo_http": 200,
+        "last_commit": "2021-01-10T17:48:59Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/ttl-tim/narrate-android": {
+        "repo_http": 200,
+        "last_commit": "2016-04-04T20:19:22Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/FarshidRoohi/ReminderPro": {
+        "repo_http": 200,
+        "last_commit": "2021-03-22T10:26:00Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/marianpekar/teapp": {
+        "repo_http": 200,
+        "last_commit": "2024-04-12T18:08:17Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/CedrickFlocon/wakeyouinmusic": {
+        "repo_http": 200,
+        "last_commit": "2016-04-01T10:07:01Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/vaddisrinivas/wonderfood": {
+        "repo_http": 200,
+        "last_commit": "2026-07-21T02:04:05Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mendhak/gpslogger": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T17:52:25Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.mendhak.gpslogger/",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/tumic0/gpxsee": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T22:27:08Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.gpxsee.gpxsee",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/cgeo/cgeo": {
+        "repo_http": 200,
+        "last_commit": "2026-09-13T18:48:44Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=cgeo.geocaching",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/cyclestreets/android": {
+        "repo_http": 200,
+        "last_commit": "2025-06-11T09:02:42Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=net.cyclestreets",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/spcx0701/forest-mate": {
+        "repo_http": 200,
+        "last_commit": "2026-07-24T14:42:06Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mapbox/mapbox-android-demo": {
+        "repo_http": 200,
+        "last_commit": "2024-10-07T09:01:47Z",
+        "is_archived": true,
+        "license": "BSD-2-Clause",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mapsme/omim": {
+        "repo_http": 200,
+        "last_commit": "2021-04-28T14:44:52Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/nextgis/nextgis_mobile_android": {
+        "repo_http": 200,
+        "last_commit": "2026-08-04T06:51:22Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.nextgis.mobile",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/timgreen/opaler": {
+        "repo_http": 200,
+        "last_commit": "2017-02-25T00:19:09Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/bparmentier/OpenBikeSharing": {
+        "repo_http": 200,
+        "last_commit": "2023-12-18T21:39:11Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/rectangle-dbmi/Realtime-Port-Authority": {
+        "repo_http": 200,
+        "last_commit": "2024-01-06T03:41:06Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=rectangledbmi.com.pittsburghrealtimetracker",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/hemant3370/Picoroid": {
+        "repo_http": 200,
+        "last_commit": "2017-10-25T15:39:12Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/dan-zx/rox-android": {
+        "repo_http": 200,
+        "last_commit": "2015-07-30T17:04:40Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/xcc3641/SeeWeather": {
+        "repo_http": 200,
+        "last_commit": "2020-03-03T03:22:08Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/TICESoftware/tice-android": {
+        "repo_http": 200,
+        "last_commit": "2022-01-11T14:51:51Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=app.tice.TICE.production",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/shivamsingh/Tracker": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/project-travel-mate/Travel-Mate": {
+        "repo_http": 200,
+        "last_commit": "2021-10-03T06:10:12Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/k3b/APhotoManager": {
+        "repo_http": 200,
+        "last_commit": "2022-09-05T10:03:10Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/C-Aniruddh/ACEMusicPlayer": {
+        "repo_http": 200,
+        "last_commit": "2015-01-06T11:54:16Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/abertschi/ad-free": {
+        "repo_http": 200,
+        "last_commit": "2026-08-28T14:42:26Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/daimajia/AnimeTaste": {
+        "repo_http": 200,
+        "last_commit": "2016-08-11T09:20:41Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/CyanogenMod/android_packages_apps_Apollo": {
+        "repo_http": 200,
+        "last_commit": "2015-08-23T00:27:33Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/architjn/Auro": {
+        "repo_http": 200,
+        "last_commit": "2017-04-22T06:45:03Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/deckerst/aves": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T10:50:47Z",
+        "is_archived": false,
+        "license": "BSD-3-Clause",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=deckers.thibault.aves",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/nasahapps/AwkwardRatings-Android": {
+        "repo_http": 200,
+        "last_commit": "2015-03-11T22:23:21Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/rajendra7169/blazify": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T11:10:06Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/antoniolg/Bandhook-Kotlin": {
+        "repo_http": 200,
+        "last_commit": "2018-02-10T11:33:28Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/HotBitmapGG/bilibili-android-client": {
+        "repo_http": 200,
+        "last_commit": "2019-12-17T03:51:15Z",
+        "is_archived": false,
+        "license": "WTFPL",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/recloudstream/cloudstream": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T21:41:54Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/vikingbrain/droidedmediatank": {
+        "repo_http": 200,
+        "last_commit": "2017-06-16T22:07:25Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/dkim0419/SoundRecorder": {
+        "repo_http": 200,
+        "last_commit": "2026-06-23T19:14:58Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/google/ExoPlayer": {
+        "repo_http": 200,
+        "last_commit": "2024-07-25T14:56:04Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/SubstanceMobile/GEM": {
+        "repo_http": 200,
+        "last_commit": "2017-07-16T18:18:19Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/psaravan/JamsMusicPlayer": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/jellyfin/jellyfin-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T10:20:25Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.jellyfin.mobile",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/vipulyaara/Kafka": {
+        "repo_http": 200,
+        "last_commit": "2026-04-20T21:08:16Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/PkmX/lcamera": {
+        "repo_http": 200,
+        "last_commit": "2015-10-21T13:09:39Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/lastfm/lastfm-android": {
+        "repo_http": 200,
+        "last_commit": "2014-04-24T16:02:51Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=fm.last.android",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/PaulWoitaschek/Voice": {
+        "repo_http": 200,
+        "last_commit": "2026-09-12T09:17:59Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=de.ph1b.audiobook",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/saulmm/Material-Movies": {
+        "repo_http": 200,
+        "last_commit": "2016-06-22T14:40:21Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/mostafaalagamy/Metrolist": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T16:38:04Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/MizzleDK/Mizuu": {
+        "repo_http": 200,
+        "last_commit": "2018-05-10T15:54:11Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/esoxjem/MovieGuide": {
+        "repo_http": 200,
+        "last_commit": "2025-09-23T09:40:22Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/abarisain/dmix": {
+        "repo_http": 200,
+        "last_commit": "2021-09-11T12:27:24Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/harjot-oberai/MusicDNA": {
+        "repo_http": 200,
+        "last_commit": "2019-05-31T00:41:59Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/NuvioMedia/NuvioMobile": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T11:00:56Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.nuvio.app",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/Kennyc1012/Opengur": {
+        "repo_http": 200,
+        "last_commit": "2017-02-25T22:47:29Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/Swati4star/Images-to-PDF": {
+        "repo_http": 200,
+        "last_commit": "2026-01-08T11:19:46Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/karimknaebel/Phonograph": {
+        "repo_http": 200,
+        "last_commit": "2020-09-24T22:51:16Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/podverse/podverse-rn": {
+        "repo_http": 200,
+        "last_commit": "2025-04-14T20:57:51Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.podverse",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/LagradOst/QuickNovel": {
+        "repo_http": 200,
+        "last_commit": "2026-09-09T14:29:19Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/UweTrottmann/SeriesGuide": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T11:54:45Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/trakt/showly": {
+        "repo_http": 200,
+        "last_commit": "2026-05-02T11:28:17Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.michaldrabik.showly2",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/timusus/Shuttle": {
+        "repo_http": 200,
+        "last_commit": "2022-12-28T23:40:53Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=another.music.player",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/farshed/SoundSpice-mobile": {
+        "repo_http": 200,
+        "last_commit": "2020-08-05T07:20:30Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/fyhertz/spydroid-ipcamera": {
+        "repo_http": 200,
+        "last_commit": "2018-03-12T23:51:21Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Skykai521/StickerCamera": {
+        "repo_http": 200,
+        "last_commit": "2026-06-18T11:59:06Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/JakeWharton/Telecine": {
+        "repo_http": 200,
+        "last_commit": "2020-09-09T17:23:14Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/naman14/Timber": {
+        "repo_http": 200,
+        "last_commit": "2020-10-06T05:59:02Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/chashmeetsingh/TrackMyShows": {
+        "repo_http": 200,
+        "last_commit": "2019-02-12T19:47:58Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/yonatanholdings/TrimPlayer": {
+        "repo_http": 200,
+        "last_commit": "2026-09-11T08:17:23Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.trimplayer",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Perflyst/Twire": {
+        "repo_http": 200,
+        "last_commit": "2021-04-11T10:21:41Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/android/uamp": {
+        "repo_http": 200,
+        "last_commit": "2026-01-09T15:17:00Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/vanilla-music/vanilla": {
+        "repo_http": 200,
+        "last_commit": "2024-06-23T09:32:06Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/videolan/vlc-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-11T23:17:26Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/gs666/XimalayaKotlin": {
+        "repo_http": 200,
+        "last_commit": "2022-09-26T08:12:46Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/guardianproject/ChatSecureAndroid": {
+        "repo_http": 200,
+        "last_commit": "2018-01-24T15:45:38Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/NdoleStudio/httpsms": {
+        "repo_http": 200,
+        "last_commit": "2026-09-09T19:20:43Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/irccloud/android": {
+        "repo_http": 200,
+        "last_commit": "2026-04-28T15:18:51Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.irccloud.android",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/thunderbird/thunderbird-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T10:11:10Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.fsck.k9",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/dawsonice/KissProxy": {
+        "repo_http": 200,
+        "last_commit": "2014-07-07T07:28:15Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/kontalk/androidclient": {
+        "repo_http": 200,
+        "last_commit": "2021-10-07T21:13:27Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/blurpy/kouchat-android": {
+        "repo_http": 200,
+        "last_commit": "2019-09-01T11:57:06Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=net.usikkert.kouchat.android",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/wang4yu6peng13/MaterialQQLite": {
+        "repo_http": 200,
+        "last_commit": "2015-04-16T06:25:47Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Odoo-mobile/messaging": {
+        "repo_http": 200,
+        "last_commit": "2014-11-17T10:42:01Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/madeye/proxydroid": {
+        "repo_http": 200,
+        "last_commit": "2026-05-12T06:00:06Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/RocketChat/Rocket.Chat": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T13:03:36Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/niedev/RTranslator": {
+        "repo_http": 200,
+        "last_commit": "2026-08-26T21:56:17Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/SilenceIM/Silence": {
+        "repo_http": 200,
+        "last_commit": "2020-08-16T11:55:27Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Stmol/sms-to-telegram-android-app": {
+        "repo_http": 200,
+        "last_commit": "2026-07-24T17:36:22Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/surespot/android": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.twofours.surespot",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/mogutt/TTAndroidClient": {
+        "repo_http": 200,
+        "last_commit": "2015-03-30T01:16:37Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/DrKLO/Telegram": {
+        "repo_http": 200,
+        "last_commit": "2026-08-25T11:02:54Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Anasthase/TintBrowser": {
+        "repo_http": 200,
+        "last_commit": "2015-05-29T16:53:45Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/tutao/tutanota": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T14:42:04Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=de.tutao.tutanota",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/subconcept-labs/ulangi": {
+        "repo_http": 200,
+        "last_commit": "2021-10-20T05:51:55Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/VideoFly/VideoFly": {
+        "repo_http": 200,
+        "last_commit": "2015-08-30T20:05:28Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/motianhuo/wechat": {
+        "repo_http": 200,
+        "last_commit": "2018-08-23T07:54:00Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/js-labs/WalkieTalkie": {
+        "repo_http": 200,
+        "last_commit": "2025-03-09T09:21:07Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/wireapp/wire-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T14:09:40Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.wire",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/pocmo/Yaaic": {
+        "repo_http": 200,
+        "last_commit": "2021-08-16T14:27:56Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/zulip/zulip-android-legacy": {
+        "repo_http": 200,
+        "last_commit": "2024-07-25T18:10:10Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/emirhan-duman/Crisis-Connect": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T19:38:19Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.auralis.crisisconnect",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/kinneyyan/36krReader": {
+        "repo_http": 200,
+        "last_commit": "2016-04-15T07:47:25Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/ganhuo/Android-Ganhuo": {
+        "repo_http": 200,
+        "last_commit": "2015-05-13T08:52:25Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/dodyg/AndroidRivers": {
+        "repo_http": 200,
+        "last_commit": "2015-10-06T13:59:12Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/bookdash/bookdash-android-app": {
+        "repo_http": 200,
+        "last_commit": "2025-02-12T10:45:24Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.bookdash.android",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/JohnPersano/CrimeTalk-Reader": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/pedrovgs/EffectiveAndroidUI": {
+        "repo_http": 200,
+        "last_commit": "2026-01-16T10:53:42Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/fastaccess/FastHub": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.fastaccess.github",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/FredJul/Flym": {
+        "repo_http": 200,
+        "last_commit": "2021-02-21T23:07:46Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/gdg-x/frisbee": {
+        "repo_http": 200,
+        "last_commit": "2018-09-01T16:41:55Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/andyiac/githot": {
+        "repo_http": 200,
+        "last_commit": "2023-09-13T06:06:47Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/manmal/hn-android": {
+        "repo_http": 200,
+        "last_commit": "2022-10-15T16:57:57Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/iSimar/HackerNews-React-Native": {
+        "repo_http": 200,
+        "last_commit": "2022-03-17T06:10:55Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/longdivision/hex": {
+        "repo_http": 200,
+        "last_commit": "2018-01-28T11:39:54Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/xiprox/Hummingbird-for-Android": {
+        "repo_http": 200,
+        "last_commit": "2015-06-20T17:10:20Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/liuguangqiang/Idaily": {
+        "repo_http": 200,
+        "last_commit": "2021-08-19T06:51:30Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/lzjun567/XiYuanFangApp": {
+        "repo_http": 200,
+        "last_commit": "2015-08-22T05:11:00Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/JaspervanRiet/Jager": {
+        "repo_http": 200,
+        "last_commit": "2017-11-09T16:53:12Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/ZhaoKaiQiang/JianDan": {
+        "repo_http": 200,
+        "last_commit": "2015-11-22T09:48:28Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/iKrelve/KuaiHu": {
+        "repo_http": 200,
+        "last_commit": "2015-09-07T06:13:11Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/MummyDing/Leisure": {
+        "repo_http": 200,
+        "last_commit": "2018-06-07T13:43:05Z",
+        "is_archived": false,
+        "license": "LGPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/hidroh/materialistic": {
+        "repo_http": 200,
+        "last_commit": "2023-04-15T13:55:23Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/crazyhitty/Munch": {
+        "repo_http": 200,
+        "last_commit": "2016-04-24T09:07:56Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/hitherejoe/MVVM_Hacker_News": {
+        "repo_http": 200,
+        "last_commit": "2016-02-25T23:14:16Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/hemant3370/NEWS": {
+        "repo_http": 200,
+        "last_commit": "2019-01-14T06:37:26Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/nickbutcher/plaid": {
+        "repo_http": 200,
+        "last_commit": "2020-09-28T20:16:45Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/crazyhitty/Capstone-Project": {
+        "repo_http": 200,
+        "last_commit": "2018-01-08T10:23:40Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/ogaclejapan/Qiitanium": {
+        "repo_http": 200,
+        "last_commit": "2016-02-18T13:14:31Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/QuantumBadger/RedReader": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T18:06:23Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.quantumbadger.redreader",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/xebia-functional/scala-days-android": {
+        "repo_http": 200,
+        "last_commit": "2020-03-13T12:49:54Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Haptic-Apps/Slide": {
+        "repo_http": 200,
+        "last_commit": "2022-11-25T18:47:56Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/pekebyte/somosoco": {
+        "repo_http": 200,
+        "last_commit": "2018-08-26T23:22:01Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/halzhang/StartupNews": {
+        "repo_http": 200,
+        "last_commit": "2016-08-24T08:49:32Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/commons-app/apps-android-commons": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T00:48:27Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=fr.free.nrw.commons",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/wikimedia/apps-android-wikipedia": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T05:17:04Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.wikipedia",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/malmstein/yahnac": {
+        "repo_http": 200,
+        "last_commit": "2016-09-04T16:45:47Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/race604/ZhiHuDaily-React-Native": {
+        "repo_http": 200,
+        "last_commit": "2015-12-25T14:03:53Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/happydog-intj/ZhihuDailyKotlin": {
+        "repo_http": 200,
+        "last_commit": "2015-07-26T02:29:05Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/bxbxbai/ZhuanLan": {
+        "repo_http": 200,
+        "last_commit": "2016-10-26T09:43:49Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/lolo-io/OneList": {
+        "repo_http": 200,
+        "last_commit": "2026-07-22T11:34:57Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.lolo.io.onelist",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/cpunq/bugzy": {
+        "repo_http": 200,
+        "last_commit": "2018-10-04T08:22:05Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/abhijith0505/CarbonContacts": {
+        "repo_http": 200,
+        "last_commit": "2017-05-05T16:13:37Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/blocoio/cardcase": {
+        "repo_http": 200,
+        "last_commit": "2021-12-13T11:34:52Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/hanks-zyh/Conquer": {
+        "repo_http": 200,
+        "last_commit": "2015-10-22T07:05:26Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/alistairholmes/devjournal": {
+        "repo_http": 200,
+        "last_commit": "2026-07-26T00:37:27Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/blurr-world/DeviceAnalyzer": {
+        "repo_http": 200,
+        "last_commit": "2026-08-30T08:43:26Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/PDDStudio/earthview-android": {
+        "repo_http": 200,
+        "last_commit": "2017-05-11T09:23:05Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/daimajia/EverMemo": {
+        "repo_http": 200,
+        "last_commit": "2014-07-13T01:12:34Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/diegomarzaa/expanda": {
+        "repo_http": 200,
+        "last_commit": "2026-09-09T21:38:41Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/HabitRPG/habitica-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T12:04:42Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/ivan-magda/Habito": {
+        "repo_http": 200,
+        "last_commit": "2018-06-19T17:53:26Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mohak1712/Insta-Chat": {
+        "repo_http": 200,
+        "last_commit": "2017-05-01T04:44:26Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/InstaList/instalist-android": {
+        "repo_http": 200,
+        "last_commit": "2016-10-13T21:30:01Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/laurent22/joplin": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T22:15:06Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/KashCal/KashCal": {
+        "repo_http": 200,
+        "last_commit": "2026-09-13T02:20:25Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/AmrDeveloper/LinkHub": {
+        "repo_http": 200,
+        "last_commit": "2026-08-09T18:43:25Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.amrdeveloper.linkhub",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/LinkoraApp/Linkora": {
+        "repo_http": 200,
+        "last_commit": "2026-09-12T21:26:14Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/Shouheng88/MarkNote": {
+        "repo_http": 200,
+        "last_commit": "2021-11-11T07:22:05Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/yaa110/Memento": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/avjinder/Minimal-Todo": {
+        "repo_http": 200,
+        "last_commit": "2018-11-13T06:54:50Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/luong-komorebi/Minitask": {
+        "repo_http": 200,
+        "last_commit": "2017-11-28T15:03:34Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mhss1/MyBrain": {
+        "repo_http": 200,
+        "last_commit": "2026-08-20T16:56:08Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/trynoice/android-app": {
+        "repo_http": 200,
+        "last_commit": "2024-08-04T11:28:42Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/lguipeng/Notes": {
+        "repo_http": 200,
+        "last_commit": "2017-01-02T03:56:08Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/astraedus/nudge": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T05:13:10Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=dev.astraedus.nudge",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/allgood/OpenNoteScanner": {
+        "repo_http": 200,
+        "last_commit": "2025-02-12T10:39:03Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.todobom.opennotescanner",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/bmelnychuk/outlay": {
+        "repo_http": 200,
+        "last_commit": "2019-09-09T15:02:42Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/owncloud/android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T06:11:41Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.owncloud.android",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/a-ghorbani/pocketpal-ai": {
+        "repo_http": 200,
+        "last_commit": "2026-09-11T20:56:44Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/vickychijwani/quill": {
+        "repo_http": 200,
+        "last_commit": "2018-01-07T10:56:33Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/blanyal/Remindly": {
+        "repo_http": 200,
+        "last_commit": "2016-02-08T18:18:36Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/sak96/read_later": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T06:24:14Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=io.github.sak.read.it.later",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/RitwickVerma/ShutUp": {
+        "repo_http": 200,
+        "last_commit": "2019-10-24T10:28:49Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/skiff-org/skiff-apps": {
+        "repo_http": 200,
+        "last_commit": "2024-12-12T06:04:14Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/super-productivity/super-productivity": {
+        "repo_http": 200,
+        "last_commit": "2026-09-13T14:34:40Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/adrianchifor/Swiftnotes": {
+        "repo_http": 200,
+        "last_commit": "2018-10-20T12:12:47Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/renard314/textfairy": {
+        "repo_http": 200,
+        "last_commit": "2020-11-12T10:34:45Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.renard.ocr",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/todotxt/todo.txt-android": {
+        "repo_http": 200,
+        "last_commit": "2018-03-19T18:50:54Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/k3b/ToGoZip": {
+        "repo_http": 200,
+        "last_commit": "2023-04-24T15:15:59Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/geminiwen/tudounotepad": {
+        "repo_http": 200,
+        "last_commit": "2015-07-21T08:17:35Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/vmihalachi/turbo-editor": {
+        "repo_http": 200,
+        "last_commit": "2019-11-08T09:37:34Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/prabhakar267/vertikin": {
+        "repo_http": 200,
+        "last_commit": "2024-10-29T21:48:54Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/wangdan/AisenWeiBo": {
+        "repo_http": 200,
+        "last_commit": "2024-04-28T06:29:31Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Barinsta/barinsta": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/andforce/iBeebo": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/PaperAirplane-Dev-Team/BlackLight": {
+        "repo_http": 200,
+        "last_commit": "2016-07-08T05:51:22Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/crashlytics/cannonball-android": {
+        "repo_http": 200,
+        "last_commit": "2018-06-26T15:39:31Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/iwhys/CNode-android": {
+        "repo_http": 200,
+        "last_commit": "2015-04-28T06:00:42Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/wlemuel/Cotable": {
+        "repo_http": 200,
+        "last_commit": "2020-06-30T14:18:29Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/DreaminginCodeZH/Douya": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/ikew0ng/Dribbo": {
+        "repo_http": 200,
+        "last_commit": "2014-08-23T12:51:04Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/konifar/droidkaigi2016": {
+        "repo_http": 200,
+        "last_commit": "2018-09-26T09:56:58Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/oikomi/FishChatAndroid": {
+        "repo_http": 200,
+        "last_commit": "2015-02-15T15:48:41Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/jonan/ForkHub": {
+        "repo_http": 200,
+        "last_commit": "2018-04-04T20:37:12Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/Jeffmen/Git.NB": {
+        "repo_http": 200,
+        "last_commit": "2017-04-22T14:22:55Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/dheerajkotwani/GithubVisualizer": {
+        "repo_http": 200,
+        "last_commit": "2021-04-21T11:44:11Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/gitpoint/git-point": {
+        "repo_http": 200,
+        "last_commit": "2020-10-31T20:04:04Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/gitskarios/Gitskarios": {
+        "repo_http": 200,
+        "last_commit": "2018-12-28T18:16:34Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/google/iosched": {
+        "repo_http": 200,
+        "last_commit": "2023-01-05T18:35:50Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/rgocal/GSD_Mobile": {
+        "repo_http": 200,
+        "last_commit": "2017-02-25T12:37:59Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/egor-n/gunnner": {
+        "repo_http": 200,
+        "last_commit": "2018-03-17T17:24:45Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/JerrySJoseph/Helping_Hands_Android_client": {
+        "repo_http": 200,
+        "last_commit": "2021-05-10T04:24:18Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/erincandescent/Impeller": {
+        "repo_http": 200,
+        "last_commit": "2014-11-15T14:49:39Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/hemant3370/Insta": {
+        "repo_http": 200,
+        "last_commit": "2019-02-26T13:38:55Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/frogermcs/InstaMaterial": {
+        "repo_http": 200,
+        "last_commit": "2016-10-26T19:25:37Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/kickstarter/android-oss": {
+        "repo_http": 200,
+        "last_commit": "2026-09-03T16:32:19Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mastodon/mastodon-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-04T21:09:16Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.joinmastodon.android",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/mcxiaoke/minicat": {
+        "repo_http": 200,
+        "last_commit": "2017-04-05T09:55:24Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/yshrsmz/monotweety": {
+        "repo_http": 200,
+        "last_commit": "2020-12-12T14:51:30Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/CycloneAxe/phphub-android": {
+        "repo_http": 200,
+        "last_commit": "2017-06-26T01:01:30Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/pockethub/PocketHub": {
+        "repo_http": 200,
+        "last_commit": "2020-04-11T14:16:07Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/ribot/ribot-app-android": {
+        "repo_http": 200,
+        "last_commit": "2018-06-01T13:10:52Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/shadowsocks/shadowsocks-android": {
+        "repo_http": 200,
+        "last_commit": "2026-02-10T06:43:48Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.github.shadowsocks",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/prathmeshranaut/skooterapp": {
+        "repo_http": 200,
+        "last_commit": "2021-04-11T22:28:37Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/klinker24/talon-twitter-holo": {
+        "repo_http": 200,
+        "last_commit": "2018-07-04T16:53:43Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/TEDxTehran-Team/event-app-android": {
+        "repo_http": 200,
+        "last_commit": "2021-11-16T22:59:03Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mcofie/Tik-Tok-App-Clone-Flutter": {
+        "repo_http": 200,
+        "last_commit": "2019-06-05T21:29:44Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/jydimir/Twiader": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/greatyao/v2ex-android": {
+        "repo_http": 200,
+        "last_commit": "2019-05-29T14:06:11Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/micahlt/wasteof.mobile": {
+        "repo_http": 200,
+        "last_commit": "2025-07-23T23:40:48Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Leaking/WeGit": {
+        "repo_http": 200,
+        "last_commit": "2016-12-09T15:10:34Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/qii/weiciyuan": {
+        "repo_http": 200,
+        "last_commit": "2015-10-29T12:05:08Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/wordpress-mobile/WordPress-Android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T13:31:31Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.wordpress.android",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/crackededed/Xtra": {
+        "repo_http": 200,
+        "last_commit": "2026-09-04T18:29:08Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/FreedomZZQ/YouJoin-Android": {
+        "repo_http": 200,
+        "last_commit": "2016-07-17T09:24:49Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/sdex/activitymanager": {
+        "repo_http": 200,
+        "last_commit": "2026-07-22T05:28:21Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.activitymanager/",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/twofas/2fas-android": {
+        "repo_http": 200,
+        "last_commit": "2026-08-29T14:25:54Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.twofasapp",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/AChep/AcDisplay": {
+        "repo_http": 200,
+        "last_commit": "2020-07-18T08:04:34Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.achep.acdisplay",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector": {
+        "repo_http": 200,
+        "last_commit": "2026-09-04T22:30:27Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/1hakr/AnExplorer": {
+        "repo_http": 200,
+        "last_commit": "2026-06-02T03:49:11Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/AndlyticsProject/andlytics": {
+        "repo_http": 200,
+        "last_commit": "2019-10-13T12:28:27Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/AntonioRedondo/AnotherMonitor": {
+        "repo_http": 200,
+        "last_commit": "2023-01-23T09:51:38Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/8enet/AppOpsX": {
+        "repo_http": 200,
+        "last_commit": "2019-01-29T01:57:33Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/zxing/zxing": {
+        "repo_http": 200,
+        "last_commit": "2026-09-01T16:34:04Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/ni554n/battarang-notifier-android": {
+        "repo_http": 200,
+        "last_commit": "2026-04-20T22:17:23Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.anissan.battarang",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/javiersantos/WhatsAppBetaUpdater": {
+        "repo_http": 200,
+        "last_commit": "2020-01-28T17:35:16Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/asksven/BetterBatteryStats": {
+        "repo_http": 200,
+        "last_commit": "2023-05-08T17:07:36Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/markusfisch/BinaryEye": {
+        "repo_http": 200,
+        "last_commit": "2026-09-09T20:09:56Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/mthli/Bitocle": {
+        "repo_http": 200,
+        "last_commit": "2015-02-06T02:45:31Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/akexorcist/Android-BluetoothSimple": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/BookStackApp/BookStack": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T18:20:14Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/brevent/Brevent": {
+        "repo_http": 200,
+        "last_commit": "2026-02-25T09:20:12Z",
+        "is_archived": false,
+        "license": "WTFPL",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=me.piebridge.brevent",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/tvbarthel/CameraColorPicker": {
+        "repo_http": 200,
+        "last_commit": "2017-03-28T18:51:27Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/emmaguy/clean-status-bar": {
+        "repo_http": 200,
+        "last_commit": "2020-08-01T19:10:06Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/heruoxin/Clip-Stack": {
+        "repo_http": 200,
+        "last_commit": "2019-02-20T05:41:17Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.catchingnow.tinyclipboardmanager",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/hasanzadee/cloudflare-mobile": {
+        "repo_http": 200,
+        "last_commit": "2026-08-03T21:05:05Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/vaddisrinivas/codecks": {
+        "repo_http": 200,
+        "last_commit": "2026-08-09T02:04:51Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/connectbot/connectbot": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T05:11:58Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.connectbot",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/k3b/ContentProviderHelper": {
+        "repo_http": 200,
+        "last_commit": "2022-10-25T19:40:55Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/cryptomator/android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T14:26:13Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.cryptomator",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/romannurik/dashclock": {
+        "repo_http": 200,
+        "last_commit": "2017-03-09T04:23:02Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/bitfireAT/davx5-ose": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T11:30:34Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=at.bitfire.davdroid",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Manabu-GT/DesignOverlay-Android": {
+        "repo_http": 200,
+        "last_commit": "2025-10-31T06:36:24Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/T-Spoon/Android-Developer-Toolbelt": {
+        "repo_http": 200,
+        "last_commit": "2015-04-19T12:48:03Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/amartinz/DeviceControl": {
+        "repo_http": 200,
+        "last_commit": "2016-08-19T17:31:46Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Odrin/Droid-Watcher": {
+        "repo_http": 200,
+        "last_commit": "2021-01-20T10:57:35Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/duckduckgo/android-browser": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/geometer/FBReaderJ": {
+        "repo_http": 200,
+        "last_commit": "2017-06-11T20:36:56Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/roozbehzarei/filester": {
+        "repo_http": 200,
+        "last_commit": "2026-08-24T14:11:50Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mozilla-mobile/fenix": {
+        "repo_http": 200,
+        "last_commit": "2023-02-20T10:15:34Z",
+        "is_archived": true,
+        "license": "MPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/mozilla-mobile/focus-android": {
+        "repo_http": 200,
+        "last_commit": "2022-12-12T18:05:17Z",
+        "is_archived": true,
+        "license": "MPL-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.mozilla.focus",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/signalapp/Flock": {
+        "repo_http": 200,
+        "last_commit": "2015-10-20T11:42:46Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/zerx-lab/FluxDown": {
+        "repo_http": 200,
+        "last_commit": "2026-09-09T17:03:31Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/martykan/forecastie": {
+        "repo_http": 200,
+        "last_commit": "2025-12-07T22:18:34Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/dlew/android-gfycat": {
+        "repo_http": 200,
+        "last_commit": "2017-01-09T05:45:05Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/Darkmintis/GitStore": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T04:17:42Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/christiandeange/github-status": {
+        "repo_http": 200,
+        "last_commit": "2018-03-12T07:31:50Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/komi-store/komi-store": {
+        "repo_http": 200,
+        "last_commit": "2026-09-04T10:31:16Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/qqq3/good-weather": {
+        "repo_http": 200,
+        "last_commit": "2026-03-16T04:09:47Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/Rzuss/granular-volume": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T11:23:38Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/inmite/android-grid-wichterle": {
+        "repo_http": 200,
+        "last_commit": "2014-01-21T19:59:09Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/hash-checker/hash-checker": {
+        "repo_http": 200,
+        "last_commit": "2025-08-28T06:22:12Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/mayokunadeniyi/Instant-Weather": {
+        "repo_http": 200,
+        "last_commit": "2024-06-04T22:47:19Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.mayokunadeniyi.instantweather",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/intrications/intent-intercept": {
+        "repo_http": 200,
+        "last_commit": "2016-08-19T14:45:00Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/StellarSand/IYPS": {
+        "repo_http": 200,
+        "last_commit": "2026-08-25T01:05:13Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.iyps",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/wingjay/jianshi": {
+        "repo_http": 200,
+        "last_commit": "2018-08-17T05:23:24Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/KDE/kdeconnect-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T12:19:57Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/proninyaroslav/libretorrent": {
+        "repo_http": 200,
+        "last_commit": "2026-07-24T16:01:52Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/ZeusChan/LittleFreshWeather": {
+        "repo_http": 200,
+        "last_commit": "2018-06-20T11:10:43Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/WilderPereira/lmgtfyGen": {
+        "repo_http": 200,
+        "last_commit": "2017-10-08T19:03:05Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/shivamsingh/lockit": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.lockit",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/captswag/material-color-picker": {
+        "repo_http": 200,
+        "last_commit": "2015-08-29T12:56:29Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/HozakaN/MaterialDesignColorPalette": {
+        "repo_http": 200,
+        "last_commit": "2014-11-22T11:51:01Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/oxoooo/materialize": {
+        "repo_http": 200,
+        "last_commit": "2015-12-08T17:22:08Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/eo/mdx": {
+        "repo_http": 200,
+        "last_commit": "2016-05-24T15:49:42Z",
+        "is_archived": true,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/maks/MGit": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T06:30:50Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.manichord.mgit",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/javiersantos/MLManager": {
+        "repo_http": 200,
+        "last_commit": "2020-01-28T17:35:31Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/javiersantos/Moticons": {
+        "repo_http": 200,
+        "last_commit": "2023-12-01T08:42:11Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/Tasssadar/MultiROMMgr": {
+        "repo_http": 200,
+        "last_commit": "2016-03-05T13:24:09Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Nevolution/sdk": {
+        "repo_http": 200,
+        "last_commit": "2019-03-07T06:50:31Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/mthli/Ninja": {
+        "repo_http": 200,
+        "last_commit": "2015-06-29T08:49:41Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/nodelook/android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T13:33:18Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/OmGodse/Notally": {
+        "repo_http": 200,
+        "last_commit": "2026-05-21T08:00:35Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.omgodse.notally",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/MPieter/Notification-Analyser": {
+        "repo_http": 200,
+        "last_commit": "2014-12-07T20:56:04Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/ImranR98/Obtainium": {
+        "repo_http": 200,
+        "last_commit": "2026-09-13T22:09:36Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/off-grid-ai/OGAM": {
+        "repo_http": 200,
+        "last_commit": "2026-09-11T00:46:30Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/ThirtyDegreesRay/OpenHub": {
+        "repo_http": 200,
+        "last_commit": "2021-03-21T10:35:22Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/eolwral/OSMonitor": {
+        "repo_http": 200,
+        "last_commit": "2016-08-28T17:26:00Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/littledot/Permission-Nanny": {
+        "repo_http": 200,
+        "last_commit": "2017-01-10T03:29:20Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/afollestad/photo-affix": {
+        "repo_http": 200,
+        "last_commit": "2020-02-24T19:49:55Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/umarpazir11/pocketsage": {
+        "repo_http": 200,
+        "last_commit": "2026-05-08T20:59:55Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/yuzumone/PokePortal": {
+        "repo_http": 200,
+        "last_commit": "2017-09-24T04:20:33Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/SimonMarquis/Android-PreferencesManager": {
+        "repo_http": 200,
+        "last_commit": "2016-05-11T18:25:21Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=fr.simon.marquis.preferencesmanager",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/prey/prey-android-client": {
+        "repo_http": 200,
+        "last_commit": "2026-06-15T15:09:04Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.prey",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/stedi-akk/RandomImageGeneratorApp": {
+        "repo_http": 200,
+        "last_commit": "2018-07-28T21:12:39Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.stedi.randomimagegenerator.app",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/LibreShift/red-moon": {
+        "repo_http": 200,
+        "last_commit": "2025-12-08T22:11:51Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/google/ringdroid": {
+        "repo_http": 200,
+        "last_commit": "2016-12-03T06:13:35Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/SmartDengg/RxWeather": {
+        "repo_http": 200,
+        "last_commit": "2016-05-15T09:30:10Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/naman14/S-Tools": {
+        "repo_http": 200,
+        "last_commit": "2015-03-05T12:11:49Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/SimonMarquis/Android-SecretCodes": {
+        "repo_http": 200,
+        "last_commit": "2017-02-05T10:06:11Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=fr.simon.marquis.secretcodes",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/drakeet/SmsCodeHelper": {
+        "repo_http": 404,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=me.drakeet.inmessage",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/fm-sys/pairdrop-android": {
+        "repo_http": 200,
+        "last_commit": "2026-05-12T10:47:16Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.fmsys.snapdrop",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/TheAndroidMaster/Status": {
+        "repo_http": 200,
+        "last_commit": "2018-10-11T00:41:27Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/premnirmal/StockTicker": {
+        "repo_http": 200,
+        "last_commit": "2026-08-12T13:50:10Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/joyoyao/superCleanMaster": {
+        "repo_http": 200,
+        "last_commit": "2018-10-24T07:22:00Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/trikita/talalarmo": {
+        "repo_http": 200,
+        "last_commit": "2016-10-24T02:23:04Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/jackpal/Android-Terminal-Emulator": {
+        "repo_http": 200,
+        "last_commit": "2020-10-20T20:41:23Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/Toolwiz/ToolWizAppLock": {
+        "repo_http": 200,
+        "last_commit": "2015-07-23T13:59:41Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/TrackerControl/tracker-control-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T10:38:33Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/xebia-functional/translate-bubble-android": {
+        "repo_http": 200,
+        "last_commit": "2020-01-08T19:22:34Z",
+        "is_archived": true,
+        "license": null,
+        "is_foss": false,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/maoruibin/TranslateApp": {
+        "repo_http": 200,
+        "last_commit": "2019-12-11T02:27:24Z",
+        "is_archived": true,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/dkhmelenko/Varis-Android": {
+        "repo_http": 200,
+        "last_commit": "2020-05-03T09:20:08Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/dgmltn/Android-UPnP-Browser": {
+        "repo_http": 200,
+        "last_commit": "2016-10-20T03:34:02Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": false,
+        "stores_status": []
+    },
+    "https://github.com/SimonMarquis/Android-UrlSchemeInterceptor": {
+        "repo_http": 200,
+        "last_commit": "2022-10-09T18:26:48Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=fr.smarquis.usi.sample",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/2dust/v2rayNG": {
+        "repo_http": 200,
+        "last_commit": "2026-09-13T01:51:57Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/polilluminato/wassword-flutter": {
+        "repo_http": 200,
+        "last_commit": "2025-12-28T14:35:37Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.albertobonacina.wassword",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/jimale/WhatsDeleted": {
+        "repo_http": 200,
+        "last_commit": "2026-08-19T06:38:26Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.tiriig.whatsdeleted",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/bparmentier/WiFiKeyShare": {
+        "repo_http": 200,
+        "last_commit": "2018-10-30T22:38:33Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/parmstrong842/WorkTracker": {
+        "repo_http": 200,
+        "last_commit": "2024-10-29T02:58:05Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/lparam/xSocks-android": {
+        "repo_http": 200,
+        "last_commit": "2015-11-21T06:04:22Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
+    },
+    "https://github.com/Abir-Tx/XWriter": {
+        "repo_http": 200,
+        "last_commit": "2021-05-17T09:25:23Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "has_release": true,
+        "stores_status": []
     }
 }
