@@ -15,6 +15,85 @@
       "description": "A beautiful open-source wallpapers app for Android. It is built with Dart on top of Google's Flutter Framework. Prism relies on its Community and WallHaven and Pexels APIs as its source of beautiful and large collection of Wallpapers.",
       "source": "https://github.com/Hash-Studios/Prism",
       "playstore": "https://play.google.com/store/apps/details?id=com.hash.prism"
+    },
+    {
+      "name": "10-bit Clock Widget",
+      "description": "A unique clock widget that uses 10 binary dots to represent the time.",
+      "source": "https://github.com/ashutoshgngwr/10-bitClockWidget"
+    },
+    {
+      "name": "Adaptive Theme",
+      "description": "Uses the light sensor to auto-switch the Android dark mode based on ambient light.",
+      "source": "https://github.com/xLexip/Adaptive-Theme",
+      "playstore": "https://play.google.com/store/apps/details?id=dev.lexip.hecate"
+    },
+    {
+      "name": "CandyBar",
+      "description": "A popular, open-source dashboard library for creating Android icon packs.",
+      "source": "https://github.com/zixpo/candybar"
+    },
+    {
+      "name": "IconShowcase",
+      "description": "A Material Design dashboard specifically made for showcasing icon packs.",
+      "source": "https://github.com/jahirfiquitiva/IconShowcase"
+    },
+    {
+      "name": "Kvaesitso",
+      "description": "A search-focused, free and open-source launcher for Android.",
+      "source": "https://github.com/MM2-0/Kvaesitso"
+    },
+    {
+      "name": "Lens Launcher",
+      "description": "A unique launcher that displays all your apps in a graphical fisheye lens view.",
+      "source": "https://github.com/ricknout/lens-launcher",
+      "playstore": "https://play.google.com/store/apps/details?id=nickrout.lenslauncher"
+    },
+    {
+      "name": "LoneColor",
+      "description": "A zero-interface app to set a beautiful, single-color wallpaper with one tap.",
+      "source": "https://github.com/tecdrop/LoneColor",
+      "playstore": "https://play.google.com/store/apps/details?id=com.appgramming.lonecolor"
+    },
+    {
+      "name": "Lunar Launcher",
+      "description": "A feature-rich, open-source home screen replacement for Android.",
+      "source": "https://github.com/iamrasel/lunar-launcher"
+    },
+    {
+      "name": "Micopi",
+      "description": "An app that generates unique, geometric images for your contacts.",
+      "source": "https://github.com/easytarget2000/micopi_android"
+    },
+    {
+      "name": "Muzei Live Wallpaper",
+      "description": "A live wallpaper that gently refreshes your home screen each day with famous works of art.",
+      "source": "https://github.com/muzei/muzei",
+      "playstore": "https://play.google.com/store/apps/details?id=net.nurik.roman.muzei"
+    },
+    {
+      "name": "Polar Dashboard",
+      "description": "A professional and easily configurable dashboard for icon packs.",
+      "source": "https://github.com/afollestad/polar-dashboard"
+    },
+    {
+      "name": "thumb-key",
+      "description": "A privacy-conscious keyboard designed for efficient two-thumb typing.",
+      "source": "https://github.com/dessalines/thumb-key"
+    },
+    {
+      "name": "WallpaperStore",
+      "description": "A wallpaper application developed using Kotlin.",
+      "source": "https://github.com/zzhoujay/WallpaperStore"
+    },
+    {
+      "name": "wall-splash-android",
+      "description": "An open-source Android client for the high-resolution photo service Unsplash.com.",
+      "source": "https://github.com/mikepenz/wallsplash-android"
+    },
+    {
+      "name": "Wally",
+      "description": "A fast and efficient open-source wallpaper application for Android.",
+      "source": "https://github.com/musenkishi/wally"
     }
   ]
 }

@@ -8,6 +8,104 @@
             "source": "https://github.com/aeri/Nihonoari-App",
             "fdroid": "https://f-droid.org/en/packages/com.LAPARCELA.nihonoari/",
             "playstore": "https://play.google.com/store/apps/details?id=com.LAPARCELA.nihonoari"
+        },
+        {
+            "name": "AnkiDroid",
+            "description": "A powerful, intelligent flashcard app that uses spaced repetition.",
+            "source": "https://github.com/ankidroid/Anki-Android",
+            "playstore": "https://play.google.com/store/apps/details?id=com.ichi2.anki"
+        },
+        {
+            "name": "Awesome-Campus",
+            "description": "An Android app for students of Jiangxi Normal University.",
+            "source": "https://github.com/MummyDing/Awesome-Campus"
+        },
+        {
+            "name": "Enguage",
+            "description": "A mobile app for Polish speakers to learn English spelling and phrasal verbs.",
+            "source": "https://github.com/pjay94/enguageapp"
+        },
+        {
+            "name": "festnimbus",
+            "description": "An open-source college app for the technical fest of NIT Hamirpur, India.",
+            "source": "https://github.com/appteam-nith/festnimbus"
+        },
+        {
+            "name": "ForgetMeNot",
+            "description": "A simple and user-friendly flashcard application for Android.",
+            "source": "https://github.com/tema6120/ForgetMeNot"
+        },
+        {
+            "name": "GivesMeHope",
+            "description": "An unofficial Android client for the Gives Me Hope website for educational purposes.",
+            "source": "https://github.com/jparkie/GivesMeHopeAndroidClient"
+        },
+        {
+            "name": "Hillffair",
+            "description": "The official open-source app for the cultural fest of NIT Hamirpur, India.",
+            "source": "https://github.com/appteam-nith/Hillffair"
+        },
+        {
+            "name": "Hubble Gallery",
+            "description": "An app to view, save, and read about the Hubble Telescope's best images.",
+            "source": "https://github.com/derekcsm/hubble_gallery"
+        },
+        {
+            "name": "Learn Braille",
+            "description": "A screen-reader compatible app for studying the Russian Braille alphabet.",
+            "source": "https://github.com/braille-systems/learn-braille",
+            "playstore": "https://play.google.com/store/apps/details?id=com.github.braillesystems.learnbraille"
+        },
+        {
+            "name": "LeeCo",
+            "description": "An app for algorithm problems, solutions, and discussions from LeetCode.",
+            "source": "https://github.com/Nightonke/LeeCo"
+        },
+        {
+            "name": "NSIT Connect",
+            "description": "The official companion app for students of Netaji Subhas University of Technology.",
+            "source": "https://github.com/NSITonline/NSIT-Connect"
+        },
+        {
+            "name": "Oppia",
+            "description": "An interactive learning app that enables users to create and share lessons.",
+            "source": "https://github.com/oppia/oppia-android"
+        },
+        {
+            "name": "Sahayak",
+            "description": "A fun-filled educational tool aimed at rural children and adults in India.",
+            "source": "https://github.com/Neophytes/microsoft-pragyan-hackathon"
+        },
+        {
+            "name": "Say-Hi",
+            "description": "An app to help understand different English accents around the world.",
+            "source": "https://github.com/amritsinghcse/Say-Hi"
+        },
+        {
+            "name": "Seashell-app",
+            "description": "The official Android client for the \"\u8d1d\u58f3\u5355\u8bcd\" (Seashell Words) app.",
+            "source": "https://github.com/drakeet/Seashell-app"
+        },
+        {
+            "name": "Stepik",
+            "description": "An app offering free, certificate-based online courses on various subjects.",
+            "source": "https://github.com/StepicOrg/stepik-android",
+            "playstore": "https://play.google.com/store/apps/details?id=org.stepic.droid"
+        },
+        {
+            "name": "Umbrella",
+            "description": "An app to learn about digital and physical security, from comms to kidnapping.",
+            "source": "https://github.com/securityfirst/Umbrella_android"
+        },
+        {
+            "name": "Unisannio",
+            "description": "An app for students of the University of Sannio, Italy.",
+            "source": "https://github.com/alter-ego/unisannio-reboot"
+        },
+        {
+            "name": "WaniKani for Android",
+            "description": "An Android client for the popular kanji learning website wanikani.com.",
+            "source": "https://github.com/xiprox/WaniKani-for-Android"
         }
     ]
 }

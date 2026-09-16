@@ -52,6 +52,87 @@
             "fdroid": "https://f-droid.org/packages/de.grobox.liberario",
             "playstore": "https://play.google.com/store/apps/details?id=de.grobox.liberario",
             "website": "https://transportr.app"
+        },
+        {
+            "name": "c:geo",
+            "description": "A full-featured, open-source client for geocaching and other geocaching platforms.",
+            "source": "https://github.com/cgeo/cgeo",
+            "playstore": "https://play.google.com/store/apps/details?id=cgeo.geocaching"
+        },
+        {
+            "name": "CycleStreets",
+            "description": "A UK-wide cycle journey planner designed by cyclists, for cyclists.",
+            "source": "https://github.com/cyclestreets/android",
+            "playstore": "https://play.google.com/store/apps/details?id=net.cyclestreets"
+        },
+        {
+            "name": "ForestMate",
+            "description": "A hiking safety companion using forest public data: risk prediction, offline fallback, one-tap SOS, and a Wear OS companion.",
+            "source": "https://github.com/spcx0701/forest-mate"
+        },
+        {
+            "name": "Mapbox Dev Preview",
+            "description": "A developer preview app showcasing the features of the Mapbox Maps SDK for Android.",
+            "source": "https://github.com/mapbox/mapbox-android-demo"
+        },
+        {
+            "name": "Maps.me",
+            "description": "An offline map application based on OpenStreetMap data.",
+            "source": "https://github.com/mapsme/omim",
+            "playstore": "https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro"
+        },
+        {
+            "name": "NextGIS Mobile",
+            "description": "A full-featured GIS application for creating and editing map data on the go.",
+            "source": "https://github.com/nextgis/nextgis_mobile_android",
+            "playstore": "https://play.google.com/store/apps/details?id=com.nextgis.mobile"
+        },
+        {
+            "name": "Opaler",
+            "description": "A public transport card manager for the Opal card system in Sydney, Australia.",
+            "source": "https://github.com/timgreen/opaler"
+        },
+        {
+            "name": "OpenBikeSharing",
+            "description": "An app to check the availability of shared bikes in your city.",
+            "source": "https://github.com/bparmentier/OpenBikeSharing"
+        },
+        {
+            "name": "PAT Track",
+            "description": "A real-time bus tracker for the Port Authority of Allegheny County in Pittsburgh, PA.",
+            "source": "https://github.com/rectangle-dbmi/Realtime-Port-Authority",
+            "playstore": "https://play.google.com/store/apps/details?id=rectangledbmi.com.pittsburghrealtimetracker"
+        },
+        {
+            "name": "Picoroid",
+            "description": "An app that shows Panoramio images around the user's current location. (Archived)",
+            "source": "https://github.com/hemant3370/Picoroid"
+        },
+        {
+            "name": "RoX for Android",
+            "description": "An Android application for tourism recommendations.",
+            "source": "https://github.com/dan-zx/rox-android"
+        },
+        {
+            "name": "SeeWeather",
+            "description": "A weather app built with RxJava, Retrofit, and Material Design.",
+            "source": "https://github.com/xcc3641/SeeWeather"
+        },
+        {
+            "name": "TICE",
+            "description": "A secure, real-time location sharing app for meeting up with friends and family.",
+            "source": "https://github.com/TICESoftware/tice-android",
+            "playstore": "https://play.google.com/store/apps/details?id=app.tice.TICE.production"
+        },
+        {
+            "name": "Tracker",
+            "description": "A simple location tracker that updates a map and UI in a reactive way. (Archived)",
+            "source": "https://github.com/shivamsingh/Tracker"
+        },
+        {
+            "name": "Travel Mate",
+            "description": "An app designed to be a complete travel guide for your trips. (Archived)",
+            "source": "https://github.com/project-travel-mate/Travel-Mate"
         }
     ]
 }

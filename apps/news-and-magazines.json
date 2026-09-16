@@ -1,0 +1,201 @@
+{
+    "title": "News & Magazines",
+    "emoji": "\ud83d\udcf0",
+    "apps": [
+        {
+            "name": "36krReader",
+            "description": "A Material Design client for the Chinese tech news site 36kr.com.",
+            "source": "https://github.com/kinneyyan/36krReader"
+        },
+        {
+            "name": "Android-Ganhuo",
+            "description": "The official Android client for the Chinese tech content aggregator ganhuo.io.",
+            "source": "https://github.com/ganhuo/Android-Ganhuo"
+        },
+        {
+            "name": "AndroidRivers",
+            "description": "An \"anxiety-free\" news reader for Android, written in Kotlin.",
+            "source": "https://github.com/dodyg/AndroidRivers"
+        },
+        {
+            "name": "Book Dash",
+            "description": "An app to download free children's books in different languages from the NPO.",
+            "source": "https://github.com/bookdash/bookdash-android-app",
+            "playstore": "https://play.google.com/store/apps/details?id=org.bookdash.android"
+        },
+        {
+            "name": "CrimeTalk Reader",
+            "description": "A lightweight and minimalistic reader for CrimeTalk articles. (Archived)",
+            "source": "https://github.com/JohnPersano/CrimeTalk-Reader"
+        },
+        {
+            "name": "EffectiveAndroidUI",
+            "description": "A sample project demonstrating best practices for the Android UI Layer (MVP/MVVM).",
+            "source": "https://github.com/pedrovgs/EffectiveAndroidUI"
+        },
+        {
+            "name": "FastHub",
+            "description": "A feature-rich, open-source GitHub client for Android.",
+            "source": "https://github.com/fastaccess/FastHub",
+            "playstore": "https://play.google.com/store/apps/details?id=com.fastaccess.github"
+        },
+        {
+            "name": "Flym News Reader",
+            "description": "A light, modern, and open-source RSS feed reader for Android.",
+            "source": "https://github.com/FredJul/Flym"
+        },
+        {
+            "name": "frisbee",
+            "description": "An Android application for members of Google Developer Groups (GDG).",
+            "source": "https://github.com/gdg-x/frisbee"
+        },
+        {
+            "name": "GitHot",
+            "description": "An app to help you find the world's most popular projects and developers on GitHub.",
+            "source": "https://github.com/andyiac/githot"
+        },
+        {
+            "name": "Hacker News (by manmal)",
+            "description": "A simple and clean Hacker News client for Android.",
+            "source": "https://github.com/manmal/hn-android"
+        },
+        {
+            "name": "HackerNews-React-Native",
+            "description": "A Hacker News client for iOS and Android, built with React Native.",
+            "source": "https://github.com/iSimar/HackerNews-React-Native"
+        },
+        {
+            "name": "Hex for Hacker News",
+            "description": "A snappy and fun Hacker News app with a focus on design. (Archived)",
+            "source": "https://github.com/longdivision/hex"
+        },
+        {
+            "name": "Hummingbird",
+            "description": "A modern client for the anime tracking website Hummingbird.me (now Kitsu).",
+            "source": "https://github.com/xiprox/Hummingbird-for-Android"
+        },
+        {
+            "name": "Idaily",
+            "description": "A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava.",
+            "source": "https://github.com/liuguangqiang/Idaily"
+        },
+        {
+            "name": "ImportNew",
+            "description": "The official Android app for the Chinese tech blog ImportNew.com.",
+            "source": "https://github.com/lzjun567/XiYuanFangApp"
+        },
+        {
+            "name": "Jager",
+            "description": "An unofficial client for Product Hunt with a Material Design interface. (Archived)",
+            "source": "https://github.com/JaspervanRiet/Jager"
+        },
+        {
+            "name": "JianDan",
+            "description": "A high-fidelity clone of the Chinese entertainment news app \"JianDan\".",
+            "source": "https://github.com/ZhaoKaiQiang/JianDan"
+        },
+        {
+            "name": "KuaiHu",
+            "description": "A third-party client for the popular Chinese news aggregator zhihu.com.",
+            "source": "https://github.com/iKrelve/KuaiHu"
+        },
+        {
+            "name": "Leisure",
+            "description": "An app that aggregates content from Zhihu Daily, Guokr, and Douban Books.",
+            "source": "https://github.com/MummyDing/Leisure"
+        },
+        {
+            "name": "Materialistic",
+            "description": "A feature-rich, Material Design Hacker News reader.",
+            "source": "https://github.com/hidroh/materialistic"
+        },
+        {
+            "name": "Munch",
+            "description": "A minimalistic and easy-to-use RSS reader application. (Archived)",
+            "source": "https://github.com/crazyhitty/Munch"
+        },
+        {
+            "name": "MVVM Hacker News",
+            "description": "An experimental Hacker News app using the MVVM pattern and Data Binding library.",
+            "source": "https://github.com/hitherejoe/MVVM_Hacker_News"
+        },
+        {
+            "name": "NEWS",
+            "description": "An app that fetches the latest news from popular channels.",
+            "source": "https://github.com/hemant3370/NEWS"
+        },
+        {
+            "name": "Plaid",
+            "description": "A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt.",
+            "source": "https://github.com/nickbutcher/plaid"
+        },
+        {
+            "name": "Predator for ProductHunt",
+            "description": "A minimalistic client for Product Hunt to browse the latest products and collections.",
+            "source": "https://github.com/crazyhitty/Capstone-Project"
+        },
+        {
+            "name": "Qiitanium",
+            "description": "An unofficial Android application for the Japanese tech community Qiita.",
+            "source": "https://github.com/ogaclejapan/Qiitanium"
+        },
+        {
+            "name": "RedReader",
+            "description": "A fast, feature-rich, and accessibility-focused Reddit client.",
+            "source": "https://github.com/QuantumBadger/RedReader",
+            "playstore": "https://play.google.com/store/apps/details?id=org.quantumbadger.redreader"
+        },
+        {
+            "name": "scala-days-android",
+            "description": "The official Android application for the Scala Days conferences.",
+            "source": "https://github.com/xebia-functional/scala-days-android"
+        },
+        {
+            "name": "Slide",
+            "description": "A feature-packed, ad-free, and open-source Reddit browser for Android.",
+            "source": "https://github.com/Haptic-Apps/Slide"
+        },
+        {
+            "name": "somosOCO",
+            "description": "A simple reader app for the \"somos oco\" Blogger blog.",
+            "source": "https://github.com/pekebyte/somosoco"
+        },
+        {
+            "name": "StartupNews",
+            "description": "A client for Startup News, a social news site for startup founders.",
+            "source": "https://github.com/halzhang/StartupNews"
+        },
+        {
+            "name": "Upload to Commons",
+            "description": "Allows users to upload photos from their Android device to Wikimedia Commons.",
+            "source": "https://github.com/commons-app/apps-android-commons",
+            "playstore": "https://play.google.com/store/apps/details?id=fr.free.nrw.commons"
+        },
+        {
+            "name": "Wikipedia",
+            "description": "The official open-source Wikipedia application for Android.",
+            "source": "https://github.com/wikimedia/apps-android-wikipedia",
+            "playstore": "https://play.google.com/store/apps/details?id=org.wikipedia"
+        },
+        {
+            "name": "Yahnac",
+            "description": "\"Yet Another Hacker News Android Client.\"",
+            "source": "https://github.com/malmstein/yahnac"
+        },
+        {
+            "name": "ZhiHuDaily-React-Native",
+            "description": "A Zhihu Daily client implemented using React Native for Android.",
+            "source": "https://github.com/race604/ZhiHuDaily-React-Native"
+        },
+        {
+            "name": "ZhihuDailyKotlin",
+            "description": "A clone of the Zhihu Daily app, written entirely in Kotlin.",
+            "source": "https://github.com/happydog-intj/ZhihuDailyKotlin"
+        },
+        {
+            "name": "ZhuanLan",
+            "description": "A client for the \"Zhuanlan\" (Columns) section of the Zhihu platform.",
+            "source": "https://github.com/bxbxbai/ZhuanLan"
+        }
+    ]
+}

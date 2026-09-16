@@ -1,0 +1,21 @@
+{
+    "title": "Business",
+    "emoji": "\ud83d\udcbc",
+    "apps": [
+        {
+            "name": "OpenPetra",
+            "description": "Administration software (CRM/ERP) for charitable organizations.",
+            "source": "https://github.com/openpetra/openpetra"
+        },
+        {
+            "name": "OpenPost",
+            "description": "Native app for drafting, scheduling, and tracking social posts through OpenPost Hosted or a self-hosted server.",
+            "source": "https://github.com/getopenpost/openpost"
+        },
+        {
+            "name": "OpenShop.io",
+            "description": "A mobile E-commerce solution connected to Facebook Ads and Google. (Archived)",
+            "source": "https://github.com/openshopio/openshop.io-android"
+        }
+    ]
+}

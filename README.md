@@ -5,8 +5,11 @@
 <!-- apps-count starts -->
 <img src="https://img.shields.io/badge/106-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
+<img src="https://img.shields.io/github/stars/fiedri/awesome-mobile-apps?style=for-the-badge" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/fiedri/awesome-mobile-apps?style=for-the-badge" alt="Forks"/>
+<img src="https://img.shields.io/github/last-commit/fiedri/awesome-mobile-apps?style=for-the-badge" alt="Last commit"/>
 <a href="./LICENSE">
-<img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
+<img src="https://img.shields.io/github/license/fiedri/awesome-mobile-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
 </a>
 </p>
 </div>

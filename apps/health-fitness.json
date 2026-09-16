@@ -1,0 +1,69 @@
+{
+    "title": "Health & Fitness",
+    "emoji": "\ud83c\udfe5",
+    "apps": [
+        {
+            "name": "Aarogya Setu",
+            "description": "A contact tracing and self-assessment app from the Government of India.",
+            "source": "https://github.com/nic-delhi/AarogyaSetu_Android",
+            "playstore": "https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu"
+        },
+        {
+            "name": "Android app to collect medical data",
+            "description": "An app designed to collect data for medical analysis.",
+            "source": "https://github.com/Ana06/medical-data-android"
+        },
+        {
+            "name": "Android heart rate monitor",
+            "description": "Uses the phone's camera and flash to determine heart rate.",
+            "source": "https://github.com/phishman3579/android-heart-rate-monitor"
+        },
+        {
+            "name": "fitPlant",
+            "description": "A fitness app where you grow virtual plants by tracking your exercise.",
+            "source": "https://github.com/KrisKodira/fitPlant"
+        },
+        {
+            "name": "Ishihara",
+            "description": "An application for testing color blindness using Ishihara plates.",
+            "source": "https://github.com/landtanin/Ishihara"
+        },
+        {
+            "name": "OpenHearing",
+            "description": "Checks your hearing, builds a personal per-ear sound profile, and amplifies quiet sound in real time on any earbuds.",
+            "source": "https://github.com/HMAKT99/OpenHearing"
+        },
+        {
+            "name": "OpenTracks",
+            "description": "A privacy-focused sport tracking app that records GPS-based workouts without any data leaving your device.",
+            "source": "https://github.com/OpenTracksApp/OpenTracks"
+        },
+        {
+            "name": "NightSight",
+            "description": "An app to decrease screen brightness below the system's minimum level.",
+            "source": "https://github.com/meghalagrawal/NightSight"
+        },
+        {
+            "name": "Pedometer",
+            "description": "A lightweight pedometer app that uses the hardware step-sensor.",
+            "source": "https://github.com/j4velin/Pedometer"
+        },
+        {
+            "name": "RunnerUp",
+            "description": "An open-source run tracker for tracking fitness activities.",
+            "source": "https://github.com/jonasoreland/runnerup",
+            "playstore": "https://play.google.com/store/apps/details?id=org.runnerup"
+        },
+        {
+            "name": "SoulSync",
+            "description": "A free mood tracker that stores everything on-device in SQLite, with no account, ads, or subscription.",
+            "source": "https://github.com/Antimatter543/mood-tracker",
+            "playstore": "https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp"
+        },
+        {
+            "name": "trale",
+            "description": "A simple and privacy-respecting body weight diary app built with Flutter.",
+            "source": "https://github.com/QuantumPhysique/trale"
+        }
+    ]
+}

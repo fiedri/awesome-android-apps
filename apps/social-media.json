@@ -53,6 +53,225 @@
             "fdroid": "https://f-droid.org/packages/org.mariotaku.twidere",
             "playstore": "https://play.google.com/store/apps/details?id=org.mariotaku.twidere",
             "website": "https://twidere.com"
+        },
+        {
+            "name": "AisenWeiBo",
+            "description": "A client for the Chinese social network Sina Weibo, with Material Design. (Archived)",
+            "source": "https://github.com/wangdan/AisenWeiBo"
+        },
+        {
+            "name": "Barinsta",
+            "description": "A privacy-friendly client for Instagram. (Discontinued)",
+            "source": "https://github.com/Barinsta/barinsta"
+        },
+        {
+            "name": "Beebo+",
+            "description": "A feature-rich client for the Sina Weibo social network.",
+            "source": "https://github.com/andforce/iBeebo"
+        },
+        {
+            "name": "BlackLight",
+            "description": "A lightweight client for the Sina Weibo social network.",
+            "source": "https://github.com/PaperAirplane-Dev-Team/BlackLight"
+        },
+        {
+            "name": "Cannonball",
+            "description": "An app from Twitter for creating and sharing stories and poems. (Archived)",
+            "source": "https://github.com/crashlytics/cannonball-android"
+        },
+        {
+            "name": "CNode-android",
+            "description": "An Android client for the CNode.js Chinese technical community.",
+            "source": "https://github.com/iwhys/CNode-android"
+        },
+        {
+            "name": "Cotable",
+            "description": "A Material Design client for the Chinese blogging platform cnblogs.com.",
+            "source": "https://github.com/wlemuel/Cotable"
+        },
+        {
+            "name": "Douya",
+            "description": "An Android client for the Chinese social network douban.com.",
+            "source": "https://github.com/DreaminginCodeZH/Douya"
+        },
+        {
+            "name": "Dribbo",
+            "description": "A client for Dribbble to browse popular shots and debuts. (Archived)",
+            "source": "https://github.com/ikew0ng/Dribbo"
+        },
+        {
+            "name": "DroidKaigi",
+            "description": "The official conference app for DroidKaigi 2016 in Tokyo.",
+            "source": "https://github.com/konifar/droidkaigi2016"
+        },
+        {
+            "name": "FishChatAndroid",
+            "description": "A chat application demonstrating modern Android development.",
+            "source": "https://github.com/oikomi/FishChatAndroid"
+        },
+        {
+            "name": "ForkHub",
+            "description": "A fork of the deprecated official GitHub Android app, which is still maintained.",
+            "source": "https://github.com/jonan/ForkHub"
+        },
+        {
+            "name": "Git.NB",
+            "description": "A client for browsing GitHub repositories and users. (Archived)",
+            "source": "https://github.com/Jeffmen/Git.NB"
+        },
+        {
+            "name": "GitHub Visualizer",
+            "description": "A GitHub client using the official API and Material UI components.",
+            "source": "https://github.com/dheerajkotwani/GithubVisualizer"
+        },
+        {
+            "name": "GitPoint",
+            "description": "A GitHub client with a minimal and beautiful user interface, built with React Native.",
+            "source": "https://github.com/gitpoint/git-point"
+        },
+        {
+            "name": "Gitskarios",
+            "description": "A popular and feature-rich GitHub client for Android.",
+            "source": "https://github.com/gitskarios/Gitskarios"
+        },
+        {
+            "name": "Google I/O",
+            "description": "The official open-source app for the Google I/O conference.",
+            "source": "https://github.com/google/iosched"
+        },
+        {
+            "name": "GSD Mobile",
+            "description": "The official app for the GSD (Get Shit Done) website, using RSS and JSON.",
+            "source": "https://github.com/rgocal/GSD_Mobile"
+        },
+        {
+            "name": "Gunnner",
+            "description": "A Dribbble client for Android with a clean, material design. (Archived)",
+            "source": "https://github.com/egor-n/gunnner"
+        },
+        {
+            "name": "Helping Hands",
+            "description": "An app to find and connect with nearby social service volunteers.",
+            "source": "https://github.com/JerrySJoseph/Helping_Hands_Android_client"
+        },
+        {
+            "name": "Impeller",
+            "description": "A feature-rich client for the Pump.io open, federated social network.",
+            "source": "https://github.com/erincandescent/Impeller"
+        },
+        {
+            "name": "Insta Profile Downloader",
+            "description": "A tool to view and download media from Instagram profiles.",
+            "source": "https://github.com/hemant3370/Insta"
+        },
+        {
+            "name": "InstaMaterial",
+            "description": "A concept implementation of Instagram with Material Design. (Archived)",
+            "source": "https://github.com/frogermcs/InstaMaterial"
+        },
+        {
+            "name": "Kickstarter",
+            "description": "The official open-source application for the Kickstarter crowdfunding platform.",
+            "source": "https://github.com/kickstarter/android-oss"
+        },
+        {
+            "name": "Mastodon",
+            "description": "The official Android client for the decentralized social network Mastodon.",
+            "source": "https://github.com/mastodon/mastodon-android",
+            "playstore": "https://play.google.com/store/apps/details?id=org.joinmastodon.android"
+        },
+        {
+            "name": "minicat",
+            "description": "A client for the Chinese micro-blogging service fanfou.com. (Archived)",
+            "source": "https://github.com/mcxiaoke/minicat"
+        },
+        {
+            "name": "Monotweety",
+            "description": "A simple Twitter client designed for tweeting directly from the notification area.",
+            "source": "https://github.com/yshrsmz/monotweety"
+        },
+        {
+            "name": "PHPHub Android",
+            "description": "An Android client for the PHPHub community. (Archived)",
+            "source": "https://github.com/CycloneAxe/phphub-android"
+        },
+        {
+            "name": "PocketHub",
+            "description": "A community-maintained fork of the original official GitHub Android app.",
+            "source": "https://github.com/pockethub/PocketHub"
+        },
+        {
+            "name": "ribot-app-android",
+            "description": "The official studio app for the ribot agency, showcasing their work. (Archived)",
+            "source": "https://github.com/ribot/ribot-app-android"
+        },
+        {
+            "name": "Shadowsocks",
+            "description": "A secure socks5 proxy client, widely used for bypassing network censorship.",
+            "source": "https://github.com/shadowsocks/shadowsocks-android",
+            "playstore": "https://play.google.com/store/apps/details?id=com.github.shadowsocks"
+        },
+        {
+            "name": "Skooter",
+            "description": "A client for an anonymous social network. (Archived)",
+            "source": "https://github.com/prathmeshranaut/skooterapp"
+        },
+        {
+            "name": "Talon for Twitter",
+            "description": "The fully open-source version of the popular Talon for Twitter app.",
+            "source": "https://github.com/klinker24/talon-twitter-holo"
+        },
+        {
+            "name": "TEDxTehran",
+            "description": "The official event application for TEDxTehran.",
+            "source": "https://github.com/TEDxTehran-Team/event-app-android"
+        },
+        {
+            "name": "TikTok App Clone",
+            "description": "A basic clone of the TikTok app, created using the Flutter framework.",
+            "source": "https://github.com/mcofie/Tik-Tok-App-Clone-Flutter"
+        },
+        {
+            "name": "Twiader",
+            "description": "A Twitter client that can read tweets aloud.",
+            "source": "https://github.com/jydimir/Twiader"
+        },
+        {
+            "name": "v2ex-android",
+            "description": "A client for the Chinese technology forum v2ex.com. (Archived)",
+            "source": "https://github.com/greatyao/v2ex-android"
+        },
+        {
+            "name": "wasteof for Android",
+            "description": "The official Android app for the wasteof.money social media platform.",
+            "source": "https://github.com/micahlt/wasteof.mobile",
+            "playstore": "https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile"
+        },
+        {
+            "name": "WeGit",
+            "description": "An Android client for GitHub with a focus on a clean user interface. (Archived)",
+            "source": "https://github.com/Leaking/WeGit"
+        },
+        {
+            "name": "weiciyuan",
+            "description": "A popular and feature-rich client for the Sina Weibo social network.",
+            "source": "https://github.com/qii/weiciyuan"
+        },
+        {
+            "name": "WordPress",
+            "description": "The official open-source app for managing WordPress sites.",
+            "source": "https://github.com/wordpress-mobile/WordPress-Android",
+            "playstore": "https://play.google.com/store/apps/details?id=org.wordpress.android"
+        },
+        {
+            "name": "Xtra",
+            "description": "An open-source, ad-free Twitch player and browser for Android.",
+            "source": "https://github.com/crackededed/Xtra"
+        },
+        {
+            "name": "YouJoin",
+            "description": "A social connection app with a focus on Material Design. (Archived)",
+            "source": "https://github.com/FreedomZZQ/YouJoin-Android"
         }
     ]
 }

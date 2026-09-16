@@ -89,6 +89,262 @@
             "fdroid": "https://f-droid.org/en/packages/org.videolan.vlc",
             "playstore": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
             "website": "https://www.videolan.org/vlc"
+        },
+        {
+            "name": "A Photo Manager",
+            "description": "Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor.",
+            "source": "https://github.com/k3b/APhotoManager"
+        },
+        {
+            "name": "ACEMusicPlayer",
+            "description": "A simple, Material Design music player for the Android platform.",
+            "source": "https://github.com/C-Aniruddh/ACEMusicPlayer"
+        },
+        {
+            "name": "ad-free",
+            "description": "A proof-of-concept modular audio ad-blocker for Android.",
+            "source": "https://github.com/abertschi/ad-free"
+        },
+        {
+            "name": "AnimeTaste",
+            "description": "An app for discovering and watching original animations from around the world. (Archived)",
+            "source": "https://github.com/daimajia/AnimeTaste"
+        },
+        {
+            "name": "Apollo",
+            "description": "The classic, highly customizable music player from CyanogenMod. (Archived)",
+            "source": "https://github.com/CyanogenMod/android_packages_apps_Apollo"
+        },
+        {
+            "name": "Auro",
+            "description": "A fast, modern, open-source music player for Android.",
+            "source": "https://github.com/architjn/Auro"
+        },
+        {
+            "name": "Aves",
+            "description": "A gallery and metadata explorer app built for Android with Flutter.",
+            "source": "https://github.com/deckerst/aves",
+            "playstore": "https://play.google.com/store/apps/details?id=deckers.thibault.aves"
+        },
+        {
+            "name": "Awkward Ratings",
+            "description": "Shows a list of movies that might be awkward to watch with your parents.",
+            "source": "https://github.com/nasahapps/AwkwardRatings-Android"
+        },
+        {
+            "name": "Blazify",
+            "description": "A music player that streams online and plays the files already on your phone, with synced lyrics and a ten-band equalizer.",
+            "source": "https://github.com/rajendra7169/blazify"
+        },
+        {
+            "name": "Bandhook-Kotlin",
+            "description": "A showcase music app written entirely in Kotlin to demonstrate its features.",
+            "source": "https://github.com/antoniolg/Bandhook-Kotlin"
+        },
+        {
+            "name": "bilibili-android-client",
+            "description": "An unofficial client for the Bilibili video sharing website. (Archived)",
+            "source": "https://github.com/HotBitmapGG/bilibili-android-client"
+        },
+        {
+            "name": "CloudStream",
+            "description": "An Android app for streaming and downloading movies, TV shows, and anime.",
+            "source": "https://github.com/recloudstream/cloudstream"
+        },
+        {
+            "name": "Droided Media Tank",
+            "description": "A remote control app for Networked Media Tank (NMT) streamers.",
+            "source": "https://github.com/vikingbrain/droidedmediatank"
+        },
+        {
+            "name": "Easy Sound Recorder",
+            "description": "A simple sound recording app with a Material Design interface.",
+            "source": "https://github.com/dkim0419/SoundRecorder"
+        },
+        {
+            "name": "ExoPlayer",
+            "description": "An extensible media player for Android from Google.",
+            "source": "https://github.com/google/ExoPlayer"
+        },
+        {
+            "name": "GEM",
+            "description": "A music player for Android with a stunning Material Design UI. (Archived)",
+            "source": "https://github.com/SubstanceMobile/GEM"
+        },
+        {
+            "name": "JamsMusicPlayer",
+            "description": "A free, powerful, and elegant music player for Android. (Archived)",
+            "source": "https://github.com/psaravan/JamsMusicPlayer"
+        },
+        {
+            "name": "Jellyfin",
+            "description": "The official Android client for the Jellyfin media server.",
+            "source": "https://github.com/jellyfin/jellyfin-android",
+            "playstore": "https://play.google.com/store/apps/details?id=org.jellyfin.mobile"
+        },
+        {
+            "name": "Kafka for Internet Archive",
+            "description": "A modern client for Internet Archive with a built-in reader and audio player.",
+            "source": "https://github.com/vipulyaara/Kafka"
+        },
+        {
+            "name": "L Camera",
+            "description": "An experimental camera app using the Android Lollipop camera2 API. (Archived)",
+            "source": "https://github.com/PkmX/lcamera"
+        },
+        {
+            "name": "Last.fm",
+            "description": "The official open-source Android app for the Last.fm music service.",
+            "source": "https://github.com/lastfm/lastfm-android",
+            "playstore": "https://play.google.com/store/apps/details?id=fm.last.android"
+        },
+        {
+            "name": "Material Audiobook Player",
+            "description": "A feature-rich audiobook player designed for Android.",
+            "source": "https://github.com/PaulWoitaschek/Voice",
+            "playstore": "https://play.google.com/store/apps/details?id=de.ph1b.audiobook"
+        },
+        {
+            "name": "Material-Movies",
+            "description": "A sample movie app demonstrating Material Design principles. (Archived)",
+            "source": "https://github.com/saulmm/Material-Movies"
+        },
+        {
+            "name": "MetroList",
+            "description": "A Material 3 Youtube client for android.",
+            "source": "https://github.com/mostafaalagamy/Metrolist"
+        },
+        {
+            "name": "Mizuu",
+            "description": "A popular media indexer app for managing movie and TV show collections. (Archived)",
+            "source": "https://github.com/MizzleDK/Mizuu"
+        },
+        {
+            "name": "MovieGuide",
+            "description": "A sample movie app showcasing the MVP pattern, RxJava, and Dagger.",
+            "source": "https://github.com/esoxjem/MovieGuide"
+        },
+        {
+            "name": "MPDroid",
+            "description": "A client for the Music Player Daemon (MPD) that supports streaming.",
+            "source": "https://github.com/abarisain/dmix"
+        },
+        {
+            "name": "Music DNA",
+            "description": "A music player that renders a beautiful DNA-like visualization of the music.",
+            "source": "https://github.com/harjot-oberai/MusicDNA"
+        },
+        {
+            "name": "Nuvio",
+            "description": "A modern media hub for Android and iOS built with Kotlin Multiplatform and Compose Multiplatform.",
+            "source": "https://github.com/NuvioMedia/NuvioMobile",
+            "playstore": "https://play.google.com/store/apps/details?id=com.nuvio.app"
+        },
+        {
+            "name": "Opengur",
+            "description": "An open-source Imgur client for Android.",
+            "source": "https://github.com/Kennyc1012/Opengur"
+        },
+        {
+            "name": "PDF Creator",
+            "description": "A simple application to convert images into a single PDF file.",
+            "source": "https://github.com/Swati4star/Images-to-PDF"
+        },
+        {
+            "name": "Phonograph",
+            "description": "A beautiful and clean Material Design music player for Android.",
+            "source": "https://github.com/karimknaebel/Phonograph"
+        },
+        {
+            "name": "Podverse",
+            "description": "A feature-rich, cross-platform podcast app with a focus on clip sharing.",
+            "source": "https://github.com/podverse/podverse-rn",
+            "playstore": "https://play.google.com/store/apps/details?id=com.podverse"
+        },
+        {
+            "name": "QuickNovel",
+            "description": "An ad-free, FOSS app for downloading novels and reading them as Epubs.",
+            "source": "https://github.com/LagradOst/QuickNovel"
+        },
+        {
+            "name": "SeriesGuide",
+            "description": "Helps you manage and track your favorite TV shows and movies.",
+            "source": "https://github.com/UweTrottmann/SeriesGuide",
+            "playstore": "https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide"
+        },
+        {
+            "name": "Showly",
+            "description": "A modern, slick, open-source TV show tracker for Android.",
+            "source": "https://github.com/trakt/showly",
+            "playstore": "https://play.google.com/store/apps/details?id=com.michaldrabik.showly2"
+        },
+        {
+            "name": "Shuttle",
+            "description": "A simple, lightweight, and intuitive local music player for Android.",
+            "source": "https://github.com/timusus/Shuttle",
+            "playstore": "https://play.google.com/store/apps/details?id=another.music.player"
+        },
+        {
+            "name": "SoundSpice",
+            "description": "A lightweight and minimalist music player for Android.",
+            "source": "https://github.com/farshed/SoundSpice-mobile"
+        },
+        {
+            "name": "spydroid-ipcamera",
+            "description": "An app that streams your phone's camera and microphone to a browser or VLC.",
+            "source": "https://github.com/fyhertz/spydroid-ipcamera"
+        },
+        {
+            "name": "StickerCamera",
+            "description": "A camera application that allows you to add stickers to your photos.",
+            "source": "https://github.com/Skykai521/StickerCamera"
+        },
+        {
+            "name": "Telecine",
+            "description": "A simple app for recording full-resolution video of your device's screen.",
+            "source": "https://github.com/JakeWharton/Telecine"
+        },
+        {
+            "name": "Timber",
+            "description": "A beautiful, fully-featured Material Design music player.",
+            "source": "https://github.com/naman14/Timber"
+        },
+        {
+            "name": "Track My Shows",
+            "description": "A simple app for tracking your favorite TV shows. (Archived)",
+            "source": "https://github.com/chashmeetsingh/TrackMyShows"
+        },
+        {
+            "name": "TrimPlayer",
+            "description": "A podcast player that automatically skips intros, ads and outros by detecting audio that repeats across a show's episodes.",
+            "source": "https://github.com/yonatanholdings/TrimPlayer",
+            "playstore": "https://play.google.com/store/apps/details?id=com.trimplayer"
+        },
+        {
+            "name": "Twire",
+            "description": "An open-source, ad-free Twitch browser and stream player for Android.",
+            "source": "https://github.com/Perflyst/Twire"
+        },
+        {
+            "name": "UniversalMusicPlayer",
+            "description": "A Google sample demonstrating a cross-platform audio media app.",
+            "source": "https://github.com/android/uamp"
+        },
+        {
+            "name": "Vanilla Music",
+            "description": "A clean, simple, and free open-source music player.",
+            "source": "https://github.com/vanilla-music/vanilla"
+        },
+        {
+            "name": "VLC for Android",
+            "description": "The official port of the versatile, open-source VLC media player.",
+            "source": "https://github.com/videolan/vlc-android",
+            "playstore": "https://play.google.com/store/apps/details?id=org.videolan.vlc"
+        },
+        {
+            "name": "XimalayaKotlin",
+            "description": "An unofficial client for Ximalaya FM written entirely in Kotlin. (Archived)",
+            "source": "https://github.com/gs666/XimalayaKotlin"
         }
     ]
 }

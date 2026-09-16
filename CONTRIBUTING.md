@@ -8,6 +8,13 @@ This document shows you how to get started with your contribution to this projec
 
 ## Adding a new app
 
+There are two ways to add a new app:
+
+1. **Open an issue**: If you just want to suggest an app without dealing with the repo, [open an issue](https://github.com/fiedri/awesome-mobile-apps/issues/new?template=app-suggestion.md) with the app details and we'll take care of it.
+2. **Submit a PR**: If you want to contribute directly, follow the steps below.
+
+### Submit a PR
+
 - Fork the repo
 
   - <https://github.com/fiedri/awesome-android-apps>
@@ -81,6 +88,18 @@ This document shows you how to get started with your contribution to this projec
   - Make sure you send the PR to the `main` branch
 
 - Don't forget to star the repo ;)
+
+### Open an issue
+
+If you prefer, you can simply [open an issue](https://github.com/fiedri/awesome-mobile-apps/issues/new?template=app-suggestion.md) with the following information:
+
+- **App name**
+- **Source link** (GitHub/GitLab repo)
+- **Short description** (15-60 words)
+- **Play Store / F-Droid links** (optional)
+- **Website** (optional)
+
+We'll review it and add it to the list.
 
 ## Other Contributions
 

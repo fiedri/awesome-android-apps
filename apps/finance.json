@@ -1,0 +1,73 @@
+{
+    "title": "Finance",
+    "emoji": "\ud83d\udcb0",
+    "apps": [
+        {
+            "name": "BeeCount",
+            "description": "A privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design.",
+            "source": "https://github.com/TNT-Likely/BeeCount",
+            "playstore": "https://play.google.com/store/apps/details?id=com.tntlikely.beecount"
+        },
+        {
+            "name": "bitcoin-wallet",
+            "description": "A standalone Bitcoin Wallet app for Android with no centralized backend.",
+            "source": "https://github.com/schildbach/bitcoin-wallet"
+        },
+        {
+            "name": "Bither",
+            "description": "A simple and secure Bitcoin wallet for Android.",
+            "source": "https://github.com/bither/bither-android"
+        },
+        {
+            "name": "CoCoin",
+            "description": "A multi-view accounting and expense tracking application.",
+            "source": "https://github.com/Nightonke/CoCoin"
+        },
+        {
+            "name": "Coins",
+            "description": "A simple app to check the value of your Bitcoins. (Archived)",
+            "source": "https://github.com/soffes/coins-android"
+        },
+        {
+            "name": "Financius",
+            "description": "A simple application to log and track your expenses and balance.",
+            "source": "https://github.com/mvarnagiris/financius"
+        },
+        {
+            "name": "GnuCash",
+            "description": "The official mobile companion app for GnuCash desktop.",
+            "source": "https://github.com/codinguser/gnucash-android"
+        },
+        {
+            "name": "Kickmaterial",
+            "description": "A crowdfunding app concept for Android built with Material Design.",
+            "source": "https://github.com/byoutline/kickmaterial"
+        },
+        {
+            "name": "Kripto",
+            "description": "A cryptocurrency tracking app that uses the CoinGecko API.",
+            "source": "https://github.com/sauravrao637/Kripto"
+        },
+        {
+            "name": "Money Manager",
+            "description": "A money manager app built with Kotlin and a CLEAN architecture.",
+            "source": "https://github.com/hulkdx/MoneyManager"
+        },
+        {
+            "name": "Money Manager Ex",
+            "description": "The official Android port of the popular desktop app Money Manager Ex.",
+            "source": "https://github.com/moneymanagerex/android-money-manager-ex"
+        },
+        {
+            "name": "Paisa",
+            "description": "A clean and simple expense manager app.",
+            "source": "https://github.com/RetroMusicPlayer/Paisa",
+            "playstore": "https://play.google.com/store/apps/details?id=dev.hemanths.paisa"
+        },
+        {
+            "name": "Simple Random Stock",
+            "description": "An app that randomly selects a stock from the 3 major U.S. indexes.",
+            "source": "https://github.com/WillWcchan/Simple-Random-Stock"
+        }
+    ]
+}

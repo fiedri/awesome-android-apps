@@ -1,0 +1,78 @@
+{
+    "title": "Life Style",
+    "emoji": "\ud83c\udfe0",
+    "apps": [
+        {
+            "name": "Banya",
+            "description": "A client for the Douban API with a UI inspired by NetEase Music.",
+            "source": "https://github.com/forezp/banya"
+        },
+        {
+            "name": "Birday",
+            "description": "A beautiful and helpful birthday calendar and reminder app.",
+            "source": "https://github.com/m-i-n-a-r/birday",
+            "playstore": "https://play.google.com/store/apps/details?id=com.minar.birday"
+        },
+        {
+            "name": "COVID Diary",
+            "description": "Helps you keep a private log of people you have recently been with.",
+            "source": "https://github.com/apozas/contactdiary"
+        },
+        {
+            "name": "Easy Diary",
+            "description": "A simple diary application optimized for a great user experience.",
+            "source": "https://github.com/hanjoongcho/aaf-easydiary",
+            "playstore": "https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary"
+        },
+        {
+            "name": "Easy Photo Map",
+            "description": "Displays the location of photos on a map using their EXIF data.",
+            "source": "https://github.com/hanjoongcho/aaf-easyphotomap"
+        },
+        {
+            "name": "Groceries Store",
+            "description": "An app that demonstrates an online grocery ordering system.",
+            "source": "https://github.com/hieuwu/android-groceries-store"
+        },
+        {
+            "name": "Material Prayer Times",
+            "description": "Offline prayer times, qibla compass and Hijri date, calculated on device.",
+            "source": "https://github.com/2plus1star/material-prayer-times"
+        },
+        {
+            "name": "Material Quran",
+            "description": "Quran reader with the Uthmani text, translation and tajweed colouring, plus optional recitation audio.",
+            "source": "https://github.com/2plus1star/material-quran"
+        },
+        {
+            "name": "Memento Namedays",
+            "description": "A beautifully designed calendar for tracking namedays.",
+            "source": "https://github.com/alexstyl/Memento-Calendar"
+        },
+        {
+            "name": "Narrate",
+            "description": "A small, simple, and elegant journaling application. (Archived)",
+            "source": "https://github.com/ttl-tim/narrate-android"
+        },
+        {
+            "name": "Reminder Pro",
+            "description": "A reminder app with location, sound recording, and map features.",
+            "source": "https://github.com/FarshidRoohi/ReminderPro"
+        },
+        {
+            "name": "Teapp",
+            "description": "A personal database for tea enthusiasts with a timer and calculator.",
+            "source": "https://github.com/marianpekar/teapp"
+        },
+        {
+            "name": "Wake You In Music",
+            "description": "An alarm clock app for Spotify or Deezer users. (Archived)",
+            "source": "https://github.com/CedrickFlocon/wakeyouinmusic"
+        },
+        {
+            "name": "WonderFood",
+            "description": "Local-first food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals.",
+            "source": "https://github.com/vaddisrinivas/wonderfood"
+        }
+    ]
+}
