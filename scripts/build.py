@@ -88,18 +88,20 @@ def build_category(cat):
             playstore = merged.get("playstore")
             website = merged.get("website")
 
-            # Obtener el número de estrellas directamente del diccionario (o poner "0" / "-" si no existe)
-            stars_count = str(merged.get("stars", 0))
-
             m = re.match(
                 r"https://(gitlab|github)\.com/([a-zA-Z0-9\-_.]+)/([a-zA-Z0-9\-_.]+)",
                 source,
             )
-            if m != None:
-                last_commit_link = f"https://img.shields.io/{m.group(1)}/last-commit/{'/'.join(m.group(2,3))}"
-            else:
+            if m == None:
+                stars_link = merged.get("stars_link")
                 last_commit_link = merged.get("last_commit_link")
+            else:
+                stars_link = (
+                    f"https://badgen.net/{m.group(1)}/stars/{'/'.join(m.group(2,3))}"
+                )
+                last_commit_link = f"https://img.shields.io/{m.group(1)}/last-commit/{'/'.join(m.group(2,3))}"
 
+            badge_stars = f"![Stars]({stars_link})" if stars_link else ""
             badge_commit = (
                 f"![last commit]({last_commit_link})" if last_commit_link else ""
             )
@@ -113,7 +115,7 @@ def build_category(cat):
             safe_description = description.replace("|", "\\|")
             links = " ".join(filter(None, [link_fdroid, link_playstore, link_website]))
             lines.append(
-                f"| **{link_source}** | {status_badge(merged.get('status'))} | {safe_description} | {stars_count} | {badge_commit} | {links} |"
+                f"| **{link_source}** | {status_badge(merged.get('status'))} | {safe_description} | {badge_stars} | {badge_commit} | {links} |"
             )
 
         f.write("\n".join(lines))
