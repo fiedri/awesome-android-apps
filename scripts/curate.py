@@ -39,9 +39,11 @@ Status values (derived at read time from the effective facts):
 Automatic removal (only criteria the network cannot lie about):
     1. status == "repo_gone"  (the source code no longer exists)
     2. status == "archived" OR "inactive" + no commits in 730 days + ALL stores
-       return a real HTTP 404. A timeout or connection error is "unknown", never
-       counts as dead. If only SOME stores are 404 the app is kept and just those
-       dead store links are suppressed via an override.
+       return a real HTTP 404 AND the repo publishes no releases. A timeout or
+       connection error is "unknown", never counts as dead. An app is KEPT if
+       any store works or the repo still ships a release (installable).
+       If only SOME stores are 404 the app is kept and just those dead store
+       links are suppressed via an override.
 
 Manual review:
     Add an entry to curate/overrides.json keyed by the app "source". The "fields"
@@ -76,6 +78,7 @@ from utils import (
     get_api_url,
     derive_status,
     effective,
+    merge_app,
     FOSS_LICENSES,
 )
 
@@ -146,12 +149,14 @@ async def check_repo(session, repo_api, host):
                 "is_archived": False,
                 "license": None,
                 "is_foss": False,
+                "has_release": False,
             }
         if not data:
             return None  # rate limit or another error -> leave the cache untouched
 
         last_commit = await check_last_commit(session, repo_api, host)
         is_archived = data.get("archived", False)
+        has_release = await check_has_release(session, repo_api, host)
 
         license_data = data.get("license") or {}
         license_key = license_data.get("spdx_id") or license_data.get("key")
@@ -167,10 +172,23 @@ async def check_repo(session, repo_api, host):
             "is_archived": is_archived,
             "license": license_key,
             "is_foss": is_foss,
+            "has_release": has_release,
         }
     except Exception as e:
         print(f"Error processing repository {repo_api}: {e}")
         return None
+
+
+async def check_has_release(session, api_url, host):
+    """True when the repo has published releases (e.g. APKs to sideload).
+    A repo with a release is still installable, so it must NOT be removed."""
+    release_url = (
+        f"{api_url}/releases?per_page=1" if host == "github" else f"{api_url}/releases"
+    )
+    releases, http_status = await get_json(session, release_url)
+    if http_status == 404:
+        return False
+    return isinstance(releases, list) and bool(releases)
 
 
 async def check_url_status(session, url):
@@ -300,9 +318,11 @@ def removal_reason(app, has_status_override):
     if stores and all(s.get("status") == 404 for s in stores):
         if not is_repo_active(app.get("last_commit")):
             label = "archived" if app.get("is_archived") else "inactive"
+            if app.get("has_release"):
+                return None  # still installable from the repo releases
             return (
-                f"Repo {label} + no commits in 730 days + ALL stores return HTTP 404: "
-                "every source independently confirms it is dead"
+                f"Repo {label} + no commits in 730 days + ALL stores return HTTP 404 "
+                "and no repo release: it can no longer be obtained anywhere"
             )
 
     return None
@@ -367,9 +387,16 @@ def process_remove(apps_files, dry_run):
         for app in apps:
             source = app.get("source")
             override = overrides.get(source)
-            merged = effective(app, cache.get(source), override)
+            cached = cache.get(source)
+            merged = effective(app, cached, override)
 
-            reason = removal_reason(merged, has_status_override="status" in (override or {}).get("fields", {}))
+            # Removal is judged on the RAW facts (cache), not on the merged view:
+            # a store-suppression override hides the stores, but the 404s are real
+            # on the network. Only a human-pinned "status" blocks auto-removal.
+            facts = merge_app(app, cached, None)
+            reason = removal_reason(
+                facts, has_status_override="status" in (override or {}).get("fields", {})
+            )
             if reason:
                 file_removed += 1
                 removed_apps.append(

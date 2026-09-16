@@ -5,6 +5,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.adaway",
@@ -19,6 +20,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": false,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/dummydomain.yetanothercallblocker",
@@ -33,6 +35,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.axiel7.moelist",
@@ -47,6 +50,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.aurora.adroid",
@@ -61,6 +65,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/com.aurora.store",
@@ -75,6 +80,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.looker.droidify",
@@ -89,6 +95,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": true,
         "stores_status": []
     },
     "https://github.com/kitsunyan/foxy-droid": {
@@ -97,6 +104,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/nya.kitsunyan.foxydroid",
@@ -111,6 +119,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/org.gdroid.gdroid",
@@ -125,6 +134,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.machiav3lli.fdroid/",
@@ -139,6 +149,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": []
     },
     "https://github.com/fork-maintainers/iceraven-browser": {
@@ -147,6 +158,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": true,
         "stores_status": []
     },
     "https://github.com/arunkumar9t2/lynket-browser": {
@@ -155,6 +167,7 @@
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=arun.com.chromer",
@@ -169,6 +182,7 @@
         "is_archived": false,
         "license": "MPL-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/com.cookiegames.smartcookie",
@@ -177,8 +191,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie",
-                "status": 200,
-                "available": true
+                "status": 500,
+                "available": false
             }
         ]
     },
@@ -188,6 +202,7 @@
         "is_archived": true,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": false,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.solovyev.android.calculator",
@@ -202,6 +217,7 @@
         "is_archived": true,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.duy.calculator.free",
@@ -216,6 +232,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/ws.xsoh.etar",
@@ -235,6 +252,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.simplemobiletools.calendar.pro",
@@ -254,6 +272,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/org.andstatus.todoagenda",
@@ -273,6 +292,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.donnnno.arcticons",
@@ -292,6 +312,7 @@
         "is_archived": false,
         "license": "BSD-3-Clause",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
@@ -306,6 +327,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/eu.faircode.email",
@@ -325,6 +347,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.fsck.k9",
@@ -344,6 +367,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.swordfish.lemuroid",
@@ -354,10 +378,11 @@
     },
     "https://github.com/libretro/RetroArch": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T03:55:40Z",
+        "last_commit": "2026-09-16T04:45:51Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.retroarch",
@@ -372,6 +397,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/de.danoeh.antennapod",
@@ -380,8 +406,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=de.danoeh.antennapod",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },
@@ -391,6 +417,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": false,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.nononsenseapps.feeder/",
@@ -410,6 +437,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.schabi.newpipe",
@@ -424,6 +452,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.perflyst.twire",
@@ -438,6 +467,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.amaze.filemanager",
@@ -457,6 +487,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/me.zhanghai.android.files",
@@ -465,8 +496,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },
@@ -476,6 +507,7 @@
         "is_archived": true,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=org.lichess.mobileapp",
@@ -490,6 +522,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": false,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/com.watabou.pixeldungeon",
@@ -509,6 +542,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon",
@@ -528,6 +562,7 @@
         "is_archived": false,
         "license": "MIT",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3",
@@ -542,6 +577,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.vlath.keyboard",
@@ -561,6 +597,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/dev.patrickgold.florisboard/",
@@ -575,6 +612,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard",
@@ -594,6 +632,7 @@
         "is_archived": false,
         "license": "MIT",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/mf.asciitext.lite",
@@ -613,6 +652,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin",
@@ -632,6 +672,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/rkr.simplekeyboard.inputmethod",
@@ -651,6 +692,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/fr.neamar.kiss",
@@ -670,6 +712,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/app.olauncher",
@@ -678,8 +721,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=app.olauncher",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },
@@ -689,6 +732,7 @@
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/amirz.rootless.nexuslauncher",
@@ -708,6 +752,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/com.LAPARCELA.nihonoari/",
@@ -727,6 +772,7 @@
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/app.organicmaps",
@@ -746,6 +792,7 @@
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/net.osmand.plus",
@@ -765,6 +812,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=app.simple.positional",
@@ -779,6 +827,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/de.westnordost.streetcomplete",
@@ -798,6 +847,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/de.grobox.liberario",
@@ -817,6 +867,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.github.axet.bookreader",
@@ -836,6 +887,7 @@
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.foobnix.pro.pdf.reader",
@@ -855,6 +907,7 @@
         "is_archived": false,
         "license": "Unlicense",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.brouken.player/",
@@ -874,6 +927,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/app/org.horaapps.leafpic",
@@ -893,6 +947,7 @@
         "is_archived": false,
         "license": "MIT",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv",
@@ -912,6 +967,7 @@
         "is_archived": true,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.iven.musicplayergo",
@@ -931,6 +987,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.courville.nova",
@@ -950,6 +1007,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/dev.leonlatsch.photok",
@@ -969,6 +1027,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=code.name.monkey.retromusic",
@@ -983,6 +1042,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.simplemobiletools.gallery.pro",
@@ -1002,6 +1062,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/dev.fiedri.vibe/",
@@ -1016,6 +1077,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.poupa.vinylmusicplayer",
@@ -1035,6 +1097,7 @@
         "is_archived": true,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://mobileapp.bitwarden.com/fdroid",
@@ -1054,6 +1117,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://www.f-droid.org/packages/com.kunzisoft.keepass.libre",
@@ -1073,6 +1137,7 @@
         "is_archived": false,
         "license": "AGPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal",
@@ -1087,6 +1152,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.isoron.uhabits",
@@ -1106,6 +1172,7 @@
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/net.gsantner.markor",
@@ -1125,6 +1192,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.appmindlab.nano",
@@ -1144,6 +1212,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/it.feio.android.omninotes.foss/",
@@ -1163,6 +1232,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.orgzly",
@@ -1182,6 +1252,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": false,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/de.nproth.pin",
@@ -1196,6 +1267,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.tasks",
@@ -1215,6 +1287,7 @@
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.termux",
@@ -1234,6 +1307,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/com.beemdevelopment.aegis",
@@ -1253,6 +1327,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/dev.ukanth.ufirewall",
@@ -1272,6 +1347,7 @@
         "is_archived": false,
         "license": "MPL-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.blokada.alarm",
@@ -1286,6 +1362,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy",
@@ -1305,6 +1382,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/eu.faircode.netguard",
@@ -1313,8 +1391,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=eu.faircode.netguard",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },
@@ -1324,6 +1402,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.emanuelef.remote_capture",
@@ -1343,6 +1422,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/com.celzero.bravedns",
@@ -1362,6 +1442,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": true,
         "stores_status": []
     },
     "https://github.com/Docile-Alligator/Infinity-For-Reddit": {
@@ -1370,10 +1451,11 @@
         "is_archived": false,
         "license": "AGPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit",
-                "status": 404,
+                "status": 500,
                 "available": false
             }
         ]
@@ -1384,6 +1466,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/org.jitsi.meet",
@@ -1403,6 +1486,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.gh4a",
@@ -1422,6 +1506,7 @@
         "is_archived": false,
         "license": "GPL-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.telegram.messenger",
@@ -1436,6 +1521,7 @@
         "is_archived": true,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.keylesspalace.tusky",
@@ -1444,8 +1530,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=com.keylesspalace.tusky",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },
@@ -1455,6 +1541,7 @@
         "is_archived": false,
         "license": null,
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/org.mariotaku.twidere",
@@ -1474,6 +1561,7 @@
         "is_archived": false,
         "license": "GPL-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.nextcloud.client",
@@ -1493,6 +1581,7 @@
         "is_archived": true,
         "license": "MPL-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.nutomic.syncthingandroid",
@@ -1508,10 +1597,11 @@
     },
     "https://github.com/kamgurgul/cpu-info": {
         "repo_http": 200,
-        "last_commit": "2026-09-15T08:42:20Z",
+        "last_commit": "2026-09-16T04:54:26Z",
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.kgurgul.cpuinfo",
@@ -1531,6 +1621,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.b44t.messenger",
@@ -1539,8 +1630,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=chat.delta",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },
@@ -1550,6 +1641,7 @@
         "is_archived": false,
         "license": "NOASSERTION",
         "is_foss": false,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://apt.izzysoft.de/fdroid/index/apk/com.chooloo.www.koler",
@@ -1564,6 +1656,7 @@
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/com.mattermost.rnbeta",
@@ -1583,6 +1676,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.moez.QKSMS",
@@ -1602,6 +1696,7 @@
         "is_archived": false,
         "license": "AGPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
@@ -1616,6 +1711,7 @@
         "is_archived": false,
         "license": "GPL-2.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": []
     },
     "https://github.com/vivekweb2013/audio-recorder": {
@@ -1624,6 +1720,7 @@
         "is_archived": false,
         "license": "MIT",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder",
@@ -1638,6 +1735,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/com.tachibana.downloader",
@@ -1657,6 +1755,7 @@
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/io.github.sds100.keymapper",
@@ -1676,6 +1775,7 @@
         "is_archived": false,
         "license": "AGPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.mirfatif.permissionmanagerx",
@@ -1695,6 +1795,7 @@
         "is_archived": false,
         "license": "LGPL-3.0",
         "is_foss": true,
+        "has_release": true,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/wangdaye.com.geometricweather/",
