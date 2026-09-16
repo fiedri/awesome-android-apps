@@ -375,6 +375,7 @@ def process_remove(apps_files, dry_run):
     removed_apps = []
     cleaned_stores = []
     orphaned_sources = []
+    live_sources = set()
 
     for file in apps_files:
         data = read_file(file)
@@ -386,6 +387,7 @@ def process_remove(apps_files, dry_run):
 
         for app in apps:
             source = app.get("source")
+            live_sources.add(source)
             override = overrides.get(source)
             cached = cache.get(source)
             merged = effective(app, cached, override)
@@ -445,12 +447,16 @@ def process_remove(apps_files, dry_run):
 
     if not removed_apps and not cleaned_stores:
         print("Nothing to remove or clean.")
-        return
 
     if not dry_run:
-        for source in orphaned_sources:
+        # Purge cache/overrides entries whose app no longer exists in any
+        # apps/*.json (manually removed) plus apps removed in this run.
+        ghost_sources = (set(cache) | set(overrides)) - live_sources
+        for source in sorted(ghost_sources | set(orphaned_sources)):
             cache.pop(source, None)
             overrides.pop(source, None)
+            if source in ghost_sources:
+                print(f"  Purged orphan entry: {source}")
         save_datastore(CACHE_FILE, cache)
         save_datastore(OVERRIDES_FILE, overrides)
         for name, category, source, fields in cleaned_stores:
