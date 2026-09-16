@@ -81,20 +81,20 @@ def build_category(cat):
 
         for app in cat_json.get("apps"):
             merged = effective(app, cache.get(app.get("source")), overrides.get(app.get("source")))
-            name = app.get("name")
-            description = app.get("description")
-            source = app.get("source")
-            fdroid = app.get("fdroid")
-            playstore = app.get("playstore")
-            website = app.get("website")
+            name = merged.get("name")
+            description = merged.get("description")
+            source = merged.get("source")
+            fdroid = merged.get("fdroid")
+            playstore = merged.get("playstore")
+            website = merged.get("website")
 
             m = re.match(
                 r"https://(gitlab|github)\.com/([a-zA-Z0-9\-_.]+)/([a-zA-Z0-9\-_.]+)",
                 source,
             )
             if m == None:
-                stars_link = app.get("stars_link")
-                last_commit_link = app.get("last_commit_link")
+                stars_link = merged.get("stars_link")
+                last_commit_link = merged.get("last_commit_link")
             else:
                 stars_link = (
                     f"https://badgen.net/{m.group(1)}/stars/{'/'.join(m.group(2,3))}"

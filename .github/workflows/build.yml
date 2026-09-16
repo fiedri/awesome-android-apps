@@ -20,6 +20,16 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: install dependencies
+        run: |-
+          pip install aiohttp
+
+      - name: check apps' health and refresh the cache
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |-
+          python scripts/curate.py check --dir apps
+
       - name: update content
         run: |-
           python scripts/build.py
