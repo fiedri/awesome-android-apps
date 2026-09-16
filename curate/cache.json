@@ -402,7 +402,7 @@
     },
     "https://github.com/libretro/RetroArch": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T15:18:55Z",
+        "last_commit": "2026-09-16T15:27:47Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -797,7 +797,7 @@
         "license": "NOASSERTION",
         "is_foss": false,
         "has_release": true,
-        "stars": 15428,
+        "stars": 15429,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/app.organicmaps",
@@ -1269,8 +1269,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=com.orgzly",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },
@@ -3510,7 +3510,7 @@
     },
     "https://github.com/deckerst/aves": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T15:25:51Z",
+        "last_commit": "2026-09-16T15:33:58Z",
         "is_archived": false,
         "license": "BSD-3-Clause",
         "is_foss": true,
@@ -4199,8 +4199,8 @@
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=de.tutao.tutanota",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },
@@ -5623,8 +5623,8 @@
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.achep.acdisplay",
-                "status": 500,
-                "available": false
+                "status": 200,
+                "available": true
             }
         ]
     },

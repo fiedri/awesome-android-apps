@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/556-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/536-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <img src="https://img.shields.io/github/stars/fiedri/awesome-mobile-apps?style=for-the-badge" alt="Stars"/>
 <img src="https://img.shields.io/github/forks/fiedri/awesome-mobile-apps?style=for-the-badge" alt="Forks"/>
