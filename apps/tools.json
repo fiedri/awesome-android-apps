@@ -1,0 +1,12 @@
+{
+    "title": "Tools",
+    "emoji": "U+2699",
+    "apps": [
+        {
+            "source": "https://github.com/sdex/activitymanager",
+            "name": "Activity Manager",
+            "description": "Discover the activities of installed applications, run them, and create shortcuts",
+            "fdroid": "https://f-droid.org/en/packages/com.activitymanager/"
+        }
+    ]
+}

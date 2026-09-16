@@ -3,6 +3,20 @@
     "emoji": "\ud83d\uddfa",
     "apps": [
         {
+            "source": "https://github.com/mendhak/gpslogger",
+            "name": "GPSLogger",
+            "description": "logs GPS information to various formats (GPX, KML, CSV, NMEA, Custom URL) and has options for uploading (SFTP, OpenStreetMap, Google Drive, Dropbox, Email). This app aims to be as battery efficient as possible.",
+            "fdroid": "https://f-droid.org/en/packages/com.mendhak.gpslogger/",
+            "website": "https://gpslogger.app/"
+        },
+        {
+            "source": "https://github.com/tumic0/gpxsee",
+            "name": "GPXSee",
+            "description": "GPXSee is a Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats.",
+            "playstore": "https://play.google.com/store/apps/details?id=org.gpxsee.gpxsee",
+            "website": "https://gpxsee.org/"
+        },
+        {
             "name": "Organic Maps",
             "description": "A free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data. No ads, no tracking, no data collection, no crapware.",
             "source": "https://github.com/organicmaps/organicmaps",

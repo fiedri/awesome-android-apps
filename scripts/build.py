@@ -105,7 +105,7 @@ def build_category(cat):
             badge_commit = (
                 f"![last commit]({last_commit_link})" if last_commit_link else ""
             )
-            link_source = f'[`[source]`]({source} "source")'
+            link_source = f'[`{name}`]({source} "link")'
             link_fdroid = f'[`[f-droid]`]({fdroid} "f-droid")' if fdroid else ""
             link_playstore = (
                 f'[`[playstore]`]({playstore} "playstore")' if playstore else ""
@@ -113,9 +113,9 @@ def build_category(cat):
             link_website = f'[`[website]`]({website} "website")' if website else ""
 
             safe_description = description.replace("|", "\\|")
-            links = " ".join(filter(None, [link_source, link_fdroid, link_playstore, link_website]))
+            links = " ".join(filter(None, [link_fdroid, link_playstore, link_website]))
             lines.append(
-                f"| **{name}** | {status_badge(merged.get('status'))} | {safe_description} | {badge_stars} | {badge_commit} | {links} |"
+                f"| **{link_source}** | {status_badge(merged.get('status'))} | {safe_description} | {badge_stars} | {badge_commit} | {links} |"
             )
 
         f.write("\n".join(lines))

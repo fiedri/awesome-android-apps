@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/103-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/106-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <a href="./LICENSE">
 <img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
@@ -39,6 +39,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 - [🎓 Learning](categories/learning.md)
 - [🗺 Maps](categories/maps.md)
 - [⏯ Media Viewers and Players](categories/media-viewers-and-players.md)
+- [U+1F4E8 Messaging](categories/messaging.md)
 - [🔑 Password Managers](categories/password-managers.md)
 - [👩‍🔧 Productivity](categories/productivity.md)
 - [💻 Programming](categories/programming.md)
@@ -47,6 +48,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 - [🔄 Synchronization](categories/synchronization.md)
 - [⚙ System Info](categories/system-info.md)
 - [💬 Texting and Phone](categories/texting-and-phone.md)
+- [U+2699 Tools](categories/tools.md)
 - [🛠 Utilities](categories/utilities.md)
 - [⛅ Weather](categories/weather.md)
 <!-- table-of-contents ends -->
