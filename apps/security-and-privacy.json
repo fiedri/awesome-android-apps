@@ -25,13 +25,6 @@
             "playstore": "https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall"
         },
         {
-            "name": "andOTP",
-            "description": "A two-factor authentication App for Android 5.1+. It implements Time-based One-time Passwords (TOTP) and HMAC-Based One-Time Passwords (HOTP). Simply scan the QR code and login with the generated 6-digit code.",
-            "source": "https://github.com/andOTP/andOTP",
-            "fdroid": "https://f-droid.org/packages/org.shadowice.flocke.andotp",
-            "playstore": "https://play.google.com/store/apps/details?id=org.shadowice.flocke.andotp"
-        },
-        {
             "name": "Blokada",
             "description": "A free, open source, compact, fast ad blocker for Android that works for all apps and does not require root because it uses the VPN API.",
             "source": "https://github.com/blokadaorg/blokada",
@@ -67,12 +60,6 @@
             "fdroid": "https://f-droid.org/en/packages/com.celzero.bravedns",
             "playstore": "https://play.google.com/store/apps/details?id=com.celzero.bravedns",
             "website": "https://www.rethinkfirewall.com"
-        },
-        {
-            "name": "Vigilante",
-            "description": "An app that focuses on your privacy and alerts you with a notification when a third-party application uses your device camera or microphone. It doesn't require an internet connection.",
-            "source": "https://github.com/FunkyMuse/Vigilante",
-            "fdroid": "https://f-droid.org/en/packages/com.crazylegend.vigilante"
         },
         {
             "name": "Warden",

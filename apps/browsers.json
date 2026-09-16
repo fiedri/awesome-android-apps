@@ -14,12 +14,6 @@
             "source": "https://github.com/fork-maintainers/iceraven-browser"
         },
         {
-            "name": "Kiwi Browser",
-            "description": "A fully open-source web browser for Android. Kiwi is based on Chromium. Easily switch to Kiwi without having to painstakingly learn a new interface or break your existing browsing habits. It supports Chrome Extensions, night mode and bottom address bar, as well as performance improvements.",
-            "source": "https://github.com/kiwibrowser/src",
-            "playstore": "https://play.google.com/store/apps/details?id=com.kiwibrowser.browser"
-        },
-        {
             "name": "Lynket",
             "description": "Android browser app based on Custom Tabs protocol. Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu.",
             "source": "https://github.com/arunkumar9t2/lynket-browser",

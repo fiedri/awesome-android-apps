@@ -26,5 +26,1686 @@
                 "available": true
             }
         ]
+    },
+    "https://github.com/axiel7/MoeList": {
+        "repo_http": 200,
+        "last_commit": "2026-08-09T08:38:47Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.axiel7.moelist",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://gitlab.com/AuroraOSS/auroradroid": {
+        "repo_http": 200,
+        "last_commit": "2026-08-08T20:46:26.000+05:30",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.aurora.adroid",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://gitlab.com/AuroraOSS/AuroraStore": {
+        "repo_http": 200,
+        "last_commit": "2026-08-24T13:15:18.000+05:30",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.aurora.store",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Droid-ify/client": {
+        "repo_http": 200,
+        "last_commit": "2026-09-12T18:49:55Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.looker.droidify",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://gitlab.com/fdroid/fdroidclient": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T21:02:31.000+00:00",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": []
+    },
+    "https://github.com/kitsunyan/foxy-droid": {
+        "repo_http": 200,
+        "last_commit": "2020-08-01T02:59:01Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/nya.kitsunyan.foxydroid",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://gitlab.com/gdroid/gdroidclient": {
+        "repo_http": 200,
+        "last_commit": "2026-01-29T12:03:07.000+00:00",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/org.gdroid.gdroid",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/neoapplications/neo-store": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T00:56:11Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.machiav3lli.fdroid/",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/bromite/bromite": {
+        "repo_http": 200,
+        "last_commit": "2023-01-27T23:57:29Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": []
+    },
+    "https://github.com/fork-maintainers/iceraven-browser": {
+        "repo_http": 200,
+        "last_commit": "2026-09-10T15:16:41Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": []
+    },
+    "https://github.com/arunkumar9t2/lynket-browser": {
+        "repo_http": 200,
+        "last_commit": "2025-09-26T19:32:23Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=arun.com.chromer",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/CookieJarApps/SmartCookieWeb": {
+        "repo_http": 200,
+        "last_commit": "2026-07-05T17:10:51Z",
+        "is_archived": false,
+        "license": "MPL-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.cookiegames.smartcookie",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Bubu/android-calculatorpp": {
+        "repo_http": 200,
+        "last_commit": "2022-08-04T18:54:25Z",
+        "is_archived": true,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.solovyev.android.calculator",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/tranleduy2000/ncalc": {
+        "repo_http": 200,
+        "last_commit": "2021-05-22T16:46:40Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.duy.calculator.free",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Etar-Group/Etar-Calendar": {
+        "repo_http": 200,
+        "last_commit": "2026-08-01T11:34:01Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/ws.xsoh.etar",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=ws.xsoh.etar",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/SimpleMobileTools/Simple-Calendar": {
+        "repo_http": 200,
+        "last_commit": "2024-06-11T09:57:04Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.simplemobiletools.calendar.pro",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/andstatus/todoagenda": {
+        "repo_http": 200,
+        "last_commit": "2026-08-16T13:57:58Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/org.andstatus.todoagenda",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.andstatus.todoagenda",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Arcticons-Team/Arcticons": {
+        "repo_http": 200,
+        "last_commit": "2026-09-13T15:35:08Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.donnnno.arcticons",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.donnnno.arcticons",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Hash-Studios/Prism": {
+        "repo_http": 200,
+        "last_commit": "2026-04-08T15:30:48Z",
+        "is_archived": false,
+        "license": "BSD-3-Clause",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/M66B/FairEmail": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T11:01:25Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/eu.faircode.email",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=eu.faircode.email",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/k9mail/k-9": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T10:30:27Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.fsck.k9",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.fsck.k9",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Swordfish90/Lemuroid": {
+        "repo_http": 200,
+        "last_commit": "2026-05-22T09:26:22Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.swordfish.lemuroid",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/libretro/RetroArch": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T03:55:40Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.retroarch",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/AntennaPod/AntennaPod": {
+        "repo_http": 200,
+        "last_commit": "2026-09-12T18:25:07Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/de.danoeh.antennapod",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=de.danoeh.antennapod",
+                "status": 500,
+                "available": false
+            }
+        ]
+    },
+    "https://gitlab.com/spacecowboy/Feeder": {
+        "repo_http": 200,
+        "last_commit": null,
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.nononsenseapps.feeder/",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/TeamNewPipe/NewPipe": {
+        "repo_http": 200,
+        "last_commit": "2026-08-31T12:57:33Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.schabi.newpipe",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/twireapp/Twire": {
+        "repo_http": 200,
+        "last_commit": "2026-07-10T02:20:32Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.perflyst.twire",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/TeamAmaze/AmazeFileManager": {
+        "repo_http": 200,
+        "last_commit": "2026-08-20T20:39:22Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.amaze.filemanager",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.amaze.filemanager",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/zhanghai/MaterialFiles": {
+        "repo_http": 200,
+        "last_commit": "2026-04-06T02:42:57Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/me.zhanghai.android.files",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
+                "status": 500,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/veloce/lichobile": {
+        "repo_http": 200,
+        "last_commit": "2026-02-15T22:57:49Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.lichess.mobileapp",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/watabou/pixel-dungeon": {
+        "repo_http": 200,
+        "last_commit": "2015-10-01T09:36:02Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.watabou.pixeldungeon",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/00-Evan/shattered-pixel-dungeon": {
+        "repo_http": 200,
+        "last_commit": "2026-09-09T17:14:08Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/albertomosconi/TalpaSplat3": {
+        "repo_http": 200,
+        "last_commit": "2023-07-04T16:21:42Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/VladThodo/behe-keyboard": {
+        "repo_http": 200,
+        "last_commit": "2019-12-14T08:34:24Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.vlath.keyboard",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.vlath.keyboard",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/florisboard/florisboard": {
+        "repo_http": 200,
+        "last_commit": "2026-08-21T22:45:34Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/dev.patrickgold.florisboard/",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/klausw/hackerskeyboard": {
+        "repo_http": 200,
+        "last_commit": "2024-10-09T18:29:11Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/MobileFirstLLC/irregular-expressions": {
+        "repo_http": 200,
+        "last_commit": "2024-02-12T19:39:04Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/mf.asciitext.lite",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=mf.asciitext.lite",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/dslul/openboard": {
+        "repo_http": 200,
+        "last_commit": "2022-12-17T13:01:09Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/rkkr/simple-keyboard": {
+        "repo_http": 200,
+        "last_commit": "2026-09-12T05:06:31Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/rkr.simplekeyboard.inputmethod",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Neamar/KISS": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T09:51:48Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/fr.neamar.kiss",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=fr.neamar.kiss",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/tanujnotes/Olauncher": {
+        "repo_http": 200,
+        "last_commit": "2026-09-01T13:58:42Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/app.olauncher",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=app.olauncher",
+                "status": 500,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/amirzaidi/Launcher3": {
+        "repo_http": 200,
+        "last_commit": "2019-05-19T16:42:58Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/amirz.rootless.nexuslauncher",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/aeri/Nihonoari-App": {
+        "repo_http": 200,
+        "last_commit": "2024-05-21T23:35:08Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.LAPARCELA.nihonoari/",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.LAPARCELA.nihonoari",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/organicmaps/organicmaps": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T23:10:01Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/app.organicmaps",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=app.organicmaps",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/osmandapp/Osmand": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T03:51:44Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/net.osmand.plus",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=net.osmand",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Hamza417/Positional": {
+        "repo_http": 200,
+        "last_commit": "2026-05-12T18:34:36Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=app.simple.positional",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/westnordost/StreetComplete": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T21:32:29Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/de.westnordost.streetcomplete",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/grote/transportr": {
+        "repo_http": 200,
+        "last_commit": "2026-05-27T21:23:31Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/de.grobox.liberario",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=de.grobox.liberario",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://gitlab.com/axet/android-book-reader": {
+        "repo_http": 200,
+        "last_commit": "2022-08-03T13:23:09.000+03:00",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.github.axet.bookreader",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.github.axet.bookreader",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/foobnix/LibreraReader": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T16:48:05Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.foobnix.pro.pdf.reader",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/moneytoo/Player": {
+        "repo_http": 200,
+        "last_commit": "2026-09-11T21:05:55Z",
+        "is_archived": false,
+        "license": "Unlicense",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.brouken.player/",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.brouken.player",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/UnevenSoftware/LeafPic": {
+        "repo_http": 200,
+        "last_commit": "2021-02-09T19:26:42Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/app/org.horaapps.leafpic",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.horaapps.leafpic",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/mpv-android/mpv-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-11T15:14:36Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=is.xyz.mpv",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/enricocid/Music-Player-GO": {
+        "repo_http": 200,
+        "last_commit": "2025-01-04T20:51:30Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.iven.musicplayergo",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.iven.musicplayergo",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/nova-video-player/aos-AVP": {
+        "repo_http": 200,
+        "last_commit": "2026-09-07T17:07:12Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.courville.nova",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.courville.nova",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/leonlatsch/photok": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T19:05:33Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/dev.leonlatsch.photok",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=dev.leonlatsch.photok",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/RetroMusicPlayer/RetroMusicPlayer": {
+        "repo_http": 200,
+        "last_commit": "2026-08-15T21:45:19Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=code.name.monkey.retromusic",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/SimpleMobileTools/Simple-Gallery": {
+        "repo_http": 200,
+        "last_commit": "2024-06-11T10:00:08Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.simplemobiletools.gallery.pro",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/fiedri/vibe-player": {
+        "repo_http": 200,
+        "last_commit": "2026-09-11T14:32:06Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/dev.fiedri.vibe/",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/AdrienPoupa/VinylMusicPlayer": {
+        "repo_http": 200,
+        "last_commit": "2024-08-18T15:31:23Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.poupa.vinylmusicplayer",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/bitwarden/mobile": {
+        "repo_http": 200,
+        "last_commit": "2025-05-14T18:06:43Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://mobileapp.bitwarden.com/fdroid",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.x8bit.bitwarden",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/Kunzisoft/KeePassDX": {
+        "repo_http": 200,
+        "last_commit": "2026-09-10T18:22:48Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://www.f-droid.org/packages/com.kunzisoft.keepass.libre",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/GitJournal/GitJournal": {
+        "repo_http": 200,
+        "last_commit": "2026-05-26T13:48:08Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/iSoron/uhabits": {
+        "repo_http": 200,
+        "last_commit": "2026-07-21T12:58:29Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.isoron.uhabits",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.isoron.uhabits",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/gsantner/markor": {
+        "repo_http": 200,
+        "last_commit": "2026-08-24T17:02:06Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/net.gsantner.markor",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=net.gsantner.markor",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/appml/neutrinote": {
+        "repo_http": 200,
+        "last_commit": "2026-09-09T09:00:35Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.appmindlab.nano",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.appmindlab.nano",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/federicoiosue/Omni-Notes": {
+        "repo_http": 200,
+        "last_commit": "2025-08-12T20:42:54Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/it.feio.android.omninotes.foss/",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=it.feio.android.omninotes",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/orgzly/orgzly-android": {
+        "repo_http": 200,
+        "last_commit": "2026-01-29T16:28:03Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.orgzly",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.orgzly",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/nproth/pin": {
+        "repo_http": 200,
+        "last_commit": "2022-08-29T20:14:03Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/de.nproth.pin",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/tasks/tasks": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T02:05:53Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.tasks",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.tasks",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/termux/termux-app": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T20:04:11Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.termux",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.termux",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/beemdevelopment/Aegis": {
+        "repo_http": 200,
+        "last_commit": "2026-09-06T10:18:35Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.beemdevelopment.aegis",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/ukanth/afwall": {
+        "repo_http": 200,
+        "last_commit": "2026-08-06T12:44:42Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/dev.ukanth.ufirewall",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/blokadaorg/blokada": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T13:45:13Z",
+        "is_archived": false,
+        "license": "MPL-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.blokada.alarm",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/Exodus-Privacy/exodus-android-app": {
+        "repo_http": 200,
+        "last_commit": "2025-11-20T18:38:19Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/M66B/NetGuard": {
+        "repo_http": 200,
+        "last_commit": "2026-08-01T21:26:50Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/eu.faircode.netguard",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=eu.faircode.netguard",
+                "status": 500,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/emanuele-f/PCAPdroid": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T16:44:34Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.emanuelef.remote_capture",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/celzero/rethink-app": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T22:29:55Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.celzero.bravedns",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.celzero.bravedns",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://gitlab.com/AuroraOSS/AppWarden": {
+        "repo_http": 200,
+        "last_commit": "2024-01-18T23:06:58.000+05:30",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": []
+    },
+    "https://github.com/Docile-Alligator/Infinity-For-Reddit": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T03:05:12Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/jitsi/jitsi-meet": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T23:33:20Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/org.jitsi.meet",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.jitsi.meet",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/slapperwan/gh4a": {
+        "repo_http": 200,
+        "last_commit": "2025-12-09T10:30:31Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.gh4a",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.gh4a",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/Telegram-FOSS-Team/Telegram-FOSS": {
+        "repo_http": 200,
+        "last_commit": "2024-07-07T17:04:16Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.telegram.messenger",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/tuskyapp/Tusky": {
+        "repo_http": 200,
+        "last_commit": "2025-05-23T10:09:36Z",
+        "is_archived": true,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.keylesspalace.tusky",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.keylesspalace.tusky",
+                "status": 500,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/TwidereProject/Twidere-Android": {
+        "repo_http": 200,
+        "last_commit": "2021-04-21T09:04:41Z",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.mariotaku.twidere",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.mariotaku.twidere",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/nextcloud/android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T04:12:08Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.nextcloud.client",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.nextcloud.client",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/syncthing/syncthing-android": {
+        "repo_http": 200,
+        "last_commit": "2024-12-03T21:13:06Z",
+        "is_archived": true,
+        "license": "MPL-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.nutomic.syncthingandroid",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/kamgurgul/cpu-info": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T08:42:20Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.kgurgul.cpuinfo",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/deltachat/deltachat-android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-14T18:43:54Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.b44t.messenger",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=chat.delta",
+                "status": 500,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/Chooloo/koler": {
+        "repo_http": 200,
+        "last_commit": "2023-06-20T18:40:14Z",
+        "is_archived": false,
+        "license": "NOASSERTION",
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://apt.izzysoft.de/fdroid/index/apk/com.chooloo.www.koler",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/mattermost/mattermost-mobile": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T15:28:03Z",
+        "is_archived": false,
+        "license": "Apache-2.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.mattermost.rnbeta",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.mattermost.rn",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/moezbhatti/qksms": {
+        "repo_http": 200,
+        "last_commit": "2021-10-28T21:14:35Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.moez.QKSMS",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.moez.QKSMS",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/signalapp/Signal-Android": {
+        "repo_http": 200,
+        "last_commit": "2026-09-16T00:41:05Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/shmykelsa/AA-Tweaker": {
+        "repo_http": 200,
+        "last_commit": "2023-05-30T11:04:58Z",
+        "is_archived": false,
+        "license": "GPL-2.0",
+        "is_foss": true,
+        "stores_status": []
+    },
+    "https://github.com/vivekweb2013/audio-recorder": {
+        "repo_http": 200,
+        "last_commit": "2021-10-08T06:55:08Z",
+        "is_archived": false,
+        "license": "MIT",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/TachibanaGeneralLaboratories/download-navi": {
+        "repo_http": 200,
+        "last_commit": "2025-05-24T06:20:11Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/com.tachibana.downloader",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.tachibana.downloader",
+                "status": 404,
+                "available": false
+            }
+        ]
+    },
+    "https://github.com/sds100/KeyMapper": {
+        "repo_http": 200,
+        "last_commit": "2026-09-15T16:39:55Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/io.github.sds100.keymapper",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=io.github.sds100.keymapper",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/mirfatif/PermissionManagerX": {
+        "repo_http": 200,
+        "last_commit": "2026-09-03T09:53:31Z",
+        "is_archived": false,
+        "license": "AGPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/com.mirfatif.permissionmanagerx",
+                "status": 200,
+                "available": true
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://github.com/WangDaYeeeeee/GeometricWeather": {
+        "repo_http": 200,
+        "last_commit": "2022-06-10T12:11:48Z",
+        "is_archived": false,
+        "license": "LGPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/en/packages/wangdaye.com.geometricweather/",
+                "status": 404,
+                "available": false
+            },
+            {
+                "url": "https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather",
+                "status": 404,
+                "available": false
+            }
+        ]
     }
 }

@@ -25,13 +25,6 @@
             "website": "https://newpipe.schabi.org"
         },
         {
-            "name": "Tachiyomi",
-            "description": "Free and open source manga reader for Android, supports online reading from sources such as MangaDex, MangaSee, Mangakakalot, and more. Local reading of downloaded manga. A configurable reader with multiple viewers, reading directions and other settings, and much more.",
-            "source": "https://github.com/inorichi/tachiyomi",
-            "fdroid": "https://f-droid.org/en/packages/eu.kanade.tachiyomi",
-            "website": "https://tachiyomi.org"
-        },
-        {
             "name": "Twire",
             "description": "An Open Source, AD-Free Twitch browser and stream player for Android. Supports VODs with chat replay, custom emotes (BTTV and FFZ) and Picture in Picture mode. A fork of Pocket Plays for Twitch.",
             "source": "https://github.com/twireapp/Twire",

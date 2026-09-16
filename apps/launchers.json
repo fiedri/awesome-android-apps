@@ -18,14 +18,6 @@
             "playstore": "https://play.google.com/store/apps/details?id=app.olauncher"
         },
         {
-            "name": "Posidon",
-            "description": "A one-page launcher with an rss feed. Built from scratch, to be a different experience. The ui was heavily inspired by One UI. Being designed from scratch allows this launcher to be easily optimized for big screens. It's minimal yet feature-rich.",
-            "source": "https://github.com/lposidon/posidonLauncher",
-            "fdroid": "https://www.f-droid.org/packages/posidon.launcher",
-            "playstore": "https://play.google.com/store/apps/details?id=posidon.launcher",
-            "website": "https://posidon.io/launcher"
-        },
-        {
             "name": "Rootless Pixel Launcher",
             "description": "A close to AOSP launcher that only changes the necessary code to allow for small extensions and backporting to older Android versions. Pixel Launcher is focused on simplicity and rock solid stability.",
             "source": "https://github.com/amirzaidi/Launcher3",
