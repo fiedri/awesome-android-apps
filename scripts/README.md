@@ -1,0 +1,157 @@
+# Scripts
+
+Helper scripts for maintaining this repository. Run them from the repo root.
+
+| Script | Purpose |
+|--------|---------|
+| [`add.py`](#addpy) | Interactively add an app or a category to `apps/*.json` |
+| [`build.py`](#buildpy) | Regenerate `categories/*.md`, the README app count, table of contents and status legend |
+| [`curate.py`](#curatepy) | Check repository/store health, mark statuses, remove dead apps and clean dead store links |
+
+---
+
+## add.py
+
+```
+$ python scripts/add.py
+```
+
+Prompts `[0] new app` / `[1] new category`. No command line arguments.
+
+- **new app**: asks for category, source, name, description and optional `fdroid`, `playstore`, `website` links. Every link is validated over HTTP (must return 200). Apps are inserted alphabetically by name.
+- **new category**: asks for a slug name and an emoji, then creates `apps/<name>.json`.
+
+After adding, run:
+
+```
+$ python scripts/build.py
+```
+
+### Parameters
+
+None. Everything is interactive.
+
+---
+
+## build.py
+
+```
+$ python scripts/build.py
+```
+
+Regenerates the generated content from `apps/*.json`:
+
+- `categories/*.md` — one table per category (`App | Status | Description | Stars | Last commit | Links`).
+- `README.md` — the `apps-count` badge, the `table-of-contents` chunk and the `status-legend` chunk.
+
+The script is idempotent: if the source JSONs did not change, running it again produces byte-identical files (no phantom diffs).
+
+### Parameters
+
+None.
+
+---
+
+## curate.py
+
+```bash
+# 1. Check health of every app and write the facts into curate/cache.json
+$ python scripts/curate.py check --dir apps/test
+#    ^ use --dir apps to target the real catalogue
+
+# 2. Preview what would be removed / cleaned, without touching anything
+$ python scripts/curate.py remove --dir apps/test --dry-run
+
+# 3. Apply the removals, clean dead stores and log them to REMOVED.md
+$ python scripts/curate.py remove --dir apps/test
+```
+
+### Data model (three layers)
+
+`check` never touches `apps/*.json` and never touches your manual decisions. It only
+writes machine-computed facts into `curate/cache.json`.
+
+| Layer | File | Written by | Purpose |
+|-------|------|------------|---------|
+| Source | `apps/*.json` | `add.py` (`remove` deletes here) | Identity only: name, description, source, stores |
+| Cache | `curate/cache.json` | `curate.py check` | Machine facts: last commit, archived, license, store status. Regenerated every run |
+| Overrides | `curate/overrides.json` | You | Human decisions, versioned, NEVER overwritten |
+
+Merge rule: **overrides > cache > source**.
+
+The status is never stored: it is **derived at read time** from the effective
+(merged) facts by `build.py` / `curate.py remove`.
+
+### Manual review (your fix survives re-checks)
+
+The whole point: if you manually fix an app, `curate.py check` will NOT clobber it.
+Add an entry to `curate/overrides.json` keyed by the app `source`:
+
+```json
+{
+  "https://gitlab.com/xynngh/YetAnotherCallBlocker": {
+    "fields": { "license": "GPL-3.0", "is_foss": true },
+    "reason": "GitLab API does not expose the license; verified in the README."
+  }
+}
+```
+
+- `fields` wins over any computed value, forever.
+- Pinning `status` in `fields` **disables automatic removal** for that app (you own it).
+
+### Parameters
+
+| Argument | Description |
+|----------|-------------|
+| `command` | `check` or `remove` (required) |
+| `--dir PATH` | Directory with the `.json` files (default: `apps/test`) |
+| `--dry-run` | Only for `remove`: show the result without modifying files |
+
+### Status values
+
+The status is derived from the effective facts. Badge colors are defined in
+`scripts/build.py` ([`STATUS_BADGES`](build.py)).
+
+| Status | Meaning |
+|--------|---------|
+| `healthy` | Active repo, FOSS license and stores reachable |
+| `inactive` | No commits in the last 730 days (informational, NOT removed) |
+| `archived` | Repo was archived (removed only if also inactive AND all stores return 404) |
+| `no_open_code` | License not detected as FOSS (manual review required, NOT removed) |
+| `broken_link` | Some store returns 404 (informational, NOT removed on its own) |
+| `repo_gone` | Source repository returns 404 (direct removal candidate) |
+| *(no badge)* | Never checked yet — no data in the cache |
+
+### Automatic removal criteria
+
+Only criteria the network cannot lie about:
+
+1. `status == "repo_gone"` — the source code no longer exists.
+2. `status == "archived"` + no commits in 730 days + **all** stores return 404 (three independent sources agree).
+
+If only *some* stores return 404, the app is **kept** and just those dead store
+links are suppressed via an override. Apps with a human-pinned `status` are never
+auto-removed.
+
+### One-time migration
+
+If the repo was previously curated with the old layout (computed fields inline in
+`apps/*.json`), run once to move them into the cache:
+
+```bash
+$ python scripts/migrate_cache.py --dir apps
+```
+
+### GitHub token (optional)
+
+Without a token you get the anonymous GitHub limit of 60 req/h, which will leave most of the catalogue `unchecked`.
+
+```bash
+# either a .env file at the repo root
+$ echo "GITHUB_TOKEN=ghp_..." > .env
+
+# or an environment variable
+$ export GITHUB_TOKEN=ghp_...
+```
+
+Minimal scope: `public_repo` (read only). On a fine-grained token, only `Contents: Read-only` and `Metadata: Read-only` for the repositories you want to check.

@@ -1,4 +1,45 @@
 import functools, json, pathlib, re
+from utils import read_file, load_datastore, effective
+
+# status -> shield badge (shared with curate.py statuses)
+STATUS_BADGES = {
+    "healthy": "https://img.shields.io/badge/status-healthy-success",
+    "inactive": "https://img.shields.io/badge/status-inactive-yellow",
+    "archived": "https://img.shields.io/badge/status-archived-inactive",
+    "no_open_code": "https://img.shields.io/badge/status-no_open_code-orange",
+    "broken_link": "https://img.shields.io/badge/status-broken_link-critical",
+    "repo_gone": "https://img.shields.io/badge/status-repo_gone-critical",
+    "unchecked": "https://img.shields.io/badge/status-unchecked-lightgrey",
+}
+
+STATUS_INFO = {
+    "healthy": "Repository active, FOSS license and stores reachable.",
+    "inactive": "No commits in the last 730 days (informational, not removed).",
+    "archived": "Repository archived by its maintainers.",
+    "no_open_code": "License not detected as FOSS (needs manual review).",
+    "broken_link": "At least one store returns 404 (informational, not removed alone).",
+    "repo_gone": "Source repository returns 404 - removed by curate.py.",
+}
+
+
+def status_badge(status):
+    if not status:
+        return ""
+    url = STATUS_BADGES.get(status)
+    if not url:
+        return str(status)
+    return f"![{status}]({url})"
+
+
+def build_status_legend():
+    lines = [
+        "| Status | Meaning |",
+        "|--------|---------|",
+    ]
+    for status, meaning in STATUS_INFO.items():
+        lines.append(f"| {status_badge(status)} | {meaning} |")
+    lines.append("| _(no badge)_ | Not checked yet by curate.py. |")
+    return "\n".join(lines)
 
 
 def parse_categories():
@@ -34,11 +75,12 @@ def build_category(cat):
             f'# {cat_json.get("emoji")} {cat_json.get("title")}',
             "[`< go back home`](../README.md)",
             "",
-            "| App | Description | Stars | Last commit | Links |",
-            "|-----|-------------|-------|-------------|-------|",
+            "| App | Status | Description | Stars | Last commit | Links |",
+            "|-----|--------|-------------|-------|-------------|-------|",
         ]
 
         for app in cat_json.get("apps"):
+            merged = effective(app, cache.get(app.get("source")), overrides.get(app.get("source")))
             name = app.get("name")
             description = app.get("description")
             source = app.get("source")
@@ -47,7 +89,7 @@ def build_category(cat):
             website = app.get("website")
 
             m = re.match(
-                "https:\/\/(gitlab|github)\.com/([a-zA-Z0-9\-\_\.]+)/([a-zA-Z0-9\-\_\.]+)",
+                r"https://(gitlab|github)\.com/([a-zA-Z0-9\-_.]+)/([a-zA-Z0-9\-_.]+)",
                 source,
             )
             if m == None:
@@ -73,7 +115,7 @@ def build_category(cat):
             safe_description = description.replace("|", "\\|")
             links = " ".join(filter(None, [link_source, link_fdroid, link_playstore, link_website]))
             lines.append(
-                f"| **{name}** | {safe_description} | {badge_stars} | {badge_commit} | {links} |"
+                f"| **{name}** | {status_badge(merged.get('status'))} | {safe_description} | {badge_stars} | {badge_commit} | {links} |"
             )
 
         f.write("\n".join(lines))
@@ -100,6 +142,10 @@ def build_readme():
         readme_contents, "table-of-contents", "\n".join(toc_lines)
     )
 
+    readme_contents = replace_chunk(
+        readme_contents, "status-legend", build_status_legend()
+    )
+
     (root / "README.md").open("w").write(readme_contents)
 
 
@@ -108,6 +154,9 @@ if __name__ == "__main__":
     scripts_dir = root / "scripts"
     json_dir = root / "apps"
     categories_dir = root / "categories"
+
+    cache = load_datastore(root / "curate" / "cache.json")
+    overrides = load_datastore(root / "curate" / "overrides.json")
 
     if not categories_dir.exists():
         pathlib.Path.mkdir(categories_dir)

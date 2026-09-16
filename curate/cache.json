@@ -1,0 +1,30 @@
+{
+    "https://github.com/AdAway/AdAway": {
+        "repo_http": 200,
+        "last_commit": "2025-12-29T07:52:24Z",
+        "is_archived": false,
+        "license": "GPL-3.0",
+        "is_foss": true,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/org.adaway",
+                "status": 200,
+                "available": true
+            }
+        ]
+    },
+    "https://gitlab.com/xynngh/YetAnotherCallBlocker": {
+        "repo_http": 200,
+        "last_commit": "2024-04-27T23:24:36.000+00:00",
+        "is_archived": false,
+        "license": null,
+        "is_foss": false,
+        "stores_status": [
+            {
+                "url": "https://f-droid.org/packages/dummydomain.yetanothercallblocker",
+                "status": 200,
+                "available": true
+            }
+        ]
+    }
+}

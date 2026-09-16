@@ -1,0 +1,9 @@
+{
+  "https://gitlab.com/xynngh/YetAnotherCallBlocker": {
+    "fields": {
+      "license": "GPL-3.0",
+      "is_foss": true
+    },
+    "reason": "GitLab API does not expose the license; verified manually in the README."
+  }
+}

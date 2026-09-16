@@ -1,0 +1,19 @@
+{
+    "title": "Security and Privacy",
+    "emoji": "\ud83d\udd10",
+    "apps": [
+        {
+            "name": "AdAway",
+            "description": "An open source ad blocker for Android using the hosts file. The hosts file is a system file that contains a list of mappings between host names and IP addresses. When an app requests an ad from a host in that file, this request is redirected to the local IP 127.0.0.1, which does nothing.",
+            "source": "https://github.com/AdAway/AdAway",
+            "fdroid": "https://f-droid.org/packages/org.adaway",
+            "website": "https://adaway.org/"
+        },
+        {
+            "name": "Yet Another Call Blocker",
+            "description": "A free and open source application that can block unwanted calls or warn about probable intentions of callers using a third-party crowdsourced phone number database (from some other proprietary app).",
+            "source": "https://gitlab.com/xynngh/YetAnotherCallBlocker",
+            "fdroid": "https://f-droid.org/packages/dummydomain.yetanothercallblocker"
+        }
+    ]
+}
