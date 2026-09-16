@@ -1,4 +1,4 @@
-<h1 id="title" align="center">Cool FOSS Android Apps</h1>
+<h1 id="title" align="center">Awosome Android Apps (Foss)</h1>
 
 <div align="center">
 <p align="center">
