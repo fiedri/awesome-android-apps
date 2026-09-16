@@ -17,4 +17,6 @@ Type in which category your app goes, even if it doesn't exist already
 Describe in short the functionality of the app.
 
 ### links
-Link the repository with the source code and, if available, the fdroid page.
+- Source:
+- F-droid:
+- PlayStore:

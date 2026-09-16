@@ -102,6 +102,13 @@ def build_category(cat):
                 last_commit_link = f"https://img.shields.io/{m.group(1)}/last-commit/{'/'.join(m.group(2,3))}"
 
             badge_stars = f"![Stars]({stars_link})" if stars_link else ""
+            stars = merged.get("stars")
+            if isinstance(stars, int):
+                stars_cell = f"{stars:,}"
+            elif badge_stars:
+                stars_cell = badge_stars
+            else:
+                stars_cell = "—"
             badge_commit = (
                 f"![last commit]({last_commit_link})" if last_commit_link else ""
             )
@@ -115,7 +122,7 @@ def build_category(cat):
             safe_description = description.replace("|", "\\|")
             links = " ".join(filter(None, [link_fdroid, link_playstore, link_website]))
             lines.append(
-                f"| **{link_source}** | {status_badge(merged.get('status'))} | {safe_description} | {badge_stars} | {badge_commit} | {links} |"
+                f"| **{link_source}** | {status_badge(merged.get('status'))} | {safe_description} | {stars_cell} | {badge_commit} | {links} |"
             )
 
         f.write("\n".join(lines))

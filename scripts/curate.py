@@ -150,6 +150,7 @@ async def check_repo(session, repo_api, host):
                 "license": None,
                 "is_foss": False,
                 "has_release": False,
+                "stars": None,
             }
         if not data:
             return None  # rate limit or another error -> leave the cache untouched
@@ -157,6 +158,8 @@ async def check_repo(session, repo_api, host):
         last_commit = await check_last_commit(session, repo_api, host)
         is_archived = data.get("archived", False)
         has_release = await check_has_release(session, repo_api, host)
+
+        stars = data.get("stargazers_count") if host == "github" else data.get("star_count")
 
         license_data = data.get("license") or {}
         license_key = license_data.get("spdx_id") or license_data.get("key")
@@ -173,6 +176,7 @@ async def check_repo(session, repo_api, host):
             "license": license_key,
             "is_foss": is_foss,
             "has_release": has_release,
+            "stars": stars,
         }
     except Exception as e:
         print(f"Error processing repository {repo_api}: {e}")
