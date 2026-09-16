@@ -42,6 +42,7 @@ def read_file(path_file):
 def write_file(path_file, data):
     new_content = json.dumps(data, indent=4, ensure_ascii=True)
     original = ""
+    path_file.parent.mkdir(parents=True, exist_ok=True)
     if path_file.exists():
         original = path_file.read_text(encoding="utf-8")
         if original.endswith("\n") and not new_content.endswith("\n"):
