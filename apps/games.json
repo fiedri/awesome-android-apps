@@ -10,14 +10,6 @@
             "website": "https://lichess.org/mobile"
         },
         {
-            "name": "Pixel Dungeon",
-            "description": "A traditional roguelike game with pixel-art graphics and simple interface. Explore the depths of Pixel Dungeon, collect useful items, fight fierce monsters to find Amulet of Yendor (surprise!) - the ultimate artifact of this game world.",
-            "source": "https://github.com/watabou/pixel-dungeon",
-            "fdroid": "https://f-droid.org/en/packages/com.watabou.pixeldungeon",
-            "playstore": "https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon",
-            "website": "http://pixeldungeon.watabou.ru"
-        },
-        {
             "name": "Shattered Pixel Dungeon",
             "description": "Based on the original Pixel Dungeon source code, Shattered is much more balanced and features additional content in the game. It has a bigger learning curve then vanilla since the game is bigger however it is designed in a way where every run is winnable if you know exactly what you are doing.",
             "source": "https://github.com/00-Evan/shattered-pixel-dungeon",

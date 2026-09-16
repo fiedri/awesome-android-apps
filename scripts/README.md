@@ -115,8 +115,8 @@ The status is derived from the effective facts. Badge colors are defined in
 | Status | Meaning |
 |--------|---------|
 | `healthy` | Active repo, FOSS license and stores reachable |
-| `inactive` | No commits in the last 730 days (informational, NOT removed) |
-| `archived` | Repo was archived (removed only if also inactive AND all stores return 404) |
+| `inactive` | No commits in the last 730 days (removed only when ALL stores return a real HTTP 404 and the repo publishes no releases) |
+| `archived` | Repo was archived (removed when also inactive, all stores return 404 and no releases) |
 | `no_open_code` | License not detected as FOSS (manual review required, NOT removed) |
 | `broken_link` | Some store returns 404 (informational, NOT removed on its own) |
 | `repo_gone` | Source repository returns 404 (direct removal candidate) |
@@ -127,7 +127,10 @@ The status is derived from the effective facts. Badge colors are defined in
 Only criteria the network cannot lie about:
 
 1. `status == "repo_gone"` — the source code no longer exists.
-2. `status == "archived"` + no commits in 730 days + **all** stores return 404 (three independent sources agree).
+2. `status == "archived"` **or** `"inactive"` + no commits in 730 days + **all**
+   stores return a real HTTP 404 + the repo publishes **no releases**. Only a real
+   404 counts; a timeout or connection error is "unknown" and never counts as dead.
+   An app is kept if any store works or the repo still ships a release (installable).
 
 If only *some* stores return 404, the app is **kept** and just those dead store
 links are suppressed via an override. Apps with a human-pinned `status` are never

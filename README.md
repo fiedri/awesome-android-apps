@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/105-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/103-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <a href="./LICENSE">
 <img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
@@ -59,8 +59,8 @@ Every project gets a status badge, computed by [`scripts/curate.py`](scripts/REA
 | Status | Meaning |
 |--------|---------|
 | ![healthy](https://img.shields.io/badge/status-healthy-success) | Repository active, FOSS license and stores reachable. |
-| ![inactive](https://img.shields.io/badge/status-inactive-yellow) | No commits in the last 730 days (informational, not removed). |
-| ![archived](https://img.shields.io/badge/status-archived-inactive) | Repository archived by its maintainers. |
+| ![inactive](https://img.shields.io/badge/status-inactive-yellow) | No commits in the last 730 days (removed only when all stores return a real HTTP 404 and the repo publishes no releases). |
+| ![archived](https://img.shields.io/badge/status-archived-inactive) | Repository archived by its maintainers (removed when inactive, all stores 404 and no releases). |
 | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | License not detected as FOSS (needs manual review). |
 | ![broken_link](https://img.shields.io/badge/status-broken_link-critical) | At least one store returns 404 (informational, not removed alone). |
 | ![repo_gone](https://img.shields.io/badge/status-repo_gone-critical) | Source repository returns 404 - removed by curate.py. |

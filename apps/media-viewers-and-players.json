@@ -39,13 +39,6 @@
             "playstore": "https://play.google.com/store/apps/details?id=is.xyz.mpv"
         },
         {
-            "name": "Music Player GO",
-            "description": "A simple yet fully-featured local music player aiming at simplicity and performance.",
-            "source": "https://github.com/enricocid/Music-Player-GO",
-            "fdroid": "https://f-droid.org/packages/com.iven.musicplayergo",
-            "playstore": "https://play.google.com/store/apps/details?id=com.iven.musicplayergo"
-        },
-        {
             "name": "Nova Video Player",
             "description": "An open source video player for Android designed for tablets, phones and AndroidTV devices. A fork of the original Archos Video Player Community Edition.",
             "source": "https://github.com/nova-video-player/aos-AVP",

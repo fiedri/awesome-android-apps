@@ -14,8 +14,8 @@ STATUS_BADGES = {
 
 STATUS_INFO = {
     "healthy": "Repository active, FOSS license and stores reachable.",
-    "inactive": "No commits in the last 730 days (informational, not removed).",
-    "archived": "Repository archived by its maintainers.",
+    "inactive": "No commits in the last 730 days (removed only when all stores return a real HTTP 404 and the repo publishes no releases).",
+    "archived": "Repository archived by its maintainers (removed when inactive, all stores 404 and no releases).",
     "no_open_code": "License not detected as FOSS (needs manual review).",
     "broken_link": "At least one store returns 404 (informational, not removed alone).",
     "repo_gone": "Source repository returns 404 - removed by curate.py.",

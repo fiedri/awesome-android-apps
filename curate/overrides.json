@@ -59,14 +59,6 @@
         },
         "reason": "Dead store link(s) suppressed after archived + inactive check"
     },
-    "https://github.com/watabou/pixel-dungeon": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null,
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
-    },
     "https://github.com/albertomosconi/TalpaSplat3": {
         "fields": {
             "stores_status": [],
@@ -168,14 +160,6 @@
                 }
             ],
             "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
-    },
-    "https://github.com/enricocid/Music-Player-GO": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null,
-            "playstore": null
         },
         "reason": "Dead store link(s) suppressed after archived + inactive check"
     },
