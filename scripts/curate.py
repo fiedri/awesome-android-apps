@@ -28,18 +28,20 @@ Commands:
 
 Status values (derived at read time from the effective facts):
     - healthy        -> active repo, FOSS license and stores reachable
-    - inactive       -> repo with no commits in the last 730 days (informational, NOT removed)
-    - archived       -> repo was archived (only removed if it is ALSO inactive and ALL stores are 404)
+    - inactive       -> repo with no commits in the last 730 days (removed only
+                         when ALL stores also return a real HTTP 404)
+    - archived       -> repo was archived (removed when ALSO inactive AND all stores are 404)
     - no_open_code   -> license not detected as FOSS (needs manual review, NOT removed)
-    - broken_link    -> some store returns 404 (informational, NOT removed on its own)
+    - broken_link    -> some store returns a real 404 (informational, NOT removed on its own)
     - repo_gone      -> the source repository returns 404 (direct removal candidate)
     - (empty)        -> never checked yet, no data in cache
 
 Automatic removal (only criteria the network cannot lie about):
     1. status == "repo_gone"  (the source code no longer exists)
-    2. status == "archived" + no commits in 730 days + ALL stores return 404
-       (if only SOME stores return 404 the app is kept and just those dead store
-        links are suppressed via an override)
+    2. status == "archived" OR "inactive" + no commits in 730 days + ALL stores
+       return a real HTTP 404. A timeout or connection error is "unknown", never
+       counts as dead. If only SOME stores are 404 the app is kept and just those
+       dead store links are suppressed via an override.
 
 Manual review:
     Add an entry to curate/overrides.json keyed by the app "source". The "fields"
@@ -187,11 +189,11 @@ async def check_url_status(session, url):
                 "available": response.status < 400,
             }
     except aiohttp.ClientConnectorError:
-        return {"url": url, "status": "Connection Error", "available": False}
+        return {"url": url, "status": "Connection Error", "available": None}
     except asyncio.TimeoutError:
-        return {"url": url, "status": "Timeout", "available": False}
+        return {"url": url, "status": "Timeout", "available": None}
     except Exception as e:
-        return {"url": url, "status": f"Error: {str(e)}", "available": False}
+        return {"url": url, "status": f"Error: {str(e)}", "available": None}
 
 
 async def check(session, urls):
@@ -278,7 +280,10 @@ async def process_check(apps_files):
 
 def removal_reason(app, has_status_override):
     """Returns the reason if the app matches a removal criteria, or None.
-    `app` must be an effective (merged) app with a resolved status."
+
+    Operates directly on the effective facts, NOT on the derived status: a repo
+    with no commits and every store returning a real HTTP 404 is dead whether
+    it is archived or just inactive.
 
     A human-pinned status (override) disables auto-removal: the human owns
     the fate of that app.
@@ -286,58 +291,59 @@ def removal_reason(app, has_status_override):
     if has_status_override:
         return None
 
-    status = app.get("status")
-
-    if status == "repo_gone":
+    if app.get("repo_http") == 404:
         return "Source repository returns 404: the code no longer exists"
 
-    if status == "archived":
+    stores = app.get("stores_status") or []
+    # ONLY real HTTP 404s count as dead. A timeout or connection error is
+    # "unknown" and never triggers removal.
+    if stores and all(s.get("status") == 404 for s in stores):
         if not is_repo_active(app.get("last_commit")):
-            stores = app.get("stores_status") or []
-            if stores and all(not s.get("available", True) for s in stores):
-                return (
-                    "Repo archived + no commits in 730 days + ALL stores return 404: "
-                    "three independent sources confirm it is dead"
-                )
+            label = "archived" if app.get("is_archived") else "inactive"
+            return (
+                f"Repo {label} + no commits in 730 days + ALL stores return HTTP 404: "
+                "every source independently confirms it is dead"
+            )
 
     return None
 
 
 def clean_broken_stores(app):
-    """Returns the override fields that suppress dead store links for an app."""
+    """Returns the override fields that suppress dead store links for an app.
+    Only a real HTTP 404 suppresses a link; timeouts/errors stay untouched."""
     removed_urls = []
     live_stores = []
 
     for store in app.get("stores_status") or []:
-        if store.get("available", True):
-            live_stores.append(store)
+        if store.get("status") == 404:
+            removed_urls.append(store.get("url"))
             continue
 
-        url = store.get("url")
-        removed_urls.append(url)
+        live_stores.append(store)
 
     if not removed_urls:
         return None
 
     fields = {"stores_status": live_stores}
-    for store in app.get("stores_status") or []:
-        if not store.get("available", True):
-            url = store.get("url")
-            for field in STORE_FIELDS:
-                if app.get(field) == url:
-                    fields[field] = None
+    for url in removed_urls:
+        for field in STORE_FIELDS:
+            if app.get(field) == url:
+                fields[field] = None
 
     return fields
 
 
 def record_override(source, fields, reason):
+    """Merges fields into the override entry. The HUMAN reason is never lost:
+    an existing reason wins over the automatic one (the auto reason is only
+    used as the default for a brand new entry)."""
     overrides = load_datastore(OVERRIDES_FILE)
     entry = overrides.get(source, {})
     merged_fields = dict(entry.get("fields", {}))
     merged_fields.update(fields)
     overrides[source] = {
         "fields": merged_fields,
-        "reason": reason,
+        "reason": entry.get("reason") or reason,
     }
     return save_datastore(OVERRIDES_FILE, overrides)
 
