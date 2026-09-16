@@ -370,7 +370,7 @@
         "license": "Apache-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 14001,
+        "stars": 14002,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.fsck.k9",
@@ -402,7 +402,7 @@
     },
     "https://github.com/libretro/RetroArch": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T15:05:11Z",
+        "last_commit": "2026-09-16T15:18:55Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -1269,8 +1269,8 @@
             },
             {
                 "url": "https://play.google.com/store/apps/details?id=com.orgzly",
-                "status": 200,
-                "available": true
+                "status": 500,
+                "available": false
             }
         ]
     },
@@ -1891,7 +1891,7 @@
         "license": "GPL-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 4557,
+        "stars": 4558,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=org.jellyfin.androidtv",
@@ -2076,16 +2076,6 @@
         "stars": 7,
         "stores_status": []
     },
-    "https://github.com/davidvavra/WearSquare": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
-    },
     "https://github.com/dkhmelenko/WearTimer": {
         "repo_http": 200,
         "last_commit": "2016-03-22T21:33:22Z",
@@ -2160,16 +2150,6 @@
         "is_foss": true,
         "has_release": true,
         "stars": 408,
-        "stores_status": []
-    },
-    "https://github.com/jahirfiquitiva/IconShowcase": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
         "stores_status": []
     },
     "https://github.com/MM2-0/Kvaesitso": {
@@ -2249,16 +2229,6 @@
                 "available": true
             }
         ]
-    },
-    "https://github.com/afollestad/polar-dashboard": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
     },
     "https://github.com/dessalines/thumb-key": {
         "repo_http": 200,
@@ -2415,22 +2385,6 @@
         "has_release": true,
         "stars": 712,
         "stores_status": []
-    },
-    "https://github.com/RetroMusicPlayer/Paisa": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": [
-            {
-                "url": "https://play.google.com/store/apps/details?id=dev.hemanths.paisa",
-                "status": 200,
-                "available": true
-            }
-        ]
     },
     "https://github.com/WillWcchan/Simple-Random-Stock": {
         "repo_http": 200,
@@ -3098,16 +3052,6 @@
         "stars": 3,
         "stores_status": []
     },
-    "https://github.com/drakeet/Seashell-app": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
-    },
     "https://github.com/StepicOrg/stepik-android": {
         "repo_http": 200,
         "last_commit": "2026-05-22T12:05:42Z",
@@ -3132,16 +3076,6 @@
         "is_foss": true,
         "has_release": true,
         "stars": 292,
-        "stores_status": []
-    },
-    "https://github.com/alter-ego/unisannio-reboot": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
         "stores_status": []
     },
     "https://github.com/xiprox/WaniKani-for-Android": {
@@ -3504,16 +3438,6 @@
             }
         ]
     },
-    "https://github.com/shivamsingh/Tracker": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
-    },
     "https://github.com/project-travel-mate/Travel-Mate": {
         "repo_http": 200,
         "last_commit": "2021-10-03T06:10:12Z",
@@ -3586,7 +3510,7 @@
     },
     "https://github.com/deckerst/aves": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T10:50:47Z",
+        "last_commit": "2026-09-16T15:25:51Z",
         "is_archived": false,
         "license": "BSD-3-Clause",
         "is_foss": true,
@@ -3690,16 +3614,6 @@
         "stars": 272,
         "stores_status": []
     },
-    "https://github.com/psaravan/JamsMusicPlayer": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
-    },
     "https://github.com/jellyfin/jellyfin-android": {
         "repo_http": 200,
         "last_commit": "2026-09-16T10:20:25Z",
@@ -3785,7 +3699,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 12803,
+        "stars": 12804,
         "stores_status": []
     },
     "https://github.com/MizzleDK/Mizuu": {
@@ -4123,7 +4037,7 @@
         "license": "Apache-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 14001,
+        "stars": 14002,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.fsck.k9",
@@ -4238,22 +4152,6 @@
         "stars": 1,
         "stores_status": []
     },
-    "https://github.com/surespot/android": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": [
-            {
-                "url": "https://play.google.com/store/apps/details?id=com.twofours.surespot",
-                "status": 404,
-                "available": false
-            }
-        ]
-    },
     "https://github.com/mogutt/TTAndroidClient": {
         "repo_http": 200,
         "last_commit": "2015-03-30T01:16:37Z",
@@ -4301,8 +4199,8 @@
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=de.tutao.tutanota",
-                "status": 200,
-                "available": true
+                "status": 500,
+                "available": false
             }
         ]
     },
@@ -4444,16 +4342,6 @@
             }
         ]
     },
-    "https://github.com/JohnPersano/CrimeTalk-Reader": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
-    },
     "https://github.com/pedrovgs/EffectiveAndroidUI": {
         "repo_http": 200,
         "last_commit": "2026-01-16T10:53:42Z",
@@ -4463,22 +4351,6 @@
         "has_release": false,
         "stars": 5975,
         "stores_status": []
-    },
-    "https://github.com/fastaccess/FastHub": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": [
-            {
-                "url": "https://play.google.com/store/apps/details?id=com.fastaccess.github",
-                "status": 404,
-                "available": false
-            }
-        ]
     },
     "https://github.com/FredJul/Flym": {
         "repo_http": 200,
@@ -5022,16 +4894,6 @@
         "stars": 919,
         "stores_status": []
     },
-    "https://github.com/yaa110/Memento": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
-    },
     "https://github.com/avjinder/Minimal-Todo": {
         "repo_http": 200,
         "last_commit": "2018-11-13T06:54:50Z",
@@ -5314,26 +5176,6 @@
         "stars": 1870,
         "stores_status": []
     },
-    "https://github.com/Barinsta/barinsta": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
-    },
-    "https://github.com/andforce/iBeebo": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
-    },
     "https://github.com/PaperAirplane-Dev-Team/BlackLight": {
         "repo_http": 200,
         "last_commit": "2016-07-08T05:51:22Z",
@@ -5372,16 +5214,6 @@
         "is_foss": true,
         "has_release": false,
         "stars": 37,
-        "stores_status": []
-    },
-    "https://github.com/DreaminginCodeZH/Douya": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
         "stores_status": []
     },
     "https://github.com/ikew0ng/Dribbo": {
@@ -5666,16 +5498,6 @@
         "stars": 220,
         "stores_status": []
     },
-    "https://github.com/jydimir/Twiader": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": []
-    },
     "https://github.com/greatyao/v2ex-android": {
         "repo_http": 200,
         "last_commit": "2019-05-29T14:06:11Z",
@@ -5801,8 +5623,8 @@
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.achep.acdisplay",
-                "status": 200,
-                "available": true
+                "status": 500,
+                "available": false
             }
         ]
     },
@@ -5932,16 +5754,6 @@
         "is_foss": true,
         "has_release": true,
         "stars": 203,
-        "stores_status": []
-    },
-    "https://github.com/akexorcist/Android-BluetoothSimple": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
         "stores_status": []
     },
     "https://github.com/BookStackApp/BookStack": {
@@ -6133,22 +5945,6 @@
         "has_release": false,
         "stars": 152,
         "stores_status": []
-    },
-    "https://github.com/duckduckgo/android-browser": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": [
-            {
-                "url": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
-                "status": 200,
-                "available": true
-            }
-        ]
     },
     "https://github.com/geometer/FBReaderJ": {
         "repo_http": 200,
@@ -6393,7 +6189,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 3859,
+        "stars": 3860,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent",
@@ -6421,22 +6217,6 @@
         "has_release": false,
         "stars": 5,
         "stores_status": []
-    },
-    "https://github.com/shivamsingh/lockit": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": [
-            {
-                "url": "https://play.google.com/store/apps/details?id=com.lockit",
-                "status": 404,
-                "available": false
-            }
-        ]
     },
     "https://github.com/captswag/material-color-picker": {
         "repo_http": 200,
@@ -6770,22 +6550,6 @@
             }
         ]
     },
-    "https://github.com/drakeet/SmsCodeHelper": {
-        "repo_http": 404,
-        "last_commit": null,
-        "is_archived": false,
-        "license": null,
-        "is_foss": false,
-        "has_release": false,
-        "stars": null,
-        "stores_status": [
-            {
-                "url": "https://play.google.com/store/apps/details?id=me.drakeet.inmessage",
-                "status": 404,
-                "available": false
-            }
-        ]
-    },
     "https://github.com/fm-sys/pairdrop-android": {
         "repo_http": 200,
         "last_commit": "2026-05-12T10:47:16Z",
@@ -6947,7 +6711,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 62717,
+        "stars": 62718,
         "stores_status": []
     },
     "https://github.com/polilluminato/wassword-flutter": {

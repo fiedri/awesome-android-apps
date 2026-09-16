@@ -79,7 +79,9 @@ def build_category(cat):
             "|-----|--------|-------------|-------|-------------|-------|",
         ]
 
-        for app in cat_json.get("apps"):
+        for app in sorted(
+            cat_json.get("apps"), key=lambda app: app.get("name", "").casefold()
+        ):
             merged = effective(app, cache.get(app.get("source")), overrides.get(app.get("source")))
             name = merged.get("name")
             description = merged.get("description")

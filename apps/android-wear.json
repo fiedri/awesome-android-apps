@@ -68,11 +68,6 @@
             "source": "https://github.com/mitchazj/Wearable-Chess"
         },
         {
-            "name": "WearSquare",
-            "description": "Another client for Foursquare on Wear OS. (Archived)",
-            "source": "https://github.com/davidvavra/WearSquare"
-        },
-        {
             "name": "WearTimer",
             "description": "An improved stopwatch and timer app for Wear OS.",
             "source": "https://github.com/dkhmelenko/WearTimer"

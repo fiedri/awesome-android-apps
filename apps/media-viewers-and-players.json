@@ -172,11 +172,6 @@
             "source": "https://github.com/SubstanceMobile/GEM"
         },
         {
-            "name": "JamsMusicPlayer",
-            "description": "A free, powerful, and elegant music player for Android. (Archived)",
-            "source": "https://github.com/psaravan/JamsMusicPlayer"
-        },
-        {
             "name": "Jellyfin",
             "description": "The official Android client for the Jellyfin media server.",
             "source": "https://github.com/jellyfin/jellyfin-android",

@@ -59,12 +59,6 @@
             "source": "https://github.com/moneymanagerex/android-money-manager-ex"
         },
         {
-            "name": "Paisa",
-            "description": "A clean and simple expense manager app.",
-            "source": "https://github.com/RetroMusicPlayer/Paisa",
-            "playstore": "https://play.google.com/store/apps/details?id=dev.hemanths.paisa"
-        },
-        {
             "name": "Simple Random Stock",
             "description": "An app that randomly selects a stock from the 3 major U.S. indexes.",
             "source": "https://github.com/WillWcchan/Simple-Random-Stock"

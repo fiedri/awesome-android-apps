@@ -60,16 +60,6 @@
             "source": "https://github.com/wangdan/AisenWeiBo"
         },
         {
-            "name": "Barinsta",
-            "description": "A privacy-friendly client for Instagram. (Discontinued)",
-            "source": "https://github.com/Barinsta/barinsta"
-        },
-        {
-            "name": "Beebo+",
-            "description": "A feature-rich client for the Sina Weibo social network.",
-            "source": "https://github.com/andforce/iBeebo"
-        },
-        {
             "name": "BlackLight",
             "description": "A lightweight client for the Sina Weibo social network.",
             "source": "https://github.com/PaperAirplane-Dev-Team/BlackLight"
@@ -88,11 +78,6 @@
             "name": "Cotable",
             "description": "A Material Design client for the Chinese blogging platform cnblogs.com.",
             "source": "https://github.com/wlemuel/Cotable"
-        },
-        {
-            "name": "Douya",
-            "description": "An Android client for the Chinese social network douban.com.",
-            "source": "https://github.com/DreaminginCodeZH/Douya"
         },
         {
             "name": "Dribbo",
@@ -230,11 +215,6 @@
             "name": "TikTok App Clone",
             "description": "A basic clone of the TikTok app, created using the Flutter framework.",
             "source": "https://github.com/mcofie/Tik-Tok-App-Clone-Flutter"
-        },
-        {
-            "name": "Twiader",
-            "description": "A Twitter client that can read tweets aloud.",
-            "source": "https://github.com/jydimir/Twiader"
         },
         {
             "name": "v2ex-android",

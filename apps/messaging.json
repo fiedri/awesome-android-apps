@@ -76,12 +76,6 @@
             "source": "https://github.com/Stmol/sms-to-telegram-android-app"
         },
         {
-            "name": "surespot",
-            "description": "A mobile messaging app that secures messages with end-to-end encryption.",
-            "source": "https://github.com/surespot/android",
-            "playstore": "https://play.google.com/store/apps/details?id=com.twofours.surespot"
-        },
-        {
             "name": "TeamTalk (mogujie)",
             "description": "The official Android client for the mogutt TeamTalk service. (Archived)",
             "source": "https://github.com/mogutt/TTAndroidClient"

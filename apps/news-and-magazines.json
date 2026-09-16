@@ -24,20 +24,9 @@
             "playstore": "https://play.google.com/store/apps/details?id=org.bookdash.android"
         },
         {
-            "name": "CrimeTalk Reader",
-            "description": "A lightweight and minimalistic reader for CrimeTalk articles. (Archived)",
-            "source": "https://github.com/JohnPersano/CrimeTalk-Reader"
-        },
-        {
             "name": "EffectiveAndroidUI",
             "description": "A sample project demonstrating best practices for the Android UI Layer (MVP/MVVM).",
             "source": "https://github.com/pedrovgs/EffectiveAndroidUI"
-        },
-        {
-            "name": "FastHub",
-            "description": "A feature-rich, open-source GitHub client for Android.",
-            "source": "https://github.com/fastaccess/FastHub",
-            "playstore": "https://play.google.com/store/apps/details?id=com.fastaccess.github"
         },
         {
             "name": "Flym News Reader",

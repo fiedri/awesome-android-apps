@@ -125,11 +125,6 @@
             "playstore": "https://play.google.com/store/apps/details?id=app.tice.TICE.production"
         },
         {
-            "name": "Tracker",
-            "description": "A simple location tracker that updates a map and UI in a reactive way. (Archived)",
-            "source": "https://github.com/shivamsingh/Tracker"
-        },
-        {
             "name": "Travel Mate",
             "description": "An app designed to be a complete travel guide for your trips. (Archived)",
             "source": "https://github.com/project-travel-mate/Travel-Mate"

@@ -82,11 +82,6 @@
             "source": "https://github.com/amritsinghcse/Say-Hi"
         },
         {
-            "name": "Seashell-app",
-            "description": "The official Android client for the \"\u8d1d\u58f3\u5355\u8bcd\" (Seashell Words) app.",
-            "source": "https://github.com/drakeet/Seashell-app"
-        },
-        {
             "name": "Stepik",
             "description": "An app offering free, certificate-based online courses on various subjects.",
             "source": "https://github.com/StepicOrg/stepik-android",
@@ -96,11 +91,6 @@
             "name": "Umbrella",
             "description": "An app to learn about digital and physical security, from comms to kidnapping.",
             "source": "https://github.com/securityfirst/Umbrella_android"
-        },
-        {
-            "name": "Unisannio",
-            "description": "An app for students of the University of Sannio, Italy.",
-            "source": "https://github.com/alter-ego/unisannio-reboot"
         },
         {
             "name": "WaniKani for Android",

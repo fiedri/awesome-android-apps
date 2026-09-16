@@ -79,11 +79,6 @@
             "source": "https://github.com/mthli/Bitocle"
         },
         {
-            "name": "Bluetooth Simple",
-            "description": "An experimental app demonstrating simple chat-style Bluetooth communication.",
-            "source": "https://github.com/akexorcist/Android-BluetoothSimple"
-        },
-        {
             "name": "BookStack",
             "description": "A self-hosted platform for storing and organizing information and documentation.",
             "source": "https://github.com/BookStackApp/BookStack"
@@ -167,12 +162,6 @@
             "name": "Droid Watcher",
             "description": "A remote control application with rich functionality. (Archived)",
             "source": "https://github.com/Odrin/Droid-Watcher"
-        },
-        {
-            "name": "DuckDuckGo",
-            "description": "The official, privacy-focused web browser from DuckDuckGo.",
-            "source": "https://github.com/duckduckgo/android-browser",
-            "playstore": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android"
         },
         {
             "name": "FBReaderJ",
@@ -295,12 +284,6 @@
             "name": "lmgtfyGen",
             "description": "An app that generates \"Let Me Google That For You\" URLs.",
             "source": "https://github.com/WilderPereira/lmgtfyGen"
-        },
-        {
-            "name": "LockIt",
-            "description": "A simple app lock application with a clean and elegant UI. (Archived)",
-            "source": "https://github.com/shivamsingh/lockit",
-            "playstore": "https://play.google.com/store/apps/details?id=com.lockit"
         },
         {
             "name": "Material Color Picker",
@@ -453,12 +436,6 @@
             "description": "An app to explore and launch hidden \"secret codes\" on your device.",
             "source": "https://github.com/SimonMarquis/Android-SecretCodes",
             "playstore": "https://play.google.com/store/apps/details?id=fr.simon.marquis.secretcodes"
-        },
-        {
-            "name": "SmsCodeHelper",
-            "description": "Automatically detects and copies verification codes from SMS messages.",
-            "source": "https://github.com/drakeet/SmsCodeHelper",
-            "playstore": "https://play.google.com/store/apps/details?id=me.drakeet.inmessage"
         },
         {
             "name": "Snapdrop for Android",

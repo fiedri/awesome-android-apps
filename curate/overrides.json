@@ -369,5 +369,26 @@
             "playstore": null
         },
         "reason": "Dead store link(s) suppressed after archived + inactive check"
+    },
+    "https://github.com/NuvioMedia/NuvioTV": {
+        "fields": {
+            "stores_status": [],
+            "playstore": null
+        },
+        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    },
+    "https://github.com/NuvioMedia/NuvioMobile": {
+        "fields": {
+            "stores_status": [],
+            "playstore": null
+        },
+        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    },
+    "https://github.com/mayokunadeniyi/Instant-Weather": {
+        "fields": {
+            "stores_status": [],
+            "playstore": null
+        },
+        "reason": "Dead store link(s) suppressed after archived + inactive check"
     }
 }
