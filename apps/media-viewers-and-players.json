@@ -188,12 +188,6 @@
             "added": "2026-09-16"
         },
         {
-            "name": "ExoPlayer",
-            "description": "An extensible media player for Android from Google.",
-            "source": "https://github.com/google/ExoPlayer",
-            "added": "2026-09-16"
-        },
-        {
             "name": "GEM",
             "description": "A music player for Android with a stunning Material Design UI. (Archived)",
             "source": "https://github.com/SubstanceMobile/GEM",

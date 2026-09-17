@@ -365,12 +365,12 @@
     },
     "https://github.com/k9mail/k-9": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T16:36:32Z",
+        "last_commit": "2026-09-17T15:49:33Z",
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 14005,
+        "stars": 14006,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.fsck.k9",
@@ -402,7 +402,7 @@
     },
     "https://github.com/libretro/RetroArch": {
         "repo_http": 200,
-        "last_commit": "2026-09-17T15:21:51Z",
+        "last_commit": "2026-09-17T16:01:28Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
@@ -418,12 +418,12 @@
     },
     "https://github.com/AntennaPod/AntennaPod": {
         "repo_http": 200,
-        "last_commit": "2026-09-12T18:25:07Z",
+        "last_commit": "2026-09-17T16:12:20Z",
         "is_archived": false,
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 8158,
+        "stars": 8159,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/de.danoeh.antennapod",
@@ -518,7 +518,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 8930,
+        "stars": 8931,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/me.zhanghai.android.files",
@@ -918,7 +918,7 @@
         "license": "NOASSERTION",
         "is_foss": false,
         "has_release": true,
-        "stars": 4808,
+        "stars": 4809,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.foobnix.pro.pdf.reader",
@@ -1044,7 +1044,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 5315,
+        "stars": 5316,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=code.name.monkey.retromusic",
@@ -1318,7 +1318,7 @@
         "license": "NOASSERTION",
         "is_foss": false,
         "has_release": true,
-        "stars": 60965,
+        "stars": 60968,
         "stores_status": [
             {
                 "url": "https://f-droid.org/packages/com.termux",
@@ -1455,12 +1455,12 @@
     },
     "https://github.com/celzero/rethink-app": {
         "repo_http": 200,
-        "last_commit": "2026-09-15T22:29:55Z",
+        "last_commit": "2026-09-17T16:07:55Z",
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 5433,
+        "stars": 5434,
         "stores_status": [
             {
                 "url": "https://f-droid.org/en/packages/com.celzero.bravedns",
@@ -1502,7 +1502,7 @@
     },
     "https://github.com/jitsi/jitsi-meet": {
         "repo_http": 200,
-        "last_commit": "2026-09-17T14:39:44Z",
+        "last_commit": "2026-09-17T15:46:48Z",
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
@@ -1749,7 +1749,7 @@
         "license": "AGPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 29350,
+        "stars": 29351,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
@@ -1907,7 +1907,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 2676,
+        "stars": 2677,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.nuvio.app",
@@ -1923,7 +1923,7 @@
         "license": "MIT",
         "is_foss": true,
         "has_release": true,
-        "stars": 33795,
+        "stars": 33798,
         "stores_status": []
     },
     "https://github.com/hitherejoe/Vineyard": {
@@ -3594,16 +3594,6 @@
         "stars": 1500,
         "stores_status": []
     },
-    "https://github.com/google/ExoPlayer": {
-        "repo_http": 200,
-        "last_commit": "2024-07-25T14:56:04Z",
-        "is_archived": false,
-        "license": "Apache-2.0",
-        "is_foss": true,
-        "has_release": true,
-        "stars": 21940,
-        "stores_status": []
-    },
     "https://github.com/SubstanceMobile/GEM": {
         "repo_http": 200,
         "last_commit": "2017-07-16T18:18:19Z",
@@ -3699,7 +3689,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 12831,
+        "stars": 12832,
         "stores_status": []
     },
     "https://github.com/MizzleDK/Mizuu": {
@@ -3749,7 +3739,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 3443,
+        "stars": 3446,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.nuvio.app",
@@ -4032,12 +4022,12 @@
     },
     "https://github.com/thunderbird/thunderbird-android": {
         "repo_http": 200,
-        "last_commit": "2026-09-16T16:36:32Z",
+        "last_commit": "2026-09-17T15:49:33Z",
         "is_archived": false,
         "license": "Apache-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 14005,
+        "stars": 14006,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.fsck.k9",
@@ -4169,7 +4159,7 @@
         "license": "GPL-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 29883,
+        "stars": 29884,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
@@ -4839,7 +4829,7 @@
         "license": "NOASSERTION",
         "is_foss": false,
         "has_release": true,
-        "stars": 56413,
+        "stars": 56415,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=net.cozic.joplin",
@@ -5015,7 +5005,7 @@
         "license": "MIT",
         "is_foss": true,
         "has_release": true,
-        "stars": 8330,
+        "stars": 8332,
         "stores_status": []
     },
     "https://github.com/vickychijwani/quill": {
@@ -5081,7 +5071,7 @@
         "license": "MIT",
         "is_foss": true,
         "has_release": true,
-        "stars": 22095,
+        "stars": 22097,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity",
@@ -5691,7 +5681,7 @@
         "license": "Apache-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 34095,
+        "stars": 34096,
         "stores_status": []
     },
     "https://github.com/ni554n/battarang-notifier-android": {
@@ -5845,7 +5835,7 @@
         "license": "Apache-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 3452,
+        "stars": 3453,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=org.connectbot",
@@ -6021,7 +6011,7 @@
         "license": "AGPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 3081,
+        "stars": 3082,
         "stores_status": []
     },
     "https://github.com/martykan/forecastie": {
@@ -6071,7 +6061,7 @@
         "license": "Apache-2.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 18558,
+        "stars": 18559,
         "stores_status": []
     },
     "https://github.com/qqq3/good-weather": {
@@ -6281,7 +6271,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 1261,
+        "stars": 1262,
         "stores_status": [
             {
                 "url": "https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager",
@@ -6373,7 +6363,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 19737,
+        "stars": 19739,
         "stores_status": []
     },
     "https://github.com/off-grid-ai/OGAM": {
@@ -6711,7 +6701,7 @@
         "license": "GPL-3.0",
         "is_foss": true,
         "has_release": true,
-        "stars": 62744,
+        "stars": 62746,
         "stores_status": []
     },
     "https://github.com/polilluminato/wassword-flutter": {

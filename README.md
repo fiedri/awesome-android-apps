@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/536-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/535-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <img src="https://img.shields.io/github/stars/fiedri/awesome-mobile-apps?style=for-the-badge" alt="Stars"/>
 <img src="https://img.shields.io/github/forks/fiedri/awesome-mobile-apps?style=for-the-badge" alt="Forks"/>
@@ -25,7 +25,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 ## Table of Contents
 <!-- table-of-contents starts -->
 - [🆕 Recently Added](ALL_APPS.md#recently-added)
-- [All Apps](ALL_APPS.md)
+- [`All Apps`](ALL_APPS.md)
 
 <!-- table-of-contents ends -->
 
