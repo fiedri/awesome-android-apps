@@ -4,6 +4,8 @@ This document shows you how to get started with your contribution to this projec
 
 [**ADDING A NEW APP**](#adding-a-new-app "ADDING A NEW APP")
 
+[**REMOVING AN APP**](#removing-an-app "REMOVING AN APP")
+
 [**OTHER CONTRIBUTIONS**](#other-contributions "OTHER CONTRIBUTIONS")
 
 ## Adding a new app
@@ -38,6 +40,8 @@ There are two ways to add a new app:
     $ python scripts/add.py
     ```
     It will first ask if you want to add a **new app** (`0`) or a **new category** (`1`). For a new app it will walk you through the required fields (name, source and description) and the optional ones (fdroid, playstore and website), validating every link before saving. The app is added to the `apps/*.json` file, automatically placed in the correct category and in alphabetical order.
+
+  - Want to know more before running? The [scripts README](scripts/README.md) explains the setup (virtual environment, dependencies and the optional GitHub token) plus every helper script.
 
   - Once the app is added, run `build.py` to regenerate the markdown content:
     ```
@@ -100,6 +104,32 @@ If you prefer, you can simply [open an issue](https://github.com/fiedri/awesome-
 - **Website** (optional)
 
 We'll review it and add it to the list.
+
+## Removing an app
+
+Apps whose repository, store pages or maintainers are gone are regularly flagged by
+`scripts/curate.py` (see the [scripts README](scripts/README.md)), but you can also remove an app by
+hand when you know it is no longer maintained or cannot be obtained anywhere.
+
+The data lives in three separate layers, so a manual removal touches two places:
+
+1. **Remove the app entry** from its `apps/*.json` file (identity only — delete the whole `{ ... },` block).
+2. **Purge the stale facts** so the app does not linger in the cache or overrides:
+   ```
+   $ python scripts/curate.py remove --dir apps
+   ```
+   The `remove` command deletes any cache/overrides entry whose app no longer exists in the `apps/*.json` files, cleans dead store links from other apps and logs the removal to `REMOVED.md`.
+3. **Regenerate the markdown tables**:
+   ```
+   $ python scripts/build.py
+   ```
+
+No need to run `check` — it only refreshes the cache from the network, it never removes anything.
+
+Before sending a PR to remove an app, make sure the **source repository no longer exists,
+is archived AND inactive, or ships no releases AND every store returns a real 404**.
+An app is kept if any store still works, the repo still publishes releases, or a human
+pinned its status. When in doubt, mention why you think it should go in the PR description.
 
 ## Other Contributions
 

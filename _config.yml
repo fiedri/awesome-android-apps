@@ -1,4 +1,9 @@
-title: Best Open Source Android Apps
-baseurl: "/foss-apps"
-url: ""
+title: "Open Source Android Apps"
+description: "List of open source android apps"
+baseurl: "/awesome-android-apps"
+url: "https://fiedri.github.io"
 theme: jekyll-theme-minimal
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag

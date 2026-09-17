@@ -2,6 +2,35 @@
 
 Helper scripts for maintaining this repository. Run them from the repo root.
 
+## Setup
+
+The scripts need Python 3.10+ and `aiohttp` for the network checks. Use a
+virtual environment so you don't pollute your system Python (many distros block
+`pip install` globally — e.g. Debian/Ubuntu with PEP 668).
+
+```bash
+# 1. create the virtual environment once
+$ python3 -m venv .venv
+
+# 2. activate it (each new terminal)
+$ source .venv/bin/activate        # Linux / macOS
+
+# 3. install the dependencies
+$ pip install -r requirements.txt
+```
+
+From now on use `python` (the venv one) from the repo root:
+
+```bash
+$ python scripts/curate.py check --dir apps
+$ python scripts/curate.py remove --dir apps --dry-run
+$ python scripts/build.py
+```
+
+For GitHub rate limits (optional but recommended), see the [GitHub token](#github-token-optional)
+section below — a token raises the API limit from 60 to 5000 req/h so `check`
+can complete the whole catalogue.
+
 | Script | Purpose |
 |--------|---------|
 | [`add.py`](#addpy) | Interactively add an app or a category to `apps/*.json` |
