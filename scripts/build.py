@@ -183,6 +183,7 @@ def render_category(cat):
         lines.append(
             f"| **{link_source}** | {status_badge(merged.get('status'))} | {safe_description} | {stars_cell} | {badge_commit} | {links} |"
         )
+    lines.append("**[`^ back to top ^`](#title)**")
 
     return lines
 
@@ -191,7 +192,7 @@ def build_all_apps():
     sorted_categories = sorted(categories)
 
     lines = [
-        "# All Apps",
+        "<h1 id='title'>All Apps</h1>",
         "[`< go back home`](README.md)",
         "",
         "## Table of Contents",
