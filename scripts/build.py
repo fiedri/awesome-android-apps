@@ -183,9 +183,8 @@ def render_category(cat):
         lines.append(
             f"| **{link_source}** | {status_badge(merged.get('status'))} | {safe_description} | {stars_cell} | {badge_commit} | {links} |"
         )
-    lines.append("**[`^ back to top ^`](#title)**")
 
-    return lines
+    return lines + ["", "[**`^ back to top ^`**](#title)"]
 
 
 def build_all_apps():

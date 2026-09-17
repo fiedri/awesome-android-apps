@@ -81,7 +81,8 @@
 | **[`SmartTubeNext`](https://github.com/yuliskov/SmartTube "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 33,798 | ![last commit](https://img.shields.io/github/last-commit/yuliskov/SmartTube) |  |
 | **[`Vineyard`](https://github.com/hitherejoe/Vineyard "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | An open-source client for the Vine video service on Android TV. (Archived) | 718 | ![last commit](https://img.shields.io/github/last-commit/hitherejoe/Vineyard) |  |
 | **[`XiaomiTV`](https://github.com/XiaoMi/android_tv_metro "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A metro-style framework and server API for Android TV. (Archived) | 670 | ![last commit](https://img.shields.io/github/last-commit/XiaoMi/android_tv_metro) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="android-wear"></a>
 ## ⌚️ Android Wear
@@ -102,7 +103,8 @@
 | **[`Wear Offline Notes`](https://github.com/soygabimoreno/Wear-Offline-Notes "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A simple offline note-taking application for Wear OS. | 8 | ![last commit](https://img.shields.io/github/last-commit/soygabimoreno/Wear-Offline-Notes) |  |
 | **[`Wearable Chess`](https://github.com/mitchazj/Wearable-Chess "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A functional chess game designed for Wear OS. (Archived) | 7 | ![last commit](https://img.shields.io/github/last-commit/mitchazj/Wearable-Chess) |  |
 | **[`WearTimer`](https://github.com/dkhmelenko/WearTimer "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An improved stopwatch and timer app for Wear OS. | 5 | ![last commit](https://img.shields.io/github/last-commit/dkhmelenko/WearTimer) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="anime"></a>
 ## 🇯🇵 Anime
@@ -110,7 +112,8 @@
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
 | **[`MoeList`](https://github.com/axiel7/MoeList "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Another unofficial Android MAL(MyAnimeList) client, track your progress in both anime and mangas. See top charts, search, and manage your list. | 653 | ![last commit](https://img.shields.io/github/last-commit/axiel7/MoeList) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.axiel7.moelist "playstore") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="app-stores"></a>
 ## 🏪 App Stores
@@ -124,7 +127,8 @@
 | **[`Foxy Droid`](https://github.com/kitsunyan/foxy-droid "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | Unofficial F-Droid client in the style of the classic one. Jump over the lazy dog, manage repositories, and install software quickly. No privileged extension, root installation, or sharing local repositories nearby. It also features fast repository syncing, standard Android components, minimal dependencies and more. | 714 | ![last commit](https://img.shields.io/github/last-commit/kitsunyan/foxy-droid) | [`[f-droid]`](https://f-droid.org/packages/nya.kitsunyan.foxydroid "f-droid") |
 | **[`G-Droid`](https://gitlab.com/gdroid/gdroidclient "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | An alternative client app to browse the F-Droid repository. It features reviews and comments for apps, star ratings, upstream star ratings, etc. | 164 | ![last commit](https://img.shields.io/gitlab/last-commit/gdroid/gdroidclient) | [`[f-droid]`](https://f-droid.org/en/packages/org.gdroid.gdroid "f-droid") |
 | **[`Neo Store`](https://github.com/neoapplications/neo-store "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A modern and feature-rich F-Droid client: fast repository sync times, awesome built-in repositories, easy exploration of new apps, minimalism with KISS principles. | 5,029 | ![last commit](https://img.shields.io/github/last-commit/neoapplications/neo-store) | [`[f-droid]`](https://f-droid.org/packages/com.machiav3lli.fdroid/ "f-droid") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="browsers"></a>
 ## 🌐 Browser
@@ -136,7 +140,8 @@
 | **[`Lynket`](https://github.com/arunkumar9t2/lynket-browser "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | Android browser app based on Custom Tabs protocol. Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu. | 533 | ![last commit](https://img.shields.io/github/last-commit/arunkumar9t2/lynket-browser) |  |
 | **[`Privacy Browser`](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git "link")** |  | Most browsers silently give websites massive amounts of information that allows them to track you and compromise your privacy. In contrast, privacy sensitive features are disabled by default in Privacy Browser. If one of these technologies is required for a website to function correctly, the user may choose to turn it on for just that visit. Or, they can use domain settings to automatically turn on certain features when entering a specific website and turn them off again when leaving. | — |  | [`[f-droid]`](https://f-droid.org/packages/com.stoutner.privacybrowser.standard "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard "playstore") [`[website]`](https://www.stoutner.com/privacy-browser "website") |
 | **[`SmartCookieWeb`](https://github.com/CookieJarApps/SmartCookieWeb "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A lightweight, basic and secure web browser that uses less than 8MB of space. There is an Incognito Mode which can be enabled and stops web trackers completely. As well as this, the user agent (your web fingerprint) is the same as every other Smart Cookie user so websites can’t track you. Smart Cookie is ad-free and always will be. There is also an ad blocker included which is enabled by default. | 355 | ![last commit](https://img.shields.io/github/last-commit/CookieJarApps/SmartCookieWeb) | [`[f-droid]`](https://f-droid.org/en/packages/com.cookiegames.smartcookie "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie "playstore") [`[website]`](https://smartcookieweb.com "website") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="business"></a>
 ## 💼 Business
@@ -146,7 +151,8 @@
 | **[`OpenPetra`](https://github.com/openpetra/openpetra "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Administration software (CRM/ERP) for charitable organizations. | 116 | ![last commit](https://img.shields.io/github/last-commit/openpetra/openpetra) |  |
 | **[`OpenPost`](https://github.com/getopenpost/openpost "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Native app for drafting, scheduling, and tracking social posts through OpenPost Hosted or a self-hosted server. | 551 | ![last commit](https://img.shields.io/github/last-commit/getopenpost/openpost) |  |
 | **[`OpenShop.io`](https://github.com/openshopio/openshop.io-android "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A mobile E-commerce solution connected to Facebook Ads and Google. (Archived) | 503 | ![last commit](https://img.shields.io/github/last-commit/openshopio/openshop.io-android) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="calculators"></a>
 ## ➕ Calculators
@@ -155,7 +161,8 @@
 |-----|--------|-------------|-------|-------------|-------|
 | **[`Calculator++`](https://github.com/Bubu/android-calculatorpp "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | A powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex. | 103 | ![last commit](https://img.shields.io/github/last-commit/Bubu/android-calculatorpp) | [`[f-droid]`](https://f-droid.org/packages/org.solovyev.android.calculator "f-droid") |
 | **[`ncalc`](https://github.com/tranleduy2000/ncalc "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | A powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex. | 687 | ![last commit](https://img.shields.io/github/last-commit/tranleduy2000/ncalc) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.duy.calculator.free "playstore") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="calendars"></a>
 ## 📅 Calendars
@@ -165,7 +172,8 @@
 | **[`Etar`](https://github.com/Etar-Group/Etar-Calendar "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A material designed open source calendar, for everyone! It features different views (monthly, weekly, daily and agenda), sync with Google Calendar, Exchange and others, dark and light theme, no ads, and more. | 2,602 | ![last commit](https://img.shields.io/github/last-commit/Etar-Group/Etar-Calendar) | [`[f-droid]`](https://f-droid.org/packages/ws.xsoh.etar "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=ws.xsoh.etar "playstore") |
 | **[`Simple Calendar`](https://github.com/SimpleMobileTools/Simple-Calendar "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A simple calendar with events and a customizable widget, optional CalDAV synchronization. You can easily create recurring events and setup reminders, it can also display week numbers. Contains a monthly view and an event list widget where you can customize the color of the text, as well as the alpha and the color of the background. | 3,650 | ![last commit](https://img.shields.io/github/last-commit/SimpleMobileTools/Simple-Calendar) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro "playstore") [`[website]`](https://www.simplemobiletools.com/calendar "website") |
 | **[`Todo Agenda`](https://github.com/andstatus/todoagenda "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Home screen widgets for your Android device. Each widget has its own settings and displays configured list of calendar events and tasks so that you can easily have a glimpse at your due, current and upcoming appointments. | 173 | ![last commit](https://img.shields.io/github/last-commit/andstatus/todoagenda) | [`[f-droid]`](https://f-droid.org/en/packages/org.andstatus.todoagenda "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.andstatus.todoagenda "playstore") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="customization"></a>
 ## 🎨 Customization
@@ -187,7 +195,8 @@
 | **[`wall-splash-android`](https://github.com/mikepenz/wallsplash-android "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | An open-source Android client for the high-resolution photo service Unsplash.com. | 782 | ![last commit](https://img.shields.io/github/last-commit/mikepenz/wallsplash-android) |  |
 | **[`WallpaperStore`](https://github.com/zzhoujay/WallpaperStore "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A wallpaper application developed using Kotlin. | 121 | ![last commit](https://img.shields.io/github/last-commit/zzhoujay/WallpaperStore) |  |
 | **[`Wally`](https://github.com/musenkishi/wally "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A fast and efficient open-source wallpaper application for Android. | 957 | ![last commit](https://img.shields.io/github/last-commit/musenkishi/wally) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="email"></a>
 ## 📧 Email
@@ -196,7 +205,8 @@
 |-----|--------|-------------|-------|-------------|-------|
 | **[`FairEmail`](https://github.com/M66B/FairEmail "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo! | 4,633 | ![last commit](https://img.shields.io/github/last-commit/M66B/FairEmail) | [`[f-droid]`](https://f-droid.org/en/packages/eu.faircode.email "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=eu.faircode.email "playstore") [`[website]`](https://email.faircode.eu "website") |
 | **[`K-9`](https://github.com/k9mail/k-9 "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An open source email client focused on making it easy to chew through large volumes of email. | 14,006 | ![last commit](https://img.shields.io/github/last-commit/k9mail/k-9) | [`[f-droid]`](https://f-droid.org/packages/com.fsck.k9 "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.fsck.k9 "playstore") [`[website]`](https://k9mail.app "website") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="emulators"></a>
 ## 🕹 Emulators
@@ -205,7 +215,8 @@
 |-----|--------|-------------|-------|-------------|-------|
 | **[`Lemuroid`](https://github.com/Swordfish90/Lemuroid "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An Android open-source emulation project based on Libretro. It's main goals are ease of use, good Android integration and great user experience. | 4,326 | ![last commit](https://img.shields.io/github/last-commit/Swordfish90/Lemuroid) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid "playstore") |
 | **[`RetroArch`](https://github.com/libretro/RetroArch "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. It attempts to be small and lean while still having all the useful core features expected from an emulator. It is designed to be very portable and features a gamepad-centric and touchscreen UI. It also has a full-featured command-line interface. | 14,039 | ![last commit](https://img.shields.io/github/last-commit/libretro/RetroArch) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.retroarch "playstore") [`[website]`](https://www.libretro.com "website") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="entertainment"></a>
 ## 🎥 Entertainment
@@ -216,7 +227,8 @@
 | **[`Feeder`](https://gitlab.com/spacecowboy/Feeder "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | This is a no-nonsense RSS/Atom/JSON feed reader app for Android, with offline reading, notification support, OPML import/export and material design. | 386 | ![last commit](https://img.shields.io/gitlab/last-commit/spacecowboy/Feeder) | [`[f-droid]`](https://f-droid.org/packages/com.nononsenseapps.feeder/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play "playstore") |
 | **[`NewPipe`](https://github.com/TeamNewPipe/NewPipe "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software. | 39,711 | ![last commit](https://img.shields.io/github/last-commit/TeamNewPipe/NewPipe) | [`[f-droid]`](https://f-droid.org/packages/org.schabi.newpipe "f-droid") [`[website]`](https://newpipe.schabi.org "website") |
 | **[`Twire`](https://github.com/twireapp/Twire "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An Open Source, AD-Free Twitch browser and stream player for Android. Supports VODs with chat replay, custom emotes (BTTV and FFZ) and Picture in Picture mode. A fork of Pocket Plays for Twitch. | 1,303 | ![last commit](https://img.shields.io/github/last-commit/twireapp/Twire) | [`[f-droid]`](https://f-droid.org/packages/com.perflyst.twire "f-droid") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="file-managers"></a>
 ## 📂 File Managers
@@ -225,7 +237,8 @@
 |-----|--------|-------------|-------|-------------|-------|
 | **[`Amaze`](https://github.com/TeamAmaze/AmazeFileManager "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An Open Source, light and smooth file manager that follows material design guidelines. It allows to work on multiple tabs at the same time, quickly access history, bookmarks and to search for any file. | 6,390 | ![last commit](https://img.shields.io/github/last-commit/TeamAmaze/AmazeFileManager) | [`[f-droid]`](https://f-droid.org/packages/com.amaze.filemanager "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.amaze.filemanager "playstore") |
 | **[`Material Files`](https://github.com/zhanghai/MaterialFiles "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An open source Material Design file manager, for Android 5.0+. | 8,931 | ![last commit](https://img.shields.io/github/last-commit/zhanghai/MaterialFiles) | [`[f-droid]`](https://f-droid.org/packages/me.zhanghai.android.files "f-droid") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="finance"></a>
 ## 💰 Finance
@@ -244,7 +257,8 @@
 | **[`Money Manager`](https://github.com/hulkdx/MoneyManager "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A money manager app built with Kotlin and a CLEAN architecture. | 3 | ![last commit](https://img.shields.io/github/last-commit/hulkdx/MoneyManager) |  |
 | **[`Money Manager Ex`](https://github.com/moneymanagerex/android-money-manager-ex "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The official Android port of the popular desktop app Money Manager Ex. | 712 | ![last commit](https://img.shields.io/github/last-commit/moneymanagerex/android-money-manager-ex) |  |
 | **[`Simple Random Stock`](https://github.com/WillWcchan/Simple-Random-Stock "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An app that randomly selects a stock from the 3 major U.S. indexes. | 7 | ![last commit](https://img.shields.io/github/last-commit/WillWcchan/Simple-Random-Stock) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="games"></a>
 ## 🎮 Games
@@ -286,7 +300,8 @@
 | **[`TalpaSplat3`](https://github.com/albertomosconi/TalpaSplat3 "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs! | 6 | ![last commit](https://img.shields.io/github/last-commit/albertomosconi/TalpaSplat3) |  |
 | **[`Tanks of Freedom`](https://github.com/w84death/Tanks-of-Freedom "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | An indie Turn-Based Strategy game in isometric pixel art. | 1,208 | ![last commit](https://img.shields.io/github/last-commit/w84death/Tanks-of-Freedom) |  |
 | **[`Zabyrinth`](https://github.com/Zachacious/Zabyrinth "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | A physics-based game based on the classic Labyrinth board game. | 25 | ![last commit](https://img.shields.io/github/last-commit/Zachacious/Zabyrinth) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="health-fitness"></a>
 ## 🏥 Health & Fitness
@@ -305,7 +320,8 @@
 | **[`RunnerUp`](https://github.com/jonasoreland/runnerup "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An open-source run tracker for tracking fitness activities. | 953 | ![last commit](https://img.shields.io/github/last-commit/jonasoreland/runnerup) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.runnerup "playstore") |
 | **[`SoulSync`](https://github.com/Antimatter543/mood-tracker "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A free mood tracker that stores everything on-device in SQLite, with no account, ads, or subscription. | 2 | ![last commit](https://img.shields.io/github/last-commit/Antimatter543/mood-tracker) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp "playstore") |
 | **[`trale`](https://github.com/QuantumPhysique/trale "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A simple and privacy-respecting body weight diary app built with Flutter. | 207 | ![last commit](https://img.shields.io/github/last-commit/QuantumPhysique/trale) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="keyboards"></a>
 ## ⌨ Keyboards
@@ -318,7 +334,8 @@
 | **[`Irregular Expressions`](https://github.com/MobileFirstLLC/irregular-expressions "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram — any app with typing! | 165 | ![last commit](https://img.shields.io/github/last-commit/MobileFirstLLC/irregular-expressions) | [`[f-droid]`](https://f-droid.org/packages/mf.asciitext.lite "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=mf.asciitext.lite "playstore") |
 | **[`OpenBoard`](https://github.com/dslul/openboard "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A 100% FOSS keyboard, based on AOSP, with no dependency on Google binaries, that respects your privacy. It supports spelling correction, themes and emojis. | 2,740 | ![last commit](https://img.shields.io/github/last-commit/dslul/openboard) |  |
 | **[`Simple Keyboard`](https://github.com/rkkr/simple-keyboard "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | This keyboard is created for those who only need a keyboard and nothing more, it is very simple and lightweight, with minimal permissions required and zero ads. | 1,586 | ![last commit](https://img.shields.io/github/last-commit/rkkr/simple-keyboard) | [`[f-droid]`](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod "playstore") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="launchers"></a>
 ## 📱 Launchers
@@ -328,7 +345,8 @@
 | **[`KISS`](https://github.com/Neamar/KISS "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A blazingly fast launcher for android requiring nearly no memory to run. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select. Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the 'phone' button. | 3,499 | ![last commit](https://img.shields.io/github/last-commit/Neamar/KISS) | [`[f-droid]`](https://f-droid.org/packages/fr.neamar.kiss "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=fr.neamar.kiss "playstore") [`[website]`](https://kisslauncher.com "website") |
 | **[`Olauncher`](https://github.com/tanujnotes/Olauncher "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | This launcher frees you from distractions so you can focus on the things that actually matter. You should use your phone, not the other way round. It's privacy focused, fast, lightweight, and has no advertisements | 3,825 | ![last commit](https://img.shields.io/github/last-commit/tanujnotes/Olauncher) | [`[f-droid]`](https://f-droid.org/packages/app.olauncher "f-droid") |
 | **[`Rootless Pixel Launcher`](https://github.com/amirzaidi/Launcher3 "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A close to AOSP launcher that only changes the necessary code to allow for small extensions and backporting to older Android versions. Pixel Launcher is focused on simplicity and rock solid stability. | 3,897 | ![last commit](https://img.shields.io/github/last-commit/amirzaidi/Launcher3) | [`[f-droid]`](https://f-droid.org/packages/amirz.rootless.nexuslauncher "f-droid") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="learning"></a>
 ## 🎓 Learning
@@ -353,7 +371,8 @@
 | **[`Stepik`](https://github.com/StepicOrg/stepik-android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An app offering free, certificate-based online courses on various subjects. | 196 | ![last commit](https://img.shields.io/github/last-commit/StepicOrg/stepik-android) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.stepic.droid "playstore") |
 | **[`Umbrella`](https://github.com/securityfirst/Umbrella_android "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An app to learn about digital and physical security, from comms to kidnapping. | 292 | ![last commit](https://img.shields.io/github/last-commit/securityfirst/Umbrella_android) |  |
 | **[`WaniKani for Android`](https://github.com/xiprox/WaniKani-for-Android "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | An Android client for the popular kanji learning website wanikani.com. | 508 | ![last commit](https://img.shields.io/github/last-commit/xiprox/WaniKani-for-Android) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="life-style"></a>
 ## 🏠 Life Style
@@ -374,7 +393,8 @@
 | **[`Teapp`](https://github.com/marianpekar/teapp "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A personal database for tea enthusiasts with a timer and calculator. | 2 | ![last commit](https://img.shields.io/github/last-commit/marianpekar/teapp) |  |
 | **[`Wake You In Music`](https://github.com/CedrickFlocon/wakeyouinmusic "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | An alarm clock app for Spotify or Deezer users. (Archived) | 25 | ![last commit](https://img.shields.io/github/last-commit/CedrickFlocon/wakeyouinmusic) |  |
 | **[`WonderFood`](https://github.com/vaddisrinivas/wonderfood "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Local-first food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals. | 0 | ![last commit](https://img.shields.io/github/last-commit/vaddisrinivas/wonderfood) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="maps"></a>
 ## 🗺 Maps
@@ -402,7 +422,8 @@
 | **[`TICE`](https://github.com/TICESoftware/tice-android "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A secure, real-time location sharing app for meeting up with friends and family. | 67 | ![last commit](https://img.shields.io/github/last-commit/TICESoftware/tice-android) | [`[playstore]`](https://play.google.com/store/apps/details?id=app.tice.TICE.production "playstore") |
 | **[`Transportr`](https://github.com/grote/transportr "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are. This app uses the data of various local public transport agencies and provides a unified interface for them. | 1,175 | ![last commit](https://img.shields.io/github/last-commit/grote/transportr) | [`[f-droid]`](https://f-droid.org/packages/de.grobox.liberario "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=de.grobox.liberario "playstore") [`[website]`](https://transportr.app "website") |
 | **[`Travel Mate`](https://github.com/project-travel-mate/Travel-Mate "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An app designed to be a complete travel guide for your trips. (Archived) | 1,340 | ![last commit](https://img.shields.io/github/last-commit/project-travel-mate/Travel-Mate) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="media-viewers-and-players"></a>
 ## ⏯ Media Viewers and Players
@@ -469,7 +490,8 @@
 | **[`VLC`](https://code.videolan.org/videolan/VLC-android "link")** |  | A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. | ![Stars](https://img.shields.io/badge/dynamic/json?label=stars&query=$.star_count&url=https://code.videolan.org/api/v4/projects/36) |  | [`[f-droid]`](https://f-droid.org/en/packages/org.videolan.vlc "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.videolan.vlc "playstore") [`[website]`](https://www.videolan.org/vlc "website") |
 | **[`VLC for Android`](https://github.com/videolan/vlc-android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The official port of the versatile, open-source VLC media player. | 4,002 | ![last commit](https://img.shields.io/github/last-commit/videolan/vlc-android) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.videolan.vlc "playstore") |
 | **[`XimalayaKotlin`](https://github.com/gs666/XimalayaKotlin "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An unofficial client for Ximalaya FM written entirely in Kotlin. (Archived) | 181 | ![last commit](https://img.shields.io/github/last-commit/gs666/XimalayaKotlin) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="messaging"></a>
 ## 📨 Messaging
@@ -502,7 +524,8 @@
 | **[`Wire`](https://github.com/wireapp/wire-android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A secure messenger offering end-to-end encrypted communication. | 253 | ![last commit](https://img.shields.io/github/last-commit/wireapp/wire-android) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.wire "playstore") |
 | **[`Yaaic`](https://github.com/pocmo/Yaaic "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | "Yet Another Android IRC Client" for connecting to IRC networks. (Archived) | 338 | ![last commit](https://img.shields.io/github/last-commit/pocmo/Yaaic) |  |
 | **[`Zulip`](https://github.com/zulip/zulip-android-legacy "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | The official Android client for the powerful open-source group chat platform. | 402 | ![last commit](https://img.shields.io/github/last-commit/zulip/zulip-android-legacy) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="news-and-magazines"></a>
 ## 📰 News & Magazines
@@ -545,7 +568,8 @@
 | **[`ZhiHuDaily-React-Native`](https://github.com/race604/ZhiHuDaily-React-Native "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A Zhihu Daily client implemented using React Native for Android. | 3,644 | ![last commit](https://img.shields.io/github/last-commit/race604/ZhiHuDaily-React-Native) |  |
 | **[`ZhihuDailyKotlin`](https://github.com/happydog-intj/ZhihuDailyKotlin "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A clone of the Zhihu Daily app, written entirely in Kotlin. | 2 | ![last commit](https://img.shields.io/github/last-commit/happydog-intj/ZhihuDailyKotlin) |  |
 | **[`ZhuanLan`](https://github.com/bxbxbai/ZhuanLan "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A client for the "Zhuanlan" (Columns) section of the Zhihu platform. | 721 | ![last commit](https://img.shields.io/github/last-commit/bxbxbai/ZhuanLan) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="password-managers"></a>
 ## 🔑 Password Managers
@@ -554,7 +578,8 @@
 |-----|--------|-------------|-------|-------------|-------|
 | **[`Bitwarden`](https://github.com/bitwarden/mobile "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | An open source password manager with End-to-End encryption and cross-platform support. Bitwarden makes it easy to generate, store, and secure unique passwords from any location or device. | 223 | ![last commit](https://img.shields.io/github/last-commit/bitwarden/mobile) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden "playstore") [`[website]`](https://bitwarden.com "website") |
 | **[`KeePassDX`](https://github.com/Kunzisoft/KeePassDX "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A multi-format KeePass manager for Android devices. The app allows creating keys and passwords in a secure way by integrating with the Android design standards. | 7,321 | ![last commit](https://img.shields.io/github/last-commit/Kunzisoft/KeePassDX) | [`[f-droid]`](https://www.f-droid.org/packages/com.kunzisoft.keepass.libre "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free "playstore") [`[website]`](https://www.keepassdx.com "website") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="productivity"></a>
 ## 👩‍🔧 Productivity
@@ -611,7 +636,8 @@
 | **[`tudounotepad`](https://github.com/geminiwen/tudounotepad "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A simple Notepad application developed using Kotlin. | 108 | ![last commit](https://img.shields.io/github/last-commit/geminiwen/tudounotepad) |  |
 | **[`Turbo Editor`](https://github.com/vmihalachi/turbo-editor "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A simple, powerful, and open-source text editor for Android. | 1,364 | ![last commit](https://img.shields.io/github/last-commit/vmihalachi/turbo-editor) |  |
 | **[`VertiKin`](https://github.com/prabhakar267/vertikin "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A platform to automatically detect what a user might be interested in buying. | 81 | ![last commit](https://img.shields.io/github/last-commit/prabhakar267/vertikin) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="programming"></a>
 ## 💻 Programming
@@ -619,7 +645,8 @@
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
 | **[`Termux`](https://github.com/termux/termux-app "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | An Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager. | 60,968 | ![last commit](https://img.shields.io/github/last-commit/termux/termux-app) | [`[f-droid]`](https://f-droid.org/packages/com.termux "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.termux "playstore") [`[website]`](https://termux.com "website") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="security-and-privacy"></a>
 ## 🔐 Security and Privacy
@@ -636,7 +663,8 @@
 | **[`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An open-source, no-root Firewall and DNS resolver with customizable blocklists. Block any app, IP address, or domain name from connecting to the Internet. Keep tabs on outgoing network connections, search through and analyze them. | 5,434 | ![last commit](https://img.shields.io/github/last-commit/celzero/rethink-app) | [`[f-droid]`](https://f-droid.org/en/packages/com.celzero.bravedns "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.celzero.bravedns "playstore") [`[website]`](https://www.rethinkfirewall.com "website") |
 | **[`Warden`](https://gitlab.com/AuroraOSS/AppWarden "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A FOSS app management utility with beautiful material design. This app detects trackers & loggers and allows you to disable them. It also features an advanced profile based app de-bloater. | 202 | ![last commit](https://img.shields.io/gitlab/last-commit/AuroraOSS/AppWarden) | [`[website]`](https://auroraoss.com/app_info.php?app_id=3 "website") |
 | **[`Yet Another Call Blocker`](https://gitlab.com/xynngh/YetAnotherCallBlocker "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A free and open source application that can block unwanted calls or warn about probable intentions of callers using a third-party crowdsourced phone number database (from some other proprietary app). | 145 | ![last commit](https://img.shields.io/gitlab/last-commit/xynngh/YetAnotherCallBlocker) | [`[f-droid]`](https://f-droid.org/packages/dummydomain.yetanothercallblocker "f-droid") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="social-media"></a>
 ## 👥 Social Media
@@ -689,7 +717,8 @@
 | **[`WordPress`](https://github.com/wordpress-mobile/WordPress-Android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The official open-source app for managing WordPress sites. | 3,152 | ![last commit](https://img.shields.io/github/last-commit/wordpress-mobile/WordPress-Android) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.wordpress.android "playstore") |
 | **[`Xtra`](https://github.com/crackededed/Xtra "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An open-source, ad-free Twitch player and browser for Android. | 2,264 | ![last commit](https://img.shields.io/github/last-commit/crackededed/Xtra) |  |
 | **[`YouJoin`](https://github.com/FreedomZZQ/YouJoin-Android "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A social connection app with a focus on Material Design. (Archived) | 296 | ![last commit](https://img.shields.io/github/last-commit/FreedomZZQ/YouJoin-Android) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="synchronization"></a>
 ## 🔄 Synchronization
@@ -698,7 +727,8 @@
 |-----|--------|-------------|-------|-------------|-------|
 | **[`Nextcloud`](https://github.com/nextcloud/android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The Open Source Nextcloud Android app allows you to access all your files on your Nextcloud, a private file sync & share and communication server. It is fully open source and you can host it yourself or pay a company to do it for you. That way, you are in control of your photos, your calendar and contact data, your documents and everything else. | 5,581 | ![last commit](https://img.shields.io/github/last-commit/nextcloud/android) | [`[f-droid]`](https://f-droid.org/packages/com.nextcloud.client "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.nextcloud.client "playstore") [`[website]`](https://nextcloud.com "website") |
 | **[`Syncthing`](https://github.com/syncthing/syncthing-android "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet. | 4,283 | ![last commit](https://img.shields.io/github/last-commit/syncthing/syncthing-android) | [`[website]`](https://syncthing.net "website") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="system-info"></a>
 ## ⚙ System Info
@@ -706,7 +736,8 @@
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
 | **[`CPU Info`](https://github.com/kamgurgul/cpu-info "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Provides main information about hardware and software of your device: CPU and GPU specification, RAM and storage state, display metrics, sensors data and much more. | 1,070 | ![last commit](https://img.shields.io/github/last-commit/kamgurgul/cpu-info) | [`[f-droid]`](https://f-droid.org/packages/com.kgurgul.cpuinfo "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo "playstore") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="texting-and-phone"></a>
 ## 💬 Texting and Phone
@@ -718,7 +749,8 @@
 | **[`Mattermost`](https://github.com/mattermost/mattermost-mobile "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams. | 2,723 | ![last commit](https://img.shields.io/github/last-commit/mattermost/mattermost-mobile) | [`[f-droid]`](https://f-droid.org/en/packages/com.mattermost.rnbeta "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.mattermost.rn "playstore") [`[website]`](https://mattermost.com "website") |
 | **[`QKSMS`](https://github.com/moezbhatti/qksms "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An open source replacement to the stock messaging app on Android. Features a beautiful, intuitive, and clutter-free design that allows you to focus on what matters, while stil being customizable. | 4,591 | ![last commit](https://img.shields.io/github/last-commit/moezbhatti/qksms) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.moez.QKSMS "playstore") |
 | **[`Signal`](https://github.com/signalapp/Signal-Android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone. | 29,351 | ![last commit](https://img.shields.io/github/last-commit/signalapp/Signal-Android) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms "playstore") [`[website]`](https://signal.org "website") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="tools"></a>
 ## 🧰 Tools
@@ -827,14 +859,16 @@
 | **[`Work Tracker`](https://github.com/parmstrong842/WorkTracker "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A simple app to keep a log of the hours you have worked. | 17 | ![last commit](https://img.shields.io/github/last-commit/parmstrong842/WorkTracker) |  |
 | **[`Xsocks`](https://github.com/lparam/xSocks-android "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A secure and fast proxy to protect your network traffic. | 85 | ![last commit](https://img.shields.io/github/last-commit/lparam/xSocks-android) |  |
 | **[`XWriter`](https://github.com/Abir-Tx/XWriter "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An app for printing text as many times as needed and copying to the clipboard. | 3 | ![last commit](https://img.shields.io/github/last-commit/Abir-Tx/XWriter) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="travel-and-local"></a>
 ## 🗺️ Travel & Local
 
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="utilities"></a>
 ## 🛠 Utilities
@@ -849,7 +883,8 @@
 | **[`Permission Manager X`](https://github.com/mirfatif/PermissionManagerX "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | eXtended Permission Manager for Android - view and set Manifest Permissions and AppOps. View, grant or revoke manifest permissions; view AppOps permissions and choose one of multiple modes; set your desired reference value for every changeable permission. | 780 | ![last commit](https://img.shields.io/github/last-commit/mirfatif/PermissionManagerX) | [`[f-droid]`](https://f-droid.org/packages/com.mirfatif.permissionmanagerx "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx "playstore") [`[website]`](https://mirfatif.github.io/PermissionManagerX/help/en "website") |
 | **[`PingOff`](https://gitlab.com/juanitobananas/ping-off "link")** |  | PingOff is a simple app that automatically toggles Do Not Disturb based on the apps you use. | ![Stars](https://badgen.net/gitlab/stars/juanitobananas/ping-off) | ![last commit](https://img.shields.io/gitlab/last-commit/juanitobananas/ping-off) | [`[f-droid]`](https://f-droid.org/packages/com.jarsilio.android.pingoff/ "f-droid") |
 | **[`PlainApp`](https://github.com/plainhub/plain-app "link")** |  | PlainApp is a free, open-source Android app that turns your phone into a self-hosted management hub you can access from any web browser on the same network — no accounts, no cloud, no subscriptions. Whether you need to transfer files, read SMS, browse photos, or mirror your screen, PlainApp puts full control back in your hands. | ![Stars](https://badgen.net/github/stars/plainhub/plain-app) | ![last commit](https://img.shields.io/github/last-commit/plainhub/plain-app) | [`[f-droid]`](https://f-droid.org/packages/com.ismartcoding.plain/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.ismartcoding.plain "playstore") [`[website]`](https://plainapp.app/es "website") |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
 
 <a id="weather"></a>
 ## ⛅ Weather
@@ -857,4 +892,5 @@
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
 | **[`Geometric Weather`](https://github.com/WangDaYeeeeee/GeometricWeather "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A light and powerful weather app that provides you with real-time temperature, air quality, 15-days weather forecast, and accurate time-sharing trends. The app has a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability. | 2,524 | ![last commit](https://img.shields.io/github/last-commit/WangDaYeeeeee/GeometricWeather) |  |
-**[`^ back to top ^`](#title)**
+
+[**`^ back to top ^`**](#title)
