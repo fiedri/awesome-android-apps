@@ -6,6 +6,7 @@
             "name": "GitJournal",
             "description": "Mobile first notes integrated with GitJournal. It transparently makes commits in your git repo of choice. The files can be stored in Markdown, Txt or OrgMode",
             "source": "https://github.com/GitJournal/GitJournal",
+            "added": "2022-01-28",
             "playstore": "https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal",
             "website": "https://gitjournal.io"
         },
@@ -13,6 +14,7 @@
             "name": "Loop Habit Tracker",
             "description": "A simple app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time.",
             "source": "https://github.com/iSoron/uhabits",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/org.isoron.uhabits",
             "playstore": "https://play.google.com/store/apps/details?id=org.isoron.uhabits"
         },
@@ -20,6 +22,7 @@
             "name": "Markor",
             "description": "A TextEditor for Android. This project aims to make an editor that is versatile, flexible, and lightweight. Markor utilizes simple markup formats like Markdown and todo.txt for note-taking and list management. Markor is versatile at working with text; it can also be used for keeping bookmarks, copying to clipboard, fast opening a link from text and lots of more.",
             "source": "https://github.com/gsantner/markor",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/net.gsantner.markor",
             "playstore": "https://play.google.com/store/apps/details?id=net.gsantner.markor",
             "website": "https://gsantner.net/project/markor.html"
@@ -28,12 +31,14 @@
             "name": "neutriNote",
             "description": "An ultra-compact extensible note app supporting rich markdown and math formulas.  Backed by a powerful search engine and tons of customization options.",
             "source": "https://github.com/appml/neutrinote",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/com.appmindlab.nano",
             "playstore": "https://play.google.com/store/apps/details?id=com.appmindlab.nano",
             "website": "https://neutrinote.wordpress.com"
         },
         {
             "source": "https://github.com/federicoiosue/Omni-Notes",
+            "added": "2022-01-28",
             "name": "Omni Notes",
             "description": "A note taking open-source application aimed to have both a simple interface but keeping smart behavior. It aims to provide an attractive look and follow the most recent design guidelines of the Google operating system.",
             "fdroid": "https://f-droid.org/packages/it.feio.android.omninotes.foss/",
@@ -44,6 +49,7 @@
             "name": "Orgzly",
             "description": "An outliner for taking notes and managing to-do lists. You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card or Dropbox. Notebooks are saved in Org mode\u2019s file format. Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.",
             "source": "https://github.com/orgzly/orgzly-android",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/com.orgzly",
             "playstore": "https://play.google.com/store/apps/details?id=com.orgzly",
             "website": "http://www.orgzly.com"
@@ -52,12 +58,14 @@
             "name": "p!n",
             "description": "A minimalistic note-taking app utilizing your phone's notification area: take notes and save them as notifications, edit pinned notices, delete pins, hide notes for a specific period of time. This app was built with Material Design in mind. The app was built with Material Design in mind.",
             "source": "https://github.com/nproth/pin",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/de.nproth.pin"
         },
         {
             "name": "Tasks.org",
             "description": "Astrid was a popular cross-platform productivity service. In 2013 Yahoo purchased Astrid, later announcing that the service would be discontinued. The source code from Astrid's open-source Android app serves as the basis for Tasks. Tasks is not affiliated with Astrid or Yahoo.",
             "source": "https://github.com/tasks/tasks",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/org.tasks",
             "playstore": "https://play.google.com/store/apps/details?id=org.tasks",
             "website": "https://tasks.org"
@@ -66,222 +74,264 @@
             "name": "1List",
             "description": "A simple app to manage several to-do lists from a single screen.",
             "source": "https://github.com/lolo-io/OneList",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.lolo.io.onelist"
         },
         {
             "name": "Bugzy",
             "description": "A production-ready Fogbugz client for Android, built with Jetpack components.",
-            "source": "https://github.com/cpunq/bugzy"
+            "source": "https://github.com/cpunq/bugzy",
+            "added": "2026-09-16"
         },
         {
             "name": "Carbon Contacts",
             "description": "An app that lets users find and delete duplicate contacts.",
-            "source": "https://github.com/abhijith0505/CarbonContacts"
+            "source": "https://github.com/abhijith0505/CarbonContacts",
+            "added": "2026-09-16"
         },
         {
             "name": "Card Case",
             "description": "An app to exchange digital business cards with people nearby. (Archived)",
-            "source": "https://github.com/blocoio/cardcase"
+            "source": "https://github.com/blocoio/cardcase",
+            "added": "2026-09-16"
         },
         {
             "name": "Conquer",
             "description": "A simple to-do list application based on Material Design. (Archived)",
-            "source": "https://github.com/hanks-zyh/Conquer"
+            "source": "https://github.com/hanks-zyh/Conquer",
+            "added": "2026-09-16"
         },
         {
             "name": "DevJournal",
             "description": "A journal for developers to jot down ideas, notes, to-dos, and bugs.",
-            "source": "https://github.com/alistairholmes/devjournal"
+            "source": "https://github.com/alistairholmes/devjournal",
+            "added": "2026-09-16"
         },
         {
             "name": "DeviceAnalyzer",
             "description": "Provides detailed insights into your device's hardware specifications.",
-            "source": "https://github.com/blurr-world/DeviceAnalyzer"
+            "source": "https://github.com/blurr-world/DeviceAnalyzer",
+            "added": "2026-09-16"
         },
         {
             "name": "EarthViewer",
             "description": "A wallpaper application and showcase for the `earthview-android` library.",
-            "source": "https://github.com/PDDStudio/earthview-android"
+            "source": "https://github.com/PDDStudio/earthview-android",
+            "added": "2026-09-16"
         },
         {
             "name": "EverMemo",
             "description": "A fast and simple memo app for recording, organizing, and sharing notes.",
-            "source": "https://github.com/daimajia/EverMemo"
+            "source": "https://github.com/daimajia/EverMemo",
+            "added": "2026-09-16"
         },
         {
             "name": "Expanda",
             "description": "Offline text expansion with reusable snippets and dynamic templates, without Internet permission.",
-            "source": "https://github.com/diegomarzaa/expanda"
+            "source": "https://github.com/diegomarzaa/expanda",
+            "added": "2026-09-16"
         },
         {
             "name": "Habitica",
             "description": "A habit tracker that gamifies your goals, treating them like an RPG.",
             "source": "https://github.com/HabitRPG/habitica-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica"
         },
         {
             "name": "Habito",
             "description": "A simple habit tracker that uses Firebase Realtime Database. (Archived)",
-            "source": "https://github.com/ivan-magda/Habito"
+            "source": "https://github.com/ivan-magda/Habito",
+            "added": "2026-09-16"
         },
         {
             "name": "InstaChat",
             "description": "A chat-head style app that lets you read and reply to messages from any screen.",
-            "source": "https://github.com/mohak1712/Insta-Chat"
+            "source": "https://github.com/mohak1712/Insta-Chat",
+            "added": "2026-09-16"
         },
         {
             "name": "Instalist",
             "description": "A simple application for managing shopping lists.",
-            "source": "https://github.com/InstaList/instalist-android"
+            "source": "https://github.com/InstaList/instalist-android",
+            "added": "2026-09-16"
         },
         {
             "name": "Joplin",
             "description": "A markdown-based note-taking app with sync and end-to-end encryption.",
             "source": "https://github.com/laurent22/joplin",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=net.cozic.joplin"
         },
         {
             "name": "KashCal",
             "description": "An offline-first calendar with iCloud/CalDAV sync, ICS subscriptions, full-text search, and home-screen widgets.",
-            "source": "https://github.com/KashCal/KashCal"
+            "source": "https://github.com/KashCal/KashCal",
+            "added": "2026-09-16"
         },
         {
             "name": "LinkHub",
             "description": "A simple and effective link management application.",
             "source": "https://github.com/AmrDeveloper/LinkHub",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.amrdeveloper.linkhub"
         },
         {
             "name": "Linkora",
             "description": "Link organizer for Android and desktop with self-hosted sync.",
-            "source": "https://github.com/LinkoraApp/Linkora"
+            "source": "https://github.com/LinkoraApp/Linkora",
+            "added": "2026-09-16"
         },
         {
             "name": "MarkNote",
             "description": "A Material Design Markdown note-taking application for Android.",
-            "source": "https://github.com/Shouheng88/MarkNote"
+            "source": "https://github.com/Shouheng88/MarkNote",
+            "added": "2026-09-16"
         },
         {
             "name": "Minimal-Todo",
             "description": "A fully Material Design To-Do app with just enough features to be useful.",
-            "source": "https://github.com/avjinder/Minimal-Todo"
+            "source": "https://github.com/avjinder/Minimal-Todo",
+            "added": "2026-09-16"
         },
         {
             "name": "Minitask",
             "description": "A simple and lightweight to-do list and task management app. (Archived)",
-            "source": "https://github.com/luong-komorebi/Minitask"
+            "source": "https://github.com/luong-komorebi/Minitask",
+            "added": "2026-09-16"
         },
         {
             "name": "My Brain",
             "description": "An all-in-one app for managing tasks, notes, events, and more.",
-            "source": "https://github.com/mhss1/MyBrain"
+            "source": "https://github.com/mhss1/MyBrain",
+            "added": "2026-09-16"
         },
         {
             "name": "Noice",
             "description": "Helps you relax and boost productivity with minimal background noises.",
             "source": "https://github.com/trynoice/android-app",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice"
         },
         {
             "name": "Notes",
             "description": "A simple note-taking app with a Material Design interface.",
-            "source": "https://github.com/lguipeng/Notes"
+            "source": "https://github.com/lguipeng/Notes",
+            "added": "2026-09-16"
         },
         {
             "name": "Nudge",
             "description": "A privacy-first ADHD app blocker with delay-to-open friction, reel/click counters, and per-app time budgets. No internet permission required.",
             "source": "https://github.com/astraedus/nudge",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=dev.astraedus.nudge"
         },
         {
             "name": "OpenNoteScanner",
             "description": "An application for scanning and manipulating handwritten notes.",
             "source": "https://github.com/allgood/OpenNoteScanner",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.todobom.opennotescanner"
         },
         {
             "name": "Outlay",
             "description": "A simple application to help you track your expenses. (Archived)",
-            "source": "https://github.com/bmelnychuk/outlay"
+            "source": "https://github.com/bmelnychuk/outlay",
+            "added": "2026-09-16"
         },
         {
             "name": "ownCloud",
             "description": "The official Android client for the self-hosted ownCloud file sync platform.",
             "source": "https://github.com/owncloud/android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.owncloud.android"
         },
         {
             "name": "PocketPal AI",
             "description": "An on-device AI assistant powered by small language models (SLMs).",
-            "source": "https://github.com/a-ghorbani/pocketpal-ai"
+            "source": "https://github.com/a-ghorbani/pocketpal-ai",
+            "added": "2026-09-16"
         },
         {
             "name": "Quill",
             "description": "A beautiful Android app for managing your Ghost blog.",
-            "source": "https://github.com/vickychijwani/quill"
+            "source": "https://github.com/vickychijwani/quill",
+            "added": "2026-09-16"
         },
         {
             "name": "Remindly",
             "description": "A simple and user-friendly application for creating reminders.",
-            "source": "https://github.com/blanyal/Remindly"
+            "source": "https://github.com/blanyal/Remindly",
+            "added": "2026-09-16"
         },
         {
             "name": "Read Later",
             "description": "Bookmark. Read. Listen. The simple way to manage your reading list.",
             "source": "https://github.com/sak96/read_later",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=io.github.sak.read.it.later"
         },
         {
             "name": "ShutUp!",
             "description": "An app to automatically silence your phone based on your calendar events.",
-            "source": "https://github.com/RitwickVerma/ShutUp"
+            "source": "https://github.com/RitwickVerma/ShutUp",
+            "added": "2026-09-16"
         },
         {
             "name": "Skiff",
             "description": "A suite of end-to-end encrypted, private email, calendar, and docs apps.",
-            "source": "https://github.com/skiff-org/skiff-apps"
+            "source": "https://github.com/skiff-org/skiff-apps",
+            "added": "2026-09-16"
         },
         {
             "name": "Super Productivity",
             "description": "An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration.",
             "source": "https://github.com/super-productivity/super-productivity",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity"
         },
         {
             "name": "Swiftnotes",
             "description": "A simple and elegant note-taking application, simplified for quick use.",
-            "source": "https://github.com/adrianchifor/Swiftnotes"
+            "source": "https://github.com/adrianchifor/Swiftnotes",
+            "added": "2026-09-16"
         },
         {
             "name": "Text Fairy",
             "description": "An OCR app that converts images to text, which can then be edited or shared.",
             "source": "https://github.com/renard314/textfairy",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.renard.ocr"
         },
         {
             "name": "todo.txt",
             "description": "The official Android app for managing your `todo.txt` file via Dropbox.",
-            "source": "https://github.com/todotxt/todo.txt-android"
+            "source": "https://github.com/todotxt/todo.txt-android",
+            "added": "2026-09-16"
         },
         {
             "name": "ToGoZip",
             "description": "Adds an \"Add to Zip\" option to Android's share menu.",
-            "source": "https://github.com/k3b/ToGoZip"
+            "source": "https://github.com/k3b/ToGoZip",
+            "added": "2026-09-16"
         },
         {
             "name": "tudounotepad",
             "description": "A simple Notepad application developed using Kotlin.",
-            "source": "https://github.com/geminiwen/tudounotepad"
+            "source": "https://github.com/geminiwen/tudounotepad",
+            "added": "2026-09-16"
         },
         {
             "name": "Turbo Editor",
             "description": "A simple, powerful, and open-source text editor for Android.",
-            "source": "https://github.com/vmihalachi/turbo-editor"
+            "source": "https://github.com/vmihalachi/turbo-editor",
+            "added": "2026-09-16"
         },
         {
             "name": "VertiKin",
             "description": "A platform to automatically detect what a user might be interested in buying.",
-            "source": "https://github.com/prabhakar267/vertikin"
+            "source": "https://github.com/prabhakar267/vertikin",
+            "added": "2026-09-16"
         }
     ]
 }

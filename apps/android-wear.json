@@ -5,72 +5,86 @@
         {
             "name": "Arcade Watchface",
             "description": "A retro, arcade-style watch face for Wear OS. (Archived)",
-            "source": "https://github.com/prempalsingh/arcade-watchface"
+            "source": "https://github.com/prempalsingh/arcade-watchface",
+            "added": "2026-09-16"
         },
         {
             "name": "AsteroidOS",
             "description": "A free and open-source alternative operating system for smartwatches.",
-            "source": "https://github.com/AsteroidOS/asteroid"
+            "source": "https://github.com/AsteroidOS/asteroid",
+            "added": "2026-09-16"
         },
         {
             "name": "AsteroidOS Sync",
             "description": "The official sync client to connect your phone to an AsteroidOS watch.",
-            "source": "https://github.com/AsteroidOS/AsteroidOSSync"
+            "source": "https://github.com/AsteroidOS/AsteroidOSSync",
+            "added": "2026-09-16"
         },
         {
             "name": "Binary Watch Face",
             "description": "A watch face that displays the time in binary format.",
-            "source": "https://github.com/dwa012/WearBinaryWatchFace"
+            "source": "https://github.com/dwa012/WearBinaryWatchFace",
+            "added": "2026-09-16"
         },
         {
             "name": "FORM Watch Face",
             "description": "A unique watch face based on the FORM event typeface.",
-            "source": "https://github.com/romannurik/FORMWatchFace"
+            "source": "https://github.com/romannurik/FORMWatchFace",
+            "added": "2026-09-16"
         },
         {
             "name": "Herold",
             "description": "Runs a Samsung Galaxy Watch from an iPhone with no Google account: ANCS notifications, health sensor readouts, an account-free app store and a watch face.",
-            "source": "https://github.com/chackrahunter/herold"
+            "source": "https://github.com/chackrahunter/herold",
+            "added": "2026-09-16"
         },
         {
             "name": "LapseFace",
             "description": "A watch face that allows you to create time-lapses. (Archived)",
-            "source": "https://github.com/matteolobello/lapseface"
+            "source": "https://github.com/matteolobello/lapseface",
+            "added": "2026-09-16"
         },
         {
             "name": "LCARS Watchface",
             "description": "A Star Trek LCARS-themed watch face specifically for AsteroidOS.",
-            "source": "https://github.com/llelectronics/lcars-v1-watchface-asteroidos"
+            "source": "https://github.com/llelectronics/lcars-v1-watchface-asteroidos",
+            "added": "2026-09-16"
         },
         {
             "name": "Tip Calculator",
             "description": "A simple, voice-activated tip calculator for Wear OS.",
-            "source": "https://github.com/mbcrump/FirstGoogleWearableApp"
+            "source": "https://github.com/mbcrump/FirstGoogleWearableApp",
+            "added": "2026-09-16"
         },
         {
             "name": "Wear for Swarm",
             "description": "A client for Swarm (Foursquare) on Wear OS. (Archived)",
-            "source": "https://github.com/sealskej/wear-for-swarm"
+            "source": "https://github.com/sealskej/wear-for-swarm",
+            "added": "2026-09-16"
         },
         {
             "name": "Wear Notify for Reddit",
             "description": "Get Reddit notifications directly on your Wear OS device.",
-            "source": "https://github.com/emmaguy/wear-notify-for-reddit"
+            "source": "https://github.com/emmaguy/wear-notify-for-reddit",
+            "added": "2026-09-16"
         },
         {
             "name": "Wear Offline Notes",
             "description": "A simple offline note-taking application for Wear OS.",
-            "source": "https://github.com/soygabimoreno/Wear-Offline-Notes"
+            "source": "https://github.com/soygabimoreno/Wear-Offline-Notes",
+            "added": "2026-09-16"
         },
         {
             "name": "Wearable Chess",
             "description": "A functional chess game designed for Wear OS. (Archived)",
-            "source": "https://github.com/mitchazj/Wearable-Chess"
+            "source": "https://github.com/mitchazj/Wearable-Chess",
+            "added": "2026-09-16"
         },
         {
             "name": "WearTimer",
             "description": "An improved stopwatch and timer app for Wear OS.",
-            "source": "https://github.com/dkhmelenko/WearTimer"
+            "source": "https://github.com/dkhmelenko/WearTimer",
+            "added": "2026-09-16"
         }
     ]
 }

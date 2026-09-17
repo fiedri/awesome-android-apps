@@ -6,34 +6,40 @@
             "name": "Arivo",
             "description": "ARVIO is an Android media hub for TV, phone, and tablet form factors.",
             "source": "https://github.com/ProdigyV21/ARVIO",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.arvio.tv"
         },
         {
             "name": "Jellyfin",
             "description": "A client for the Jellyfin media server, designed for Android TV and Fire TV devices.",
             "source": "https://github.com/jellyfin/jellyfin-androidtv",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.jellyfin.androidtv"
         },
         {
             "name": "NuvioTV",
             "description": "A modern Android TV media player powered by the Stremio addon ecosystem.",
             "source": "https://github.com/NuvioMedia/NuvioTV",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.nuvio.app"
         },
         {
             "name": "SmartTubeNext",
             "description": "An ad-free client for watching YouTube on Android TV boxes, with a built-in updater.",
-            "source": "https://github.com/yuliskov/SmartTube"
+            "source": "https://github.com/yuliskov/SmartTube",
+            "added": "2026-09-16"
         },
         {
             "name": "Vineyard",
             "description": "An open-source client for the Vine video service on Android TV. (Archived)",
-            "source": "https://github.com/hitherejoe/Vineyard"
+            "source": "https://github.com/hitherejoe/Vineyard",
+            "added": "2026-09-16"
         },
         {
             "name": "XiaomiTV",
             "description": "A metro-style framework and server API for Android TV. (Archived)",
-            "source": "https://github.com/XiaoMi/android_tv_metro"
+            "source": "https://github.com/XiaoMi/android_tv_metro",
+            "added": "2026-09-16"
         }
     ]
 }

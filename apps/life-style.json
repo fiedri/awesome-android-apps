@@ -5,74 +5,88 @@
         {
             "name": "Banya",
             "description": "A client for the Douban API with a UI inspired by NetEase Music.",
-            "source": "https://github.com/forezp/banya"
+            "source": "https://github.com/forezp/banya",
+            "added": "2026-09-16"
         },
         {
             "name": "Birday",
             "description": "A beautiful and helpful birthday calendar and reminder app.",
             "source": "https://github.com/m-i-n-a-r/birday",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.minar.birday"
         },
         {
             "name": "COVID Diary",
             "description": "Helps you keep a private log of people you have recently been with.",
-            "source": "https://github.com/apozas/contactdiary"
+            "source": "https://github.com/apozas/contactdiary",
+            "added": "2026-09-16"
         },
         {
             "name": "Easy Diary",
             "description": "A simple diary application optimized for a great user experience.",
             "source": "https://github.com/hanjoongcho/aaf-easydiary",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary"
         },
         {
             "name": "Easy Photo Map",
             "description": "Displays the location of photos on a map using their EXIF data.",
-            "source": "https://github.com/hanjoongcho/aaf-easyphotomap"
+            "source": "https://github.com/hanjoongcho/aaf-easyphotomap",
+            "added": "2026-09-16"
         },
         {
             "name": "Groceries Store",
             "description": "An app that demonstrates an online grocery ordering system.",
-            "source": "https://github.com/hieuwu/android-groceries-store"
+            "source": "https://github.com/hieuwu/android-groceries-store",
+            "added": "2026-09-16"
         },
         {
             "name": "Material Prayer Times",
             "description": "Offline prayer times, qibla compass and Hijri date, calculated on device.",
-            "source": "https://github.com/2plus1star/material-prayer-times"
+            "source": "https://github.com/2plus1star/material-prayer-times",
+            "added": "2026-09-16"
         },
         {
             "name": "Material Quran",
             "description": "Quran reader with the Uthmani text, translation and tajweed colouring, plus optional recitation audio.",
-            "source": "https://github.com/2plus1star/material-quran"
+            "source": "https://github.com/2plus1star/material-quran",
+            "added": "2026-09-16"
         },
         {
             "name": "Memento Namedays",
             "description": "A beautifully designed calendar for tracking namedays.",
-            "source": "https://github.com/alexstyl/Memento-Calendar"
+            "source": "https://github.com/alexstyl/Memento-Calendar",
+            "added": "2026-09-16"
         },
         {
             "name": "Narrate",
             "description": "A small, simple, and elegant journaling application. (Archived)",
-            "source": "https://github.com/ttl-tim/narrate-android"
+            "source": "https://github.com/ttl-tim/narrate-android",
+            "added": "2026-09-16"
         },
         {
             "name": "Reminder Pro",
             "description": "A reminder app with location, sound recording, and map features.",
-            "source": "https://github.com/FarshidRoohi/ReminderPro"
+            "source": "https://github.com/FarshidRoohi/ReminderPro",
+            "added": "2026-09-16"
         },
         {
             "name": "Teapp",
             "description": "A personal database for tea enthusiasts with a timer and calculator.",
-            "source": "https://github.com/marianpekar/teapp"
+            "source": "https://github.com/marianpekar/teapp",
+            "added": "2026-09-16"
         },
         {
             "name": "Wake You In Music",
             "description": "An alarm clock app for Spotify or Deezer users. (Archived)",
-            "source": "https://github.com/CedrickFlocon/wakeyouinmusic"
+            "source": "https://github.com/CedrickFlocon/wakeyouinmusic",
+            "added": "2026-09-16"
         },
         {
             "name": "WonderFood",
             "description": "Local-first food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals.",
-            "source": "https://github.com/vaddisrinivas/wonderfood"
+            "source": "https://github.com/vaddisrinivas/wonderfood",
+            "added": "2026-09-16"
         }
     ]
 }

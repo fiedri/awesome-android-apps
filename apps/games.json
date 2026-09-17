@@ -6,6 +6,7 @@
             "name": "Lichess",
             "description": "The official chess application for lichess.org, this application is open source and free software. It is entirely free and without ads, now and forever.",
             "source": "https://github.com/veloce/lichobile",
+            "added": "2022-01-28",
             "playstore": "https://play.google.com/store/apps/details?id=org.lichess.mobileapp",
             "website": "https://lichess.org/mobile"
         },
@@ -13,6 +14,7 @@
             "name": "Shattered Pixel Dungeon",
             "description": "Based on the original Pixel Dungeon source code, Shattered is much more balanced and features additional content in the game. It has a bigger learning curve then vanilla since the game is bigger however it is designed in a way where every run is winnable if you know exactly what you are doing.",
             "source": "https://github.com/00-Evan/shattered-pixel-dungeon",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon",
             "playstore": "https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon",
             "website": "https://shatteredpixel.com/shatteredpd"
@@ -21,178 +23,212 @@
             "name": "TalpaSplat3",
             "description": "Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!",
             "source": "https://github.com/albertomosconi/TalpaSplat3",
+            "added": "2022-01-28",
             "playstore": "https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3"
         },
         {
             "name": "2048-android",
             "description": "An offline-capable port of the classic 2048 puzzle game.",
-            "source": "https://github.com/uberspot/2048-android"
+            "source": "https://github.com/uberspot/2048-android",
+            "added": "2026-09-16"
         },
         {
             "name": "Anti-mine",
             "description": "A modern, minimalist puzzle game inspired by Minesweeper.",
             "source": "https://github.com/lucasnlm/antimine-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.logical.minato"
         },
         {
             "name": "Bintris",
             "description": "A game that combines the mechanics of Tetris with binary numbers.",
-            "source": "https://github.com/Lallassu/bintris"
+            "source": "https://github.com/Lallassu/bintris",
+            "added": "2026-09-16"
         },
         {
             "name": "Blockinger",
             "description": "A classic Tetris clone with customizable controls.",
-            "source": "https://github.com/vocollapse/Blockinger"
+            "source": "https://github.com/vocollapse/Blockinger",
+            "added": "2026-09-16"
         },
         {
             "name": "Brain Phaser",
             "description": "A Material Design quiz app with user management and stats.",
-            "source": "https://github.com/ValentinFunk/BrainPhaser"
+            "source": "https://github.com/ValentinFunk/BrainPhaser",
+            "added": "2026-09-16"
         },
         {
             "name": "cantstoptherock",
             "description": "A simple adversarial game.",
-            "source": "https://github.com/huntergdavis/cantstoptherock"
+            "source": "https://github.com/huntergdavis/cantstoptherock",
+            "added": "2026-09-16"
         },
         {
             "name": "Chase Whisply",
             "description": "An experimental augmented reality game.",
-            "source": "https://github.com/tvbarthel/ChaseWhisplyProject"
+            "source": "https://github.com/tvbarthel/ChaseWhisplyProject",
+            "added": "2026-09-16"
         },
         {
             "name": "Clones Online",
             "description": "An online multiplayer board game for Android.",
-            "source": "https://github.com/lukedd3/ClonesOnline"
+            "source": "https://github.com/lukedd3/ClonesOnline",
+            "added": "2026-09-16"
         },
         {
             "name": "Cloud Cup",
             "description": "A Firebase-powered multi-device game client.",
-            "source": "https://github.com/google/cloud-cup-android"
+            "source": "https://github.com/google/cloud-cup-android",
+            "added": "2026-09-16"
         },
         {
             "name": "destiny_game",
             "description": "A choice-based adventure game with a dark-themed UI.",
-            "source": "https://github.com/VedantAdka/destiny_game"
+            "source": "https://github.com/VedantAdka/destiny_game",
+            "added": "2026-09-16"
         },
         {
             "name": "Dungeon Crawl Stone Soup",
             "description": "A classic roguelike game of dungeon exploration, combat, and magic.",
-            "source": "https://github.com/crawl/crawl"
+            "source": "https://github.com/crawl/crawl",
+            "added": "2026-09-16"
         },
         {
             "name": "Etheroll",
             "description": "A dice game that runs on the Ethereum blockchain.",
-            "source": "https://github.com/AndreMiras/EtherollApp"
+            "source": "https://github.com/AndreMiras/EtherollApp",
+            "added": "2026-09-16"
         },
         {
             "name": "friendspell",
             "description": "A party icebreaker game based on the Google Nearby API.",
-            "source": "https://github.com/chiuki/friendspell"
+            "source": "https://github.com/chiuki/friendspell",
+            "added": "2026-09-16"
         },
         {
             "name": "GameOfCards",
             "description": "A simple, rule-free card game.",
-            "source": "https://github.com/rohitramkumar308/GameOfCards"
+            "source": "https://github.com/rohitramkumar308/GameOfCards",
+            "added": "2026-09-16"
         },
         {
             "name": "Gloomy Dungeons 2",
             "description": "The sequel to the old-school 3D shooter.",
-            "source": "https://github.com/restorer/gloomy-dungeons-2"
+            "source": "https://github.com/restorer/gloomy-dungeons-2",
+            "added": "2026-09-16"
         },
         {
             "name": "Gloomy Dungeons 3D",
             "description": "An old-school, Wolfenstein-style 3D shooter.",
-            "source": "https://github.com/restorer/gloomy-dungeons-3d"
+            "source": "https://github.com/restorer/gloomy-dungeons-3d",
+            "added": "2026-09-16"
         },
         {
             "name": "Google Santa Tracker",
             "description": "An educational and entertaining app for the Christmas holiday period.",
-            "source": "https://github.com/google/santa-tracker-android"
+            "source": "https://github.com/google/santa-tracker-android",
+            "added": "2026-09-16"
         },
         {
             "name": "Material Life",
             "description": "A Material Design styled implementation of Conway's Game of Life.",
-            "source": "https://github.com/juankysoriano/MaterialLife"
+            "source": "https://github.com/juankysoriano/MaterialLife",
+            "added": "2026-09-16"
         },
         {
             "name": "Memory Game",
             "description": "A simple and beautiful memory game designed for kids.",
-            "source": "https://github.com/sromku/memory-game"
+            "source": "https://github.com/sromku/memory-game",
+            "added": "2026-09-16"
         },
         {
             "name": "Mindustry",
             "description": "A sandbox tower-defense game with resource management.",
             "source": "https://github.com/Anuken/Mindustry",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=io.anuke.mindustry"
         },
         {
             "name": "Minetest",
             "description": "An open-source infinite-world block sandbox game with survival and crafting.",
             "source": "https://github.com/luanti-org/luanti",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=net.minetest.minetest"
         },
         {
             "name": "newplanegame",
             "description": "A simple airplane game for Android.",
-            "source": "https://github.com/nuptboyzhb/newplanegame"
+            "source": "https://github.com/nuptboyzhb/newplanegame",
+            "added": "2026-09-16"
         },
         {
             "name": "Open Flood",
             "description": "A simple but challenging flood-fill puzzle game.",
-            "source": "https://github.com/GunshipPenguin/open_flood"
+            "source": "https://github.com/GunshipPenguin/open_flood",
+            "added": "2026-09-16"
         },
         {
             "name": "Pie Noon",
             "description": "A multiplayer party game where you throw pies at your friends.",
-            "source": "https://github.com/google/pienoon"
+            "source": "https://github.com/google/pienoon",
+            "added": "2026-09-16"
         },
         {
             "name": "Pixel Dungeon",
             "description": "A traditional roguelike game with charming pixel-art graphics.",
-            "source": "https://github.com/watabou/pixel-dungeon"
+            "source": "https://github.com/watabou/pixel-dungeon",
+            "added": "2022-01-28"
         },
         {
             "name": "PokerTH",
             "description": "A C++/Qt-based poker game for Texas hold 'em.",
-            "source": "https://github.com/pokerth/pokerth"
+            "source": "https://github.com/pokerth/pokerth",
+            "added": "2026-09-16"
         },
         {
             "name": "Puzzle Games",
             "description": "A collection of 200+ minimalist puzzle games.",
             "source": "https://github.com/sidhant947/Puzzle",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.sidhant.puzzle"
         },
         {
             "name": "Simon Tatham's Puzzles",
             "description": "A collection of dozens of single-player logic puzzle games.",
             "source": "https://github.com/chrisboyle/sgtpuzzles",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles"
         },
         {
             "name": "SOPA",
             "description": "A puzzle game where you connect gates with colored tubes.",
-            "source": "https://github.com/djschilling/sopa"
+            "source": "https://github.com/djschilling/sopa",
+            "added": "2026-09-16"
         },
         {
             "name": "Splinter Sweets",
             "description": "A libGDX mobile game about smashing as many sweets as possible.",
-            "source": "https://github.com/reime005/splintersweets"
+            "source": "https://github.com/reime005/splintersweets",
+            "added": "2026-09-16"
         },
         {
             "name": "Stratagus",
             "description": "A port of the Stratagus real-time strategy gaming engine.",
             "source": "https://github.com/drodin/Stratagus",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.drodin.stratagus"
         },
         {
             "name": "Tanks of Freedom",
             "description": "An indie Turn-Based Strategy game in isometric pixel art.",
-            "source": "https://github.com/w84death/Tanks-of-Freedom"
+            "source": "https://github.com/w84death/Tanks-of-Freedom",
+            "added": "2026-09-16"
         },
         {
             "name": "Zabyrinth",
             "description": "A physics-based game based on the classic Labyrinth board game.",
-            "source": "https://github.com/Zachacious/Zabyrinth"
+            "source": "https://github.com/Zachacious/Zabyrinth",
+            "added": "2026-09-16"
         }
     ]
 }

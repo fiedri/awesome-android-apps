@@ -6,6 +6,7 @@
             "name": "AntennaPod",
             "description": "An easy-to-use, flexible and open-source podcast manager for Android.",
             "source": "https://github.com/AntennaPod/AntennaPod",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/de.danoeh.antennapod",
             "playstore": "https://play.google.com/store/apps/details?id=de.danoeh.antennapod",
             "website": "https://antennapod.org"
@@ -14,6 +15,7 @@
             "name": "Feeder",
             "description": "This is a no-nonsense RSS/Atom/JSON feed reader app for Android, with offline reading, notification support, OPML import/export and material design.",
             "source": "https://gitlab.com/spacecowboy/Feeder",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/com.nononsenseapps.feeder/",
             "playstore": "https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play"
         },
@@ -21,6 +23,7 @@
             "name": "NewPipe",
             "description": "A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.",
             "source": "https://github.com/TeamNewPipe/NewPipe",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/org.schabi.newpipe",
             "website": "https://newpipe.schabi.org"
         },
@@ -28,6 +31,7 @@
             "name": "Twire",
             "description": "An Open Source, AD-Free Twitch browser and stream player for Android. Supports VODs with chat replay, custom emotes (BTTV and FFZ) and Picture in Picture mode. A fork of Pocket Plays for Twitch.",
             "source": "https://github.com/twireapp/Twire",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/com.perflyst.twire"
         }
     ]

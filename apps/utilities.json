@@ -5,18 +5,21 @@
         {
             "name": "AA AIO TWEAKER",
             "description": "The ultimate All-In-One Utility to tweak Android Auto behaviour. This app uses SQLite commands to override some flags related to Android Auto into the Google Play Services.",
-            "source": "https://github.com/shmykelsa/AA-Tweaker"
+            "source": "https://github.com/shmykelsa/AA-Tweaker",
+            "added": "2022-01-28"
         },
         {
             "name": "Audio Recorder",
             "description": "A lightweight, ad-free, smart and simple audio recorder app for android. The recording will continue in background even if the phone is in locked state. It records the audio/voice in high quality.",
             "source": "https://github.com/vivekweb2013/audio-recorder",
+            "added": "2022-01-28",
             "playstore": "https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder"
         },
         {
             "name": "Download Navi",
             "description": "A free and Open Source download manager for Android 4.4+, with material design, and lots of useful features like support for Android TV and Chrome OS, built-in browser, power management and battery control.",
             "source": "https://github.com/TachibanaGeneralLaboratories/download-navi",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/en/packages/com.tachibana.downloader",
             "playstore": "https://play.google.com/store/apps/details?id=com.tachibana.downloader"
         },
@@ -25,6 +28,7 @@
             "description": "Native Android port of the KDE Connect Qt app. KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).",
             "stars_link": "https://img.shields.io/badge/dynamic/json?label=stars&query=%24.star_count&url=https%3A%2F%2Finvent.kde.org%2Fapi%2Fv4%2Fprojects%2F72",
             "source": "https://invent.kde.org/network/kdeconnect-android",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/org.kde.kdeconnect_tp",
             "playstore": "https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp",
             "website": "https://community.kde.org/KDEConnect"
@@ -33,6 +37,7 @@
             "name": "KeyMapper",
             "description": "A free and open source Android app that can map a single or multiple key events to a custom action. The aim of this project is to allow anyone to map their buttons in any combination to anything.",
             "source": "https://github.com/sds100/KeyMapper",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/en/packages/io.github.sds100.keymapper",
             "playstore": "https://play.google.com/store/apps/details?id=io.github.sds100.keymapper"
         },
@@ -40,6 +45,7 @@
             "name": "Permission Manager X",
             "description": "eXtended Permission Manager for Android - view and set Manifest Permissions and AppOps. View, grant or revoke manifest permissions; view AppOps permissions and choose one of multiple modes; set your desired reference value for every changeable permission.",
             "source": "https://github.com/mirfatif/PermissionManagerX",
+            "added": "2024-03-06",
             "fdroid": "https://f-droid.org/packages/com.mirfatif.permissionmanagerx",
             "playstore": "https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx",
             "website": "https://mirfatif.github.io/PermissionManagerX/help/en"

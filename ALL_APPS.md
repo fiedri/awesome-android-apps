@@ -2,6 +2,7 @@
 [`< go back home`](README.md)
 
 ## Table of Contents
+- [🆕 Recently Added](#recently-added)
 - [🎬 Android TV](#android-tv)
 - [⌚️ Android Wear](#android-wear)
 - [🇯🇵 Anime](#anime)
@@ -38,6 +39,25 @@
 - [🗺️ Travel & Local](#travel-and-local)
 - [🛠 Utilities](#utilities)
 - [⛅ Weather](#weather)
+
+## Recently Added
+| App | Category | Added | Store |
+|-----|----------|-------|-------|
+| **[`10-bit Clock Widget`](https://github.com/ashutoshgngwr/10-bitClockWidget "link")** | [🎨 Customization](#customization) | 2026-09-16 |  |
+| **[`1List`](https://github.com/lolo-io/OneList "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.lolo.io.onelist "playstore") |
+| **[`2048-android`](https://github.com/uberspot/2048-android "link")** | [🎮 Games](#games) | 2026-09-16 |  |
+| **[`2FAS Authenticator`](https://github.com/twofas/2fas-android "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.twofasapp "playstore") |
+| **[`36krReader`](https://github.com/kinneyyan/36krReader "link")** | [📰 News & Magazines](#news-and-magazines) | 2026-09-16 |  |
+| **[`A Photo Manager`](https://github.com/k3b/APhotoManager "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-16 |  |
+| **[`Aarogya Setu`](https://github.com/nic-delhi/AarogyaSetu_Android "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu "playstore") |
+| **[`AcDisplay`](https://github.com/AChep/AcDisplay "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.achep.acdisplay "playstore") |
+| **[`ACEMusicPlayer`](https://github.com/C-Aniruddh/ACEMusicPlayer "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-16 |  |
+| **[`Activity Manager`](https://github.com/sdex/activitymanager "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[f-droid]`](https://f-droid.org/en/packages/com.activitymanager/ "f-droid") |
+| **[`ad-free`](https://github.com/abertschi/ad-free "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-16 |  |
+| **[`Adaptive Theme`](https://github.com/xLexip/Adaptive-Theme "link")** | [🎨 Customization](#customization) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=dev.lexip.hecate "playstore") |
+| **[`AIMSICD`](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector "link")** | [🧰 Tools](#tools) | 2026-09-16 |  |
+| **[`AisenWeiBo`](https://github.com/wangdan/AisenWeiBo "link")** | [👥 Social Media](#social-media) | 2026-09-16 |  |
+| **[`Andlytics`](https://github.com/AndlyticsProject/andlytics "link")** | [🧰 Tools](#tools) | 2026-09-16 |  |
 
 ## App Status
 | Status | Meaning |

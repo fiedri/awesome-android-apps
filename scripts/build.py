@@ -1,5 +1,7 @@
-import functools, json, pathlib, re
+import functools, json, pathlib, re, sys
 from utils import read_file, load_datastore, effective
+
+RECENT_ADDED_COUNT = 15
 
 # status -> shield badge (shared with curate.py statuses)
 STATUS_BADGES = {
@@ -40,6 +42,63 @@ def build_status_legend():
         lines.append(f"| {status_badge(status)} | {meaning} |")
     lines.append("| _(no badge)_ | Not checked yet by curate.py. |")
     return "\n".join(lines)
+
+
+def build_recently_added():
+    entries = []
+    for cat in categories:
+        with cat.open("r") as f:
+            cat_json = json.load(f)
+        for app in cat_json.get("apps", []):
+            merged = effective(app, cache.get(app.get("source")), overrides.get(app.get("source")))
+            added = merged.get("added")
+            if not added:
+                continue
+            source = merged.get("source")
+            name = merged.get("name")
+            fdroid = merged.get("fdroid")
+            playstore = merged.get("playstore")
+            website = merged.get("website")
+            links = " ".join(filter(None, [
+                f'[`[f-droid]`]({fdroid} "f-droid")' if fdroid else "",
+                f'[`[playstore]`]({playstore} "playstore")' if playstore else "",
+                f'[`[website]`]({website} "website")' if website else "",
+            ]))
+            link_source = f'[`{name}`]({source} "link")'
+            entries.append(
+                (added, name.casefold(), link_source, cat, links)
+            )
+
+    lines = [
+        "## Recently Added",
+        "| App | Category | Added | Store |",
+        "|-----|----------|-------|-------|",
+    ]
+    if not entries:
+        print("WARNING: no app has an `added` field; Recently Added will be empty.", file=sys.stderr)
+        lines.append("| _No apps with an `added` date yet._ | | | |")
+        return lines
+
+    by_date = {}
+    for added, namekey, link_source, cat, links in entries:
+        by_date.setdefault(added, []).append((namekey, link_source, cat, links))
+    dates = sorted(by_date.keys(), reverse=True)
+    top = []
+    for added in dates:
+        for namekey, link_source, cat, links in sorted(by_date[added]):
+            top.append((added, namekey, link_source, cat, links))
+            if len(top) == RECENT_ADDED_COUNT:
+                break
+        if len(top) == RECENT_ADDED_COUNT:
+            break
+
+    for added, namekey, link_source, cat, links in top:
+        with cat.open("r") as f:
+            cat_json = json.load(f)
+        category_cell = f"[{cat_json.get('emoji')} {cat_json.get('title')}](#{cat.stem})"
+        lines.append(f"| **{link_source}** | {category_cell} | {added} | {links} |")
+
+    return lines
 
 
 def parse_categories():
@@ -136,6 +195,7 @@ def build_all_apps():
         "[`< go back home`](README.md)",
         "",
         "## Table of Contents",
+        "- [🆕 Recently Added](#recently-added)",
     ]
     for category in sorted_categories:
         with category.open("r") as f:
@@ -143,6 +203,9 @@ def build_all_apps():
         lines.append(
             f"- [{json_cat.get('emoji')} {json_cat.get('title')}](#{category.stem})"
         )
+
+    lines.append("")
+    lines.extend(build_recently_added())
 
     lines.append("")
     lines.append("## App Status")
@@ -164,7 +227,11 @@ def build_readme():
     sorted_categories = list(categories)
     sorted_categories.sort()
 
-    toc_lines = [""]
+    toc_lines = [
+        "- [🆕 Recently Added](ALL_APPS.md#recently-added)",
+        "- [`All Apps`](ALL_APPS.md)",
+        "",
+    ]
     for category in sorted_categories:
         with category.open("r") as f:
             json_cat = json.load(f)

@@ -4,6 +4,7 @@
     "apps": [
         {
             "source": "https://github.com/sdex/activitymanager",
+            "added": "2026-09-16",
             "name": "Activity Manager",
             "description": "Discover the activities of installed applications, run them, and create shortcuts",
             "fdroid": "https://f-droid.org/en/packages/com.activitymanager/"
@@ -12,536 +13,637 @@
             "name": "2FAS Authenticator",
             "description": "A simple, safe, and open-source 2FA authenticator app.",
             "source": "https://github.com/twofas/2fas-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.twofasapp"
         },
         {
             "name": "AcDisplay",
             "description": "A custom lock screen that provides a new way of handling notifications.",
             "source": "https://github.com/AChep/AcDisplay",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.achep.acdisplay"
         },
         {
             "name": "AIMSICD",
             "description": "An app to detect and warn against IMSI-Catchers (StingRays).",
-            "source": "https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector"
+            "source": "https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector",
+            "added": "2026-09-16"
         },
         {
             "name": "AnExplorer",
             "description": "Another powerful and customizable file manager for Android.",
             "source": "https://github.com/1hakr/AnExplorer",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer"
         },
         {
             "name": "Andlytics",
             "description": "An app for viewing statistics from the Google Play Developer Console.",
-            "source": "https://github.com/AndlyticsProject/andlytics"
+            "source": "https://github.com/AndlyticsProject/andlytics",
+            "added": "2026-09-16"
         },
         {
             "name": "AnotherMonitor",
             "description": "A developer tool that monitors and records CPU and memory usage.",
-            "source": "https://github.com/AntonioRedondo/AnotherMonitor"
+            "source": "https://github.com/AntonioRedondo/AnotherMonitor",
+            "added": "2026-09-16"
         },
         {
             "name": "AppOpsX",
             "description": "A front-end application for the Android AppOpsService to manage app permissions.",
-            "source": "https://github.com/8enet/AppOpsX"
+            "source": "https://github.com/8enet/AppOpsX",
+            "added": "2026-09-16"
         },
         {
             "name": "Barcode Scanner (ZXing)",
             "description": "The official app for the popular open-source barcode scanning library.",
-            "source": "https://github.com/zxing/zxing"
+            "source": "https://github.com/zxing/zxing",
+            "added": "2026-09-16"
         },
         {
             "name": "Battarang Notifier",
             "description": "Get notified with a sound when your battery is low or fully charged.",
             "source": "https://github.com/ni554n/battarang-notifier-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.anissan.battarang"
         },
         {
             "name": "Beta Updater for WhatsApp",
             "description": "An app to update WhatsApp to the latest beta version. (Archived)",
-            "source": "https://github.com/javiersantos/WhatsAppBetaUpdater"
+            "source": "https://github.com/javiersantos/WhatsAppBetaUpdater",
+            "added": "2026-09-16"
         },
         {
             "name": "BetterBatteryStats",
             "description": "Provides advanced battery statistics to help diagnose battery drain.",
-            "source": "https://github.com/asksven/BetterBatteryStats"
+            "source": "https://github.com/asksven/BetterBatteryStats",
+            "added": "2022-01-28"
         },
         {
             "name": "BinaryEye",
             "description": "A well-polished, ad-free barcode and QR code scanner for Android.",
             "source": "https://github.com/markusfisch/BinaryEye",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye"
         },
         {
             "name": "Bitocle for GitHub",
             "description": "A simple app for viewing source code on GitHub. (Archived)",
-            "source": "https://github.com/mthli/Bitocle"
+            "source": "https://github.com/mthli/Bitocle",
+            "added": "2026-09-16"
         },
         {
             "name": "BookStack",
             "description": "A self-hosted platform for storing and organizing information and documentation.",
-            "source": "https://github.com/BookStackApp/BookStack"
+            "source": "https://github.com/BookStackApp/BookStack",
+            "added": "2026-09-16"
         },
         {
             "name": "Brevent",
             "description": "An app to prevent other apps from running for long periods, without root.",
             "source": "https://github.com/brevent/Brevent",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=me.piebridge.brevent"
         },
         {
             "name": "Camera Color Picker",
             "description": "Uses the device's camera to capture colors around you in real time.",
-            "source": "https://github.com/tvbarthel/CameraColorPicker"
+            "source": "https://github.com/tvbarthel/CameraColorPicker",
+            "added": "2026-09-16"
         },
         {
             "name": "Clean Status Bar",
             "description": "A utility to tidy up your status bar before taking screenshots.",
-            "source": "https://github.com/emmaguy/clean-status-bar"
+            "source": "https://github.com/emmaguy/clean-status-bar",
+            "added": "2026-09-16"
         },
         {
             "name": "Clip-Stack",
             "description": "A clipboard history manager with a Material Design interface.",
             "source": "https://github.com/heruoxin/Clip-Stack",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.catchingnow.tinyclipboardmanager"
         },
         {
             "name": "Cloudflare Mobile",
             "description": "Manages Cloudflare from the phone: zones, DNS, cache, WAF, Workers, Zero Trust, and an explorer covering the whole API.",
-            "source": "https://github.com/hasanzadee/cloudflare-mobile"
+            "source": "https://github.com/hasanzadee/cloudflare-mobile",
+            "added": "2026-09-16"
         },
         {
             "name": "Codecks",
             "description": "Local-first Android command deck, Bluetooth trackpad, and reviewable Mac automation surface.",
-            "source": "https://github.com/vaddisrinivas/codecks"
+            "source": "https://github.com/vaddisrinivas/codecks",
+            "added": "2026-09-16"
         },
         {
             "name": "ConnectBot",
             "description": "The original, powerful SSH client for the Android platform.",
             "source": "https://github.com/connectbot/connectbot",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.connectbot"
         },
         {
             "name": "Content Provider Helper",
             "description": "A developer tool to discover, query, and understand content providers.",
-            "source": "https://github.com/k3b/ContentProviderHelper"
+            "source": "https://github.com/k3b/ContentProviderHelper",
+            "added": "2026-09-16"
         },
         {
             "name": "Cryptomator",
             "description": "Provides transparent, client-side encryption for your cloud files.",
             "source": "https://github.com/cryptomator/android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.cryptomator"
         },
         {
             "name": "DashClock Widget",
             "description": "A popular, extensible lock screen and home screen widget.",
-            "source": "https://github.com/romannurik/dashclock"
+            "source": "https://github.com/romannurik/dashclock",
+            "added": "2026-09-16"
         },
         {
             "name": "DAVx\u2075",
             "description": "A CalDAV/CardDAV/WebDAV sync app for contacts, calendars, and files.",
             "source": "https://github.com/bitfireAT/davx5-ose",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=at.bitfire.davdroid"
         },
         {
             "name": "DesignOverlay",
             "description": "A developer tool that displays a design image overlay to help with UI implementation.",
-            "source": "https://github.com/Manabu-GT/DesignOverlay-Android"
+            "source": "https://github.com/Manabu-GT/DesignOverlay-Android",
+            "added": "2026-09-16"
         },
         {
             "name": "Developer Toolbelt",
             "description": "An on-device tool for low-memory testing by filling RAM.",
-            "source": "https://github.com/T-Spoon/Android-Developer-Toolbelt"
+            "source": "https://github.com/T-Spoon/Android-Developer-Toolbelt",
+            "added": "2026-09-16"
         },
         {
             "name": "Device Control",
             "description": "An app for rooted devices to control various system features.",
-            "source": "https://github.com/amartinz/DeviceControl"
+            "source": "https://github.com/amartinz/DeviceControl",
+            "added": "2026-09-16"
         },
         {
             "name": "Droid Watcher",
             "description": "A remote control application with rich functionality. (Archived)",
-            "source": "https://github.com/Odrin/Droid-Watcher"
+            "source": "https://github.com/Odrin/Droid-Watcher",
+            "added": "2026-09-16"
         },
         {
             "name": "FBReaderJ",
             "description": "A free and ad-free multi-platform ebook reader supporting many formats.",
             "source": "https://github.com/geometer/FBReaderJ",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android"
         },
         {
             "name": "Filester",
             "description": "Temporary cloud storage for fast, private file sharing",
-            "source": "https://github.com/roozbehzarei/filester"
+            "source": "https://github.com/roozbehzarei/filester",
+            "added": "2026-09-16"
         },
         {
             "name": "Firefox",
             "description": "The official repository for the Firefox browser on Android.",
             "source": "https://github.com/mozilla-mobile/fenix",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.mozilla.firefox"
         },
         {
             "name": "Firefox Focus",
             "description": "A lightweight, private browser with automatic ad and tracker blocking.",
             "source": "https://github.com/mozilla-mobile/focus-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.mozilla.focus"
         },
         {
             "name": "Flock",
             "description": "A private contact and calendar sync solution. (Archived)",
-            "source": "https://github.com/signalapp/Flock"
+            "source": "https://github.com/signalapp/Flock",
+            "added": "2026-09-16"
         },
         {
             "name": "FluxDown",
             "description": "A multi-protocol download manager with IDM-style dynamic segmentation for HTTP, FTP, BitTorrent, eD2K, HLS and DASH.",
-            "source": "https://github.com/zerx-lab/FluxDown"
+            "source": "https://github.com/zerx-lab/FluxDown",
+            "added": "2026-09-16"
         },
         {
             "name": "Forecastie",
             "description": "A simple weather app that uses data from OpenWeatherMap.",
-            "source": "https://github.com/martykan/forecastie"
+            "source": "https://github.com/martykan/forecastie",
+            "added": "2026-09-16"
         },
         {
             "name": "GfyCat",
             "description": "An app for browsing and sharing animated content from gfycat.com. (Archived)",
-            "source": "https://github.com/dlew/android-gfycat"
+            "source": "https://github.com/dlew/android-gfycat",
+            "added": "2026-09-16"
         },
         {
             "name": "Git Store",
             "description": "An Android-first app store for discovering and installing open-source APKs published through GitHub Releases. Browse repositories, view releases and changelogs, download apps with one tap, save favorites, and receive update notifications.",
-            "source": "https://github.com/Darkmintis/GitStore"
+            "source": "https://github.com/Darkmintis/GitStore",
+            "added": "2026-09-16"
         },
         {
             "name": "GitHub Status",
             "description": "A simple app to view the current status of GitHub's services.",
-            "source": "https://github.com/christiandeange/github-status"
+            "source": "https://github.com/christiandeange/github-status",
+            "added": "2026-09-16"
         },
         {
             "name": "GitHub Store",
             "description": "Github Store is a cross\u2011platform \u201cplay store\u201d for GitHub releases. It discovers repositories that ship real installable binaries and lets you install, track, and update them across platforms from one place.",
-            "source": "https://github.com/komi-store/komi-store"
+            "source": "https://github.com/komi-store/komi-store",
+            "added": "2026-09-16"
         },
         {
             "name": "Good Weather",
             "description": "A clean, open-source weather app for Android.",
-            "source": "https://github.com/qqq3/good-weather"
+            "source": "https://github.com/qqq3/good-weather",
+            "added": "2026-09-16"
         },
         {
             "name": "Granular Volume: Quiet Dial",
             "description": "Lowers system audio below the hardware volume floor, in seven steps down to -30 dB, from a floating dial.",
-            "source": "https://github.com/Rzuss/granular-volume"
+            "source": "https://github.com/Rzuss/granular-volume",
+            "added": "2026-09-16"
         },
         {
             "name": "GridWichterle",
             "description": "A developer tool that shows a grid overlay on the screen to help verify UI designs.",
-            "source": "https://github.com/inmite/android-grid-wichterle"
+            "source": "https://github.com/inmite/android-grid-wichterle",
+            "added": "2026-09-16"
         },
         {
             "name": "Hash Checker",
             "description": "A fast and simple app for generating and comparing file or text hashes.",
-            "source": "https://github.com/hash-checker/hash-checker"
+            "source": "https://github.com/hash-checker/hash-checker",
+            "added": "2026-09-16"
         },
         {
             "name": "Instant Weather",
             "description": "A weather app using MVVM, Retrofit2, Dagger Hilt, Room, and Navigation Components to fetch real-time conditions from OpenWeatherMap.",
             "source": "https://github.com/mayokunadeniyi/Instant-Weather",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.mayokunadeniyi.instantweather"
         },
         {
             "name": "Intent Intercept",
             "description": "A developer tool to intercept and examine the contents of Android Intents.",
-            "source": "https://github.com/intrications/intent-intercept"
+            "source": "https://github.com/intrications/intent-intercept",
+            "added": "2026-09-16"
         },
         {
             "name": "IYPS",
             "description": "A password strength testing app with crack time estimates and suggestions.",
             "source": "https://github.com/StellarSand/IYPS",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.iyps"
         },
         {
             "name": "JianShi",
             "description": "A beautiful note-taking app with a traditional Chinese style. (Archived)",
-            "source": "https://github.com/wingjay/jianshi"
+            "source": "https://github.com/wingjay/jianshi",
+            "added": "2026-09-16"
         },
         {
             "name": "KDE Connect",
             "description": "A multi-platform app that allows your devices to communicate with each other.",
             "source": "https://github.com/KDE/kdeconnect-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp"
         },
         {
             "name": "LibreTorrent",
             "description": "An ad-free, open-source, Material Design torrent client.",
             "source": "https://github.com/proninyaroslav/libretorrent",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent"
         },
         {
             "name": "LittleFreshWeather",
             "description": "A clean and simple weather forecast app for Chinese cities. (Archived)",
-            "source": "https://github.com/ZeusChan/LittleFreshWeather"
+            "source": "https://github.com/ZeusChan/LittleFreshWeather",
+            "added": "2026-09-16"
         },
         {
             "name": "lmgtfyGen",
             "description": "An app that generates \"Let Me Google That For You\" URLs.",
-            "source": "https://github.com/WilderPereira/lmgtfyGen"
+            "source": "https://github.com/WilderPereira/lmgtfyGen",
+            "added": "2026-09-16"
         },
         {
             "name": "Material Color Picker",
             "description": "A simple, minimalistic, and beautiful color picker for developers.",
-            "source": "https://github.com/captswag/material-color-picker"
+            "source": "https://github.com/captswag/material-color-picker",
+            "added": "2026-09-16"
         },
         {
             "name": "Material Design Colors",
             "description": "A developer tool to visualize the official Material Design color palette.",
-            "source": "https://github.com/HozakaN/MaterialDesignColorPalette"
+            "source": "https://github.com/HozakaN/MaterialDesignColorPalette",
+            "added": "2026-09-16"
         },
         {
             "name": "Materialize",
             "description": "An app that applies a Material Design theme to other apps. (Archived)",
-            "source": "https://github.com/oxoooo/materialize"
+            "source": "https://github.com/oxoooo/materialize",
+            "added": "2026-09-16"
         },
         {
             "name": "MDX",
             "description": "An app for developers and designers to explore Material Design palettes and icons.",
-            "source": "https://github.com/eo/mdx"
+            "source": "https://github.com/eo/mdx",
+            "added": "2026-09-16"
         },
         {
             "name": "MGit",
             "description": "A full-featured Git client for Android.",
             "source": "https://github.com/maks/MGit",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.manichord.mgit"
         },
         {
             "name": "MLManager",
             "description": "A modern, easy, and customizable app manager for Android.",
             "source": "https://github.com/javiersantos/MLManager",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager"
         },
         {
             "name": "Moticons",
             "description": "An app to manage and use Japanese Emoticons (Kaomoji) with Material Design.",
-            "source": "https://github.com/javiersantos/Moticons"
+            "source": "https://github.com/javiersantos/Moticons",
+            "added": "2026-09-16"
         },
         {
             "name": "MultiROM Manager",
             "description": "The official companion app for the MultiROM multi-boot mod.",
-            "source": "https://github.com/Tasssadar/MultiROMMgr"
+            "source": "https://github.com/Tasssadar/MultiROMMgr",
+            "added": "2026-09-16"
         },
         {
             "name": "Nevolution",
             "description": "Evolve the Android notification experience with community-driven plug-ins.",
-            "source": "https://github.com/Nevolution/sdk"
+            "source": "https://github.com/Nevolution/sdk",
+            "added": "2026-09-16"
         },
         {
             "name": "Ninja",
             "description": "A web browser that opens links in the background without leaving your current app.",
-            "source": "https://github.com/mthli/Ninja"
+            "source": "https://github.com/mthli/Ninja",
+            "added": "2026-09-16"
         },
         {
             "name": "NodeLook",
             "description": "A general website checker for users facing internet restrictions.",
-            "source": "https://github.com/nodelook/android"
+            "source": "https://github.com/nodelook/android",
+            "added": "2026-09-16"
         },
         {
             "name": "Notally",
             "description": "A beautiful, minimalist, and offline-first notes app.",
             "source": "https://github.com/OmGodse/Notally",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.omgodse.notally"
         },
         {
             "name": "Notification Analyser",
             "description": "An application to analyze your device's notification history.",
-            "source": "https://github.com/MPieter/Notification-Analyser"
+            "source": "https://github.com/MPieter/Notification-Analyser",
+            "added": "2026-09-16"
         },
         {
             "name": "Obtainium",
             "description": "Get app updates directly from their source (e.g., GitHub, F-Droid).",
-            "source": "https://github.com/ImranR98/Obtainium"
+            "source": "https://github.com/ImranR98/Obtainium",
+            "added": "2026-09-16"
         },
         {
             "name": "Off Grid",
             "description": "A privacy-first, on-device AI suite for text generation, image generation, vision, and voice transcription \u2014 all offline.",
-            "source": "https://github.com/off-grid-ai/OGAM"
+            "source": "https://github.com/off-grid-ai/OGAM",
+            "added": "2026-09-16"
         },
         {
             "name": "OpenHub for GitHub",
             "description": "An open source GitHub Android client app, faster and concise.",
-            "source": "https://github.com/ThirtyDegreesRay/OpenHub"
+            "source": "https://github.com/ThirtyDegreesRay/OpenHub",
+            "added": "2026-09-16"
         },
         {
             "name": "OS Monitor",
             "description": "A tool for monitoring your Android system's processes, network, and logs.",
-            "source": "https://github.com/eolwral/OSMonitor"
+            "source": "https://github.com/eolwral/OSMonitor",
+            "added": "2026-09-16"
         },
         {
             "name": "Permission Nanny",
             "description": "An experimental app to access resources without declaring permissions.",
-            "source": "https://github.com/littledot/Permission-Nanny"
+            "source": "https://github.com/littledot/Permission-Nanny",
+            "added": "2026-09-16"
         },
         {
             "name": "photo-affix",
             "description": "A utility to stitch photos together vertically or horizontally.",
-            "source": "https://github.com/afollestad/photo-affix"
+            "source": "https://github.com/afollestad/photo-affix",
+            "added": "2026-09-16"
         },
         {
             "name": "PocketSage",
             "description": "A fully offline, on-device RAG assistant built with LiteRT-LM, Jetpack Compose, and Room.",
-            "source": "https://github.com/umarpazir11/pocketsage"
+            "source": "https://github.com/umarpazir11/pocketsage",
+            "added": "2026-09-16"
         },
         {
             "name": "PokePortal",
             "description": "A map application for finding PokeStops and Gyms in Pok\u00e9mon GO. (Archived)",
-            "source": "https://github.com/yuzumone/PokePortal"
+            "source": "https://github.com/yuzumone/PokePortal",
+            "added": "2026-09-16"
         },
         {
             "name": "Preferences Manager",
             "description": "A developer tool to view and edit any app's SharedPreferences. (Root required)",
             "source": "https://github.com/SimonMarquis/Android-PreferencesManager",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=fr.simon.marquis.preferencesmanager"
         },
         {
             "name": "Prey Anti Theft",
             "description": "The official client for the Prey anti-theft and device tracking software.",
             "source": "https://github.com/prey/prey-android-client",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.prey"
         },
         {
             "name": "Random Image Generator",
             "description": "A developer tool to generate a large number of random images quickly.",
             "source": "https://github.com/stedi-akk/RandomImageGeneratorApp",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.stedi.randomimagegenerator.app"
         },
         {
             "name": "Red Moon",
             "description": "A feature-rich screen filter app to reduce blue light at night.",
-            "source": "https://github.com/LibreShift/red-moon"
+            "source": "https://github.com/LibreShift/red-moon",
+            "added": "2026-09-16"
         },
         {
             "name": "Ringdroid",
             "description": "The classic, open-source ringtone maker from early Android days. (Archived)",
-            "source": "https://github.com/google/ringdroid"
+            "source": "https://github.com/google/ringdroid",
+            "added": "2026-09-16"
         },
         {
             "name": "RxWeather",
             "description": "A weather app built to demonstrate architecting Android with RxJava.",
-            "source": "https://github.com/SmartDengg/RxWeather"
+            "source": "https://github.com/SmartDengg/RxWeather",
+            "added": "2026-09-16"
         },
         {
             "name": "S Tools+",
             "description": "A utility app to track CPU, sensors, and other device information.",
-            "source": "https://github.com/naman14/S-Tools"
+            "source": "https://github.com/naman14/S-Tools",
+            "added": "2026-09-16"
         },
         {
             "name": "Secret Codes",
             "description": "An app to explore and launch hidden \"secret codes\" on your device.",
             "source": "https://github.com/SimonMarquis/Android-SecretCodes",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=fr.simon.marquis.secretcodes"
         },
         {
             "name": "Snapdrop for Android",
             "description": "An Android client for the open-source local file sharing solution, Snapdrop.",
             "source": "https://github.com/fm-sys/pairdrop-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.fmsys.snapdrop"
         },
         {
             "name": "Status",
             "description": "A no-root status bar replacement for Android.",
-            "source": "https://github.com/TheAndroidMaster/Status"
+            "source": "https://github.com/TheAndroidMaster/Status",
+            "added": "2026-09-16"
         },
         {
             "name": "StockTicker",
             "description": "A resizable stock ticker widget for your Android home screen.",
             "source": "https://github.com/premnirmal/StockTicker",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget"
         },
         {
             "name": "SuperCleanMaster",
             "description": "An open-source clone of the popular Clean Master utility app.",
-            "source": "https://github.com/joyoyao/superCleanMaster"
+            "source": "https://github.com/joyoyao/superCleanMaster",
+            "added": "2026-09-16"
         },
         {
             "name": "Talalarmo Alarm Clock",
             "description": "A simple and beautiful alarm clock for Android.",
-            "source": "https://github.com/trikita/talalarmo"
+            "source": "https://github.com/trikita/talalarmo",
+            "added": "2026-09-16"
         },
         {
             "name": "Terminal Emulator",
             "description": "A classic VT-100 terminal emulator for the Android OS.",
-            "source": "https://github.com/jackpal/Android-Terminal-Emulator"
+            "source": "https://github.com/jackpal/Android-Terminal-Emulator",
+            "added": "2026-09-16"
         },
         {
             "name": "ToolWizAppLock",
             "description": "A smart app lock utility for Android.",
-            "source": "https://github.com/Toolwiz/ToolWizAppLock"
+            "source": "https://github.com/Toolwiz/ToolWizAppLock",
+            "added": "2026-09-16"
         },
         {
             "name": "TrackerControl",
             "description": "An app to monitor and control hidden data collection (tracking) in other apps.",
             "source": "https://github.com/TrackerControl/tracker-control-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play"
         },
         {
             "name": "translate-bubble-android",
             "description": "A floating translation bubble that works without interrupting your workflow.",
-            "source": "https://github.com/xebia-functional/translate-bubble-android"
+            "source": "https://github.com/xebia-functional/translate-bubble-android",
+            "added": "2026-09-16"
         },
         {
             "name": "TranslateApp",
             "description": "Another take on an app that provides translations without interruptions.",
-            "source": "https://github.com/maoruibin/TranslateApp"
+            "source": "https://github.com/maoruibin/TranslateApp",
+            "added": "2026-09-16"
         },
         {
             "name": "Travis Client",
             "description": "An Android client for the Travis CI continuous integration service.",
-            "source": "https://github.com/dkhmelenko/Varis-Android"
+            "source": "https://github.com/dkhmelenko/Varis-Android",
+            "added": "2026-09-16"
         },
         {
             "name": "UPnP Browser",
             "description": "A simple browser for discovering UPnP devices on your local network.",
-            "source": "https://github.com/dgmltn/Android-UPnP-Browser"
+            "source": "https://github.com/dgmltn/Android-UPnP-Browser",
+            "added": "2026-09-16"
         },
         {
             "name": "UrlScheme Interceptor",
             "description": "A developer tool to intercept and debug URL schemes.",
             "source": "https://github.com/SimonMarquis/Android-UrlSchemeInterceptor",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=fr.smarquis.usi.sample"
         },
         {
             "name": "v2rayNG",
             "description": "A V2Ray client for Android, supporting Xray and v2fly cores.",
-            "source": "https://github.com/2dust/v2rayNG"
+            "source": "https://github.com/2dust/v2rayNG",
+            "added": "2026-09-16"
         },
         {
             "name": "Wassword",
             "description": "A simple app to generate complex and secure passwords.",
             "source": "https://github.com/polilluminato/wassword-flutter",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.albertobonacina.wassword"
         },
         {
             "name": "WhatsDeleted",
             "description": "Recovers deleted WhatsApp messages by scanning your device notifications.",
             "source": "https://github.com/jimale/WhatsDeleted",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.tiriig.whatsdeleted"
         },
         {
             "name": "WiFiKeyShare",
             "description": "A utility to share your Wi-Fi passwords with others via QR codes and NFC.",
-            "source": "https://github.com/bparmentier/WiFiKeyShare"
+            "source": "https://github.com/bparmentier/WiFiKeyShare",
+            "added": "2026-09-16"
         },
         {
             "name": "Work Tracker",
             "description": "A simple app to keep a log of the hours you have worked.",
-            "source": "https://github.com/parmstrong842/WorkTracker"
+            "source": "https://github.com/parmstrong842/WorkTracker",
+            "added": "2026-09-16"
         },
         {
             "name": "Xsocks",
             "description": "A secure and fast proxy to protect your network traffic.",
-            "source": "https://github.com/lparam/xSocks-android"
+            "source": "https://github.com/lparam/xSocks-android",
+            "added": "2026-09-16"
         },
         {
             "name": "XWriter",
             "description": "An app for printing text as many times as needed and copying to the clipboard.",
-            "source": "https://github.com/Abir-Tx/XWriter"
+            "source": "https://github.com/Abir-Tx/XWriter",
+            "added": "2026-09-16"
         }
     ]
 }

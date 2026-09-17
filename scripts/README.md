@@ -5,7 +5,8 @@ Helper scripts for maintaining this repository. Run them from the repo root.
 | Script | Purpose |
 |--------|---------|
 | [`add.py`](#addpy) | Interactively add an app or a category to `apps/*.json` |
-| [`build.py`](#buildpy) | Regenerate `ALL_APPS.md` (all category tables in one file, with a table of contents and status legend) plus the README app count, table of contents and status legend |
+| [`build.py`](#buildpy) | Regenerate `ALL_APPS.md` (all category tables in one file, with a table of contents, a recent additions list and status legend) plus the README app count, table of contents and status legend |
+| [`backfill_added.py`](#backfill_addedpy) | One-time migration: stamp each app's `added` field with its first-appearance date from git history |
 | [`curate.py`](#curatepy) | Check repository/store health, mark statuses, remove dead apps and clean dead store links |
 
 ---
@@ -18,7 +19,7 @@ $ python scripts/add.py
 
 Prompts `[0] new app` / `[1] new category`. No command line arguments.
 
-- **new app**: asks for category, source, name, description and optional `fdroid`, `playstore`, `website` links. Every link is validated over HTTP (must return 200). Apps are inserted alphabetically by name.
+- **new app**: asks for category, source, name, description and optional `fdroid`, `playstore`, `website` links. Every link is validated over HTTP (must return 200). Apps are inserted alphabetically by name, and each new app gets an `added` field with today's date (`YYYY-MM-DD`).
 - **new category**: asks for a slug name and an emoji, then creates `apps/<name>.json`.
 
 After adding, run:
@@ -41,7 +42,7 @@ $ python scripts/build.py
 
 Regenerates the generated content from `apps/*.json`:
 
-- `ALL_APPS.md` — every category table in a single file (`App | Status | Description | Stars | Last commit | Links`), with a table of contents and the status legend.
+- `ALL_APPS.md` — every category table in a single file (`App | Status | Description | Stars | Last commit | Links`), with a table of contents, the status legend, and a `## Recently Added` section listing the 15 most recently added apps (by the `added` field, which every app in `apps/*.json` now carries).
 - `README.md` — the `apps-count` badge, the `table-of-contents` chunk and the `status-legend` chunk.
 
 The script is idempotent: if the source JSONs did not change, running it again produces byte-identical files (no phantom diffs).
@@ -49,6 +50,25 @@ The script is idempotent: if the source JSONs did not change, running it again p
 ### Parameters
 
 None.
+
+---
+
+## backfill_added.py
+
+One-time migration that stamps the `added` field (`YYYY-MM-DD`) on every app in `apps/*.json` that lacks it, using git history as the source of truth.
+
+```bash
+$ python scripts/backfill_added.py            # dry-run: show what would change
+$ python scripts/backfill_added.py --run      # write the files
+```
+
+For each app without `added` it runs `git log -S "<source>" --format=%ad --date=short -- apps/` and takes the oldest date for that URL. Apps whose URL is not found in git history fall back to the bulk-import commit date. Repeated source URLs share the same date.
+
+### Parameters
+
+| Argument | Description |
+|----------|-------------|
+| `--run` | Actually write the JSON files. Without it, the script only prints what it would change (dry-run). |
 
 ---
 

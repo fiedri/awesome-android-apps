@@ -23,7 +23,47 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 **[`Acknowledgments`](#acknowledgments 'Acknowledgments')**
 
 ## Table of Contents
+<!-- table-of-contents starts -->
+- [🆕 Recently Added](ALL_APPS.md#recently-added)
 - [`All Apps`](ALL_APPS.md)
+
+- [🎬 Android TV](ALL_APPS.md#android-tv)
+- [⌚️ Android Wear](ALL_APPS.md#android-wear)
+- [🇯🇵 Anime](ALL_APPS.md#anime)
+- [🏪 App Stores](ALL_APPS.md#app-stores)
+- [🌐 Browser](ALL_APPS.md#browsers)
+- [💼 Business](ALL_APPS.md#business)
+- [➕ Calculators](ALL_APPS.md#calculators)
+- [📅 Calendars](ALL_APPS.md#calendars)
+- [🎨 Customization](ALL_APPS.md#customization)
+- [📧 Email](ALL_APPS.md#email)
+- [🕹 Emulators](ALL_APPS.md#emulators)
+- [🎥 Entertainment](ALL_APPS.md#entertainment)
+- [📂 File Managers](ALL_APPS.md#file-managers)
+- [💰 Finance](ALL_APPS.md#finance)
+- [🎮 Games](ALL_APPS.md#games)
+- [🏥 Health & Fitness](ALL_APPS.md#health-fitness)
+- [⌨ Keyboards](ALL_APPS.md#keyboards)
+- [📱 Launchers](ALL_APPS.md#launchers)
+- [🎓 Learning](ALL_APPS.md#learning)
+- [🏠 Life Style](ALL_APPS.md#life-style)
+- [🗺 Maps](ALL_APPS.md#maps)
+- [⏯ Media Viewers and Players](ALL_APPS.md#media-viewers-and-players)
+- [📨 Messaging](ALL_APPS.md#messaging)
+- [📰 News & Magazines](ALL_APPS.md#news-and-magazines)
+- [🔑 Password Managers](ALL_APPS.md#password-managers)
+- [👩‍🔧 Productivity](ALL_APPS.md#productivity)
+- [💻 Programming](ALL_APPS.md#programming)
+- [🔐 Security and Privacy](ALL_APPS.md#security-and-privacy)
+- [👥 Social Media](ALL_APPS.md#social-media)
+- [🔄 Synchronization](ALL_APPS.md#synchronization)
+- [⚙ System Info](ALL_APPS.md#system-info)
+- [💬 Texting and Phone](ALL_APPS.md#texting-and-phone)
+- [🧰 Tools](ALL_APPS.md#tools)
+- [🗺️ Travel & Local](ALL_APPS.md#travel-and-local)
+- [🛠 Utilities](ALL_APPS.md#utilities)
+- [⛅ Weather](ALL_APPS.md#weather)
+<!-- table-of-contents ends -->
 
 ## Suggestions
 

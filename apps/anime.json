@@ -6,6 +6,7 @@
             "name": "MoeList",
             "description": "Another unofficial Android MAL(MyAnimeList) client, track your progress in both anime and mangas. See top charts, search, and manage your list.",
             "source": "https://github.com/axiel7/MoeList",
+            "added": "2022-01-28",
             "playstore": "https://play.google.com/store/apps/details?id=com.axiel7.moelist"
         }
     ]

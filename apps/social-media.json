@@ -6,6 +6,7 @@
             "name": "Infinity",
             "description": "This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.",
             "source": "https://github.com/Docile-Alligator/Infinity-For-Reddit",
+            "added": "2022-01-28",
             "playstore": "https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit"
         },
         {
@@ -13,6 +14,7 @@
             "description": "A free distributed multimedia communication software. Jami allows to make audio or video calls, and to send messages, safely and freely, in confidence. Jami is a Free and open source software that requires no central server.",
             "stars_link": "https://img.shields.io/badge/dynamic/json?label=stars&query=$.star_count&url=https://git.jami.net//api/v4/projects/2",
             "source": "https://git.jami.net/savoirfairelinux/ring-client-android",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/cx.ring",
             "website": "https://jami.net"
         },
@@ -20,6 +22,7 @@
             "name": "Jitsi Meet",
             "description": "Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. It lets you stay in touch with all your teams, be they family, friends, or colleagues. Instant video conferences, efficiently adapting to your scale.",
             "source": "https://github.com/jitsi/jitsi-meet",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/en/packages/org.jitsi.meet",
             "playstore": "https://play.google.com/store/apps/details?id=org.jitsi.meet",
             "website": "https://jitsi.org/jitsi-meet"
@@ -28,6 +31,7 @@
             "name": "OctoDroid",
             "description": "An open source client for GitHub. Access to GitHub and stay connected to your networks. Follow git repository and top users in GitHub. View all users' activities, source codes and manage your issues with OctoDroid.",
             "source": "https://github.com/slapperwan/gh4a",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/com.gh4a",
             "playstore": "https://play.google.com/store/apps/details?id=com.gh4a",
             "website": "https://slapperwan.github.io/gh4a"
@@ -36,12 +40,14 @@
             "name": "Telegram FOSS",
             "description": "Unofficial, FOSS-friendly fork of the original Telegram client for Android, a messaging app with a focus on speed and security. It\u2019s superfast, simple and free.",
             "source": "https://github.com/Telegram-FOSS-Team/Telegram-FOSS",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/org.telegram.messenger"
         },
         {
             "name": "Tusky",
             "description": "A beautiful Android client for Mastodon. Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.",
             "source": "https://github.com/tuskyapp/Tusky",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/com.keylesspalace.tusky",
             "playstore": "https://play.google.com/store/apps/details?id=com.keylesspalace.tusky",
             "website": "https://tusky.app"
@@ -50,6 +56,7 @@
             "name": "Twidere",
             "description": "Material Design ready and feature rich Twitter/Mastodon/StatusNet/Fanfou app for Android 4.1+. Supports powerful mute filters, night mode, multiple accounts, customizable tabs.",
             "source": "https://github.com/TwidereProject/Twidere-Android",
+            "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/org.mariotaku.twidere",
             "playstore": "https://play.google.com/store/apps/details?id=org.mariotaku.twidere",
             "website": "https://twidere.com"
@@ -57,201 +64,240 @@
         {
             "name": "AisenWeiBo",
             "description": "A client for the Chinese social network Sina Weibo, with Material Design. (Archived)",
-            "source": "https://github.com/wangdan/AisenWeiBo"
+            "source": "https://github.com/wangdan/AisenWeiBo",
+            "added": "2026-09-16"
         },
         {
             "name": "BlackLight",
             "description": "A lightweight client for the Sina Weibo social network.",
-            "source": "https://github.com/PaperAirplane-Dev-Team/BlackLight"
+            "source": "https://github.com/PaperAirplane-Dev-Team/BlackLight",
+            "added": "2026-09-16"
         },
         {
             "name": "Cannonball",
             "description": "An app from Twitter for creating and sharing stories and poems. (Archived)",
-            "source": "https://github.com/crashlytics/cannonball-android"
+            "source": "https://github.com/crashlytics/cannonball-android",
+            "added": "2026-09-16"
         },
         {
             "name": "CNode-android",
             "description": "An Android client for the CNode.js Chinese technical community.",
-            "source": "https://github.com/iwhys/CNode-android"
+            "source": "https://github.com/iwhys/CNode-android",
+            "added": "2026-09-16"
         },
         {
             "name": "Cotable",
             "description": "A Material Design client for the Chinese blogging platform cnblogs.com.",
-            "source": "https://github.com/wlemuel/Cotable"
+            "source": "https://github.com/wlemuel/Cotable",
+            "added": "2026-09-16"
         },
         {
             "name": "Dribbo",
             "description": "A client for Dribbble to browse popular shots and debuts. (Archived)",
-            "source": "https://github.com/ikew0ng/Dribbo"
+            "source": "https://github.com/ikew0ng/Dribbo",
+            "added": "2026-09-16"
         },
         {
             "name": "DroidKaigi",
             "description": "The official conference app for DroidKaigi 2016 in Tokyo.",
-            "source": "https://github.com/konifar/droidkaigi2016"
+            "source": "https://github.com/konifar/droidkaigi2016",
+            "added": "2026-09-16"
         },
         {
             "name": "FishChatAndroid",
             "description": "A chat application demonstrating modern Android development.",
-            "source": "https://github.com/oikomi/FishChatAndroid"
+            "source": "https://github.com/oikomi/FishChatAndroid",
+            "added": "2026-09-16"
         },
         {
             "name": "ForkHub",
             "description": "A fork of the deprecated official GitHub Android app, which is still maintained.",
-            "source": "https://github.com/jonan/ForkHub"
+            "source": "https://github.com/jonan/ForkHub",
+            "added": "2026-09-16"
         },
         {
             "name": "Git.NB",
             "description": "A client for browsing GitHub repositories and users. (Archived)",
-            "source": "https://github.com/Jeffmen/Git.NB"
+            "source": "https://github.com/Jeffmen/Git.NB",
+            "added": "2026-09-16"
         },
         {
             "name": "GitHub Visualizer",
             "description": "A GitHub client using the official API and Material UI components.",
-            "source": "https://github.com/dheerajkotwani/GithubVisualizer"
+            "source": "https://github.com/dheerajkotwani/GithubVisualizer",
+            "added": "2026-09-16"
         },
         {
             "name": "GitPoint",
             "description": "A GitHub client with a minimal and beautiful user interface, built with React Native.",
-            "source": "https://github.com/gitpoint/git-point"
+            "source": "https://github.com/gitpoint/git-point",
+            "added": "2026-09-16"
         },
         {
             "name": "Gitskarios",
             "description": "A popular and feature-rich GitHub client for Android.",
-            "source": "https://github.com/gitskarios/Gitskarios"
+            "source": "https://github.com/gitskarios/Gitskarios",
+            "added": "2026-09-16"
         },
         {
             "name": "Google I/O",
             "description": "The official open-source app for the Google I/O conference.",
-            "source": "https://github.com/google/iosched"
+            "source": "https://github.com/google/iosched",
+            "added": "2026-09-16"
         },
         {
             "name": "GSD Mobile",
             "description": "The official app for the GSD (Get Shit Done) website, using RSS and JSON.",
-            "source": "https://github.com/rgocal/GSD_Mobile"
+            "source": "https://github.com/rgocal/GSD_Mobile",
+            "added": "2026-09-16"
         },
         {
             "name": "Gunnner",
             "description": "A Dribbble client for Android with a clean, material design. (Archived)",
-            "source": "https://github.com/egor-n/gunnner"
+            "source": "https://github.com/egor-n/gunnner",
+            "added": "2026-09-16"
         },
         {
             "name": "Helping Hands",
             "description": "An app to find and connect with nearby social service volunteers.",
-            "source": "https://github.com/JerrySJoseph/Helping_Hands_Android_client"
+            "source": "https://github.com/JerrySJoseph/Helping_Hands_Android_client",
+            "added": "2026-09-16"
         },
         {
             "name": "Impeller",
             "description": "A feature-rich client for the Pump.io open, federated social network.",
-            "source": "https://github.com/erincandescent/Impeller"
+            "source": "https://github.com/erincandescent/Impeller",
+            "added": "2026-09-16"
         },
         {
             "name": "Insta Profile Downloader",
             "description": "A tool to view and download media from Instagram profiles.",
-            "source": "https://github.com/hemant3370/Insta"
+            "source": "https://github.com/hemant3370/Insta",
+            "added": "2026-09-16"
         },
         {
             "name": "InstaMaterial",
             "description": "A concept implementation of Instagram with Material Design. (Archived)",
-            "source": "https://github.com/frogermcs/InstaMaterial"
+            "source": "https://github.com/frogermcs/InstaMaterial",
+            "added": "2026-09-16"
         },
         {
             "name": "Kickstarter",
             "description": "The official open-source application for the Kickstarter crowdfunding platform.",
-            "source": "https://github.com/kickstarter/android-oss"
+            "source": "https://github.com/kickstarter/android-oss",
+            "added": "2026-09-16"
         },
         {
             "name": "Mastodon",
             "description": "The official Android client for the decentralized social network Mastodon.",
             "source": "https://github.com/mastodon/mastodon-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.joinmastodon.android"
         },
         {
             "name": "minicat",
             "description": "A client for the Chinese micro-blogging service fanfou.com. (Archived)",
-            "source": "https://github.com/mcxiaoke/minicat"
+            "source": "https://github.com/mcxiaoke/minicat",
+            "added": "2026-09-16"
         },
         {
             "name": "Monotweety",
             "description": "A simple Twitter client designed for tweeting directly from the notification area.",
-            "source": "https://github.com/yshrsmz/monotweety"
+            "source": "https://github.com/yshrsmz/monotweety",
+            "added": "2026-09-16"
         },
         {
             "name": "PHPHub Android",
             "description": "An Android client for the PHPHub community. (Archived)",
-            "source": "https://github.com/CycloneAxe/phphub-android"
+            "source": "https://github.com/CycloneAxe/phphub-android",
+            "added": "2026-09-16"
         },
         {
             "name": "PocketHub",
             "description": "A community-maintained fork of the original official GitHub Android app.",
-            "source": "https://github.com/pockethub/PocketHub"
+            "source": "https://github.com/pockethub/PocketHub",
+            "added": "2026-09-16"
         },
         {
             "name": "ribot-app-android",
             "description": "The official studio app for the ribot agency, showcasing their work. (Archived)",
-            "source": "https://github.com/ribot/ribot-app-android"
+            "source": "https://github.com/ribot/ribot-app-android",
+            "added": "2026-09-16"
         },
         {
             "name": "Shadowsocks",
             "description": "A secure socks5 proxy client, widely used for bypassing network censorship.",
             "source": "https://github.com/shadowsocks/shadowsocks-android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.github.shadowsocks"
         },
         {
             "name": "Skooter",
             "description": "A client for an anonymous social network. (Archived)",
-            "source": "https://github.com/prathmeshranaut/skooterapp"
+            "source": "https://github.com/prathmeshranaut/skooterapp",
+            "added": "2026-09-16"
         },
         {
             "name": "Talon for Twitter",
             "description": "The fully open-source version of the popular Talon for Twitter app.",
-            "source": "https://github.com/klinker24/talon-twitter-holo"
+            "source": "https://github.com/klinker24/talon-twitter-holo",
+            "added": "2026-09-16"
         },
         {
             "name": "TEDxTehran",
             "description": "The official event application for TEDxTehran.",
-            "source": "https://github.com/TEDxTehran-Team/event-app-android"
+            "source": "https://github.com/TEDxTehran-Team/event-app-android",
+            "added": "2026-09-16"
         },
         {
             "name": "TikTok App Clone",
             "description": "A basic clone of the TikTok app, created using the Flutter framework.",
-            "source": "https://github.com/mcofie/Tik-Tok-App-Clone-Flutter"
+            "source": "https://github.com/mcofie/Tik-Tok-App-Clone-Flutter",
+            "added": "2026-09-16"
         },
         {
             "name": "v2ex-android",
             "description": "A client for the Chinese technology forum v2ex.com. (Archived)",
-            "source": "https://github.com/greatyao/v2ex-android"
+            "source": "https://github.com/greatyao/v2ex-android",
+            "added": "2026-09-16"
         },
         {
             "name": "wasteof for Android",
             "description": "The official Android app for the wasteof.money social media platform.",
             "source": "https://github.com/micahlt/wasteof.mobile",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile"
         },
         {
             "name": "WeGit",
             "description": "An Android client for GitHub with a focus on a clean user interface. (Archived)",
-            "source": "https://github.com/Leaking/WeGit"
+            "source": "https://github.com/Leaking/WeGit",
+            "added": "2026-09-16"
         },
         {
             "name": "weiciyuan",
             "description": "A popular and feature-rich client for the Sina Weibo social network.",
-            "source": "https://github.com/qii/weiciyuan"
+            "source": "https://github.com/qii/weiciyuan",
+            "added": "2026-09-16"
         },
         {
             "name": "WordPress",
             "description": "The official open-source app for managing WordPress sites.",
             "source": "https://github.com/wordpress-mobile/WordPress-Android",
+            "added": "2026-09-16",
             "playstore": "https://play.google.com/store/apps/details?id=org.wordpress.android"
         },
         {
             "name": "Xtra",
             "description": "An open-source, ad-free Twitch player and browser for Android.",
-            "source": "https://github.com/crackededed/Xtra"
+            "source": "https://github.com/crackededed/Xtra",
+            "added": "2026-09-16"
         },
         {
             "name": "YouJoin",
             "description": "A social connection app with a focus on Material Design. (Archived)",
-            "source": "https://github.com/FreedomZZQ/YouJoin-Android"
+            "source": "https://github.com/FreedomZZQ/YouJoin-Android",
+            "added": "2026-09-16"
         }
     ]
 }

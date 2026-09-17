@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import requests, sys, json, pathlib, bisect, math
+import requests, sys, json, pathlib, bisect, math, datetime
 
 root = pathlib.Path(__file__).parent.parent.resolve()
 category_sources = list(filter(lambda f: f.suffix == ".json", pathlib.Path.iterdir(root/"apps")))
@@ -94,6 +94,7 @@ def new_app():
             exit_with_error("ERROR: source already exists")
         else:
             new_app["source"] = source
+            new_app["added"] = datetime.date.today().isoformat()
             break
 
     required_fields = ["name", "description"]
