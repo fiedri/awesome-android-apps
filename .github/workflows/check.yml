@@ -1,4 +1,4 @@
-name: build content
+name: check content
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  check:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,9 +19,15 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: update content
+      - name: install dependencies
         run: |-
-          python scripts/build.py
+          pip install aiohttp
+
+      - name: check apps' health and refresh the cache
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |-
+          python scripts/curate.py check --dir apps
 
       - name: config bot
         run: |-
@@ -31,5 +37,5 @@ jobs:
       - name: commit and push if something changed
         run: |-
           git add -A
-          git commit -m "bot: rebuild content" || exit 0
+          git commit -m "bot: update cache" || exit 0
           git push

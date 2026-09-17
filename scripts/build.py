@@ -224,21 +224,11 @@ def build_readme():
     app_count_md = f'<img src="https://img.shields.io/badge/{n_apps}-apps-red?style=for-the-badge" alt="App count"/>'
     readme_contents = replace_chunk(readme_contents, "apps-count", app_count_md)
 
-    sorted_categories = list(categories)
-    sorted_categories.sort()
-
     toc_lines = [
         "- [🆕 Recently Added](ALL_APPS.md#recently-added)",
         "- [`All Apps`](ALL_APPS.md)",
         "",
     ]
-    for category in sorted_categories:
-        with category.open("r") as f:
-            json_cat = json.load(f)
-            title = json_cat.get("title")
-            emoji = json_cat.get("emoji")
-        link = category.stem
-        toc_lines.append(f"- [{emoji} {title}](ALL_APPS.md#{link})")
     readme_contents = replace_chunk(
         readme_contents, "table-of-contents", "\n".join(toc_lines)
     )
