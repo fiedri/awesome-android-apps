@@ -65,69 +65,94 @@ def count_apps():
     return count
 
 
-def build_category(cat):
+def render_category(cat):
     with cat.open("r") as f:
         cat_json = json.load(f)
 
-    md_file = categories_dir / (cat.stem + ".md")
-    with md_file.open("w") as f:
-        lines = [
-            f'# {cat_json.get("emoji")} {cat_json.get("title")}',
-            "[`< go back home`](../README.md)",
-            "",
-            "| App | Status | Description | Stars | Last commit | Links |",
-            "|-----|--------|-------------|-------|-------------|-------|",
-        ]
+    lines = [
+        f'<a id="{cat.stem}"></a>',
+        f'## {cat_json.get("emoji")} {cat_json.get("title")}',
+        "",
+        "| App | Status | Description | Stars | Last commit | Links |",
+        "|-----|--------|-------------|-------|-------------|-------|",
+    ]
 
-        for app in sorted(
-            cat_json.get("apps"), key=lambda app: app.get("name", "").casefold()
-        ):
-            merged = effective(app, cache.get(app.get("source")), overrides.get(app.get("source")))
-            name = merged.get("name")
-            description = merged.get("description")
-            source = merged.get("source")
-            fdroid = merged.get("fdroid")
-            playstore = merged.get("playstore")
-            website = merged.get("website")
+    for app in sorted(
+        cat_json.get("apps"), key=lambda app: app.get("name", "").casefold()
+    ):
+        merged = effective(app, cache.get(app.get("source")), overrides.get(app.get("source")))
+        name = merged.get("name")
+        description = merged.get("description")
+        source = merged.get("source")
+        fdroid = merged.get("fdroid")
+        playstore = merged.get("playstore")
+        website = merged.get("website")
 
-            m = re.match(
-                r"https://(gitlab|github)\.com/([a-zA-Z0-9\-_.]+)/([a-zA-Z0-9\-_.]+)",
-                source,
+        m = re.match(
+            r"https://(gitlab|github)\.com/([a-zA-Z0-9\-_.]+)/([a-zA-Z0-9\-_.]+)",
+            source,
+        )
+        if m == None:
+            stars_link = merged.get("stars_link")
+            last_commit_link = merged.get("last_commit_link")
+        else:
+            stars_link = (
+                f"https://badgen.net/{m.group(1)}/stars/{'/'.join(m.group(2,3))}"
             )
-            if m == None:
-                stars_link = merged.get("stars_link")
-                last_commit_link = merged.get("last_commit_link")
-            else:
-                stars_link = (
-                    f"https://badgen.net/{m.group(1)}/stars/{'/'.join(m.group(2,3))}"
-                )
-                last_commit_link = f"https://img.shields.io/{m.group(1)}/last-commit/{'/'.join(m.group(2,3))}"
+            last_commit_link = f"https://img.shields.io/{m.group(1)}/last-commit/{'/'.join(m.group(2,3))}"
 
-            badge_stars = f"![Stars]({stars_link})" if stars_link else ""
-            stars = merged.get("stars")
-            if isinstance(stars, int):
-                stars_cell = f"{stars:,}"
-            elif badge_stars:
-                stars_cell = badge_stars
-            else:
-                stars_cell = "—"
-            badge_commit = (
-                f"![last commit]({last_commit_link})" if last_commit_link else ""
-            )
-            link_source = f'[`{name}`]({source} "link")'
-            link_fdroid = f'[`[f-droid]`]({fdroid} "f-droid")' if fdroid else ""
-            link_playstore = (
-                f'[`[playstore]`]({playstore} "playstore")' if playstore else ""
-            )
-            link_website = f'[`[website]`]({website} "website")' if website else ""
+        badge_stars = f"![Stars]({stars_link})" if stars_link else ""
+        stars = merged.get("stars")
+        if isinstance(stars, int):
+            stars_cell = f"{stars:,}"
+        elif badge_stars:
+            stars_cell = badge_stars
+        else:
+            stars_cell = "—"
+        badge_commit = (
+            f"![last commit]({last_commit_link})" if last_commit_link else ""
+        )
+        link_source = f'[`{name}`]({source} "link")'
+        link_fdroid = f'[`[f-droid]`]({fdroid} "f-droid")' if fdroid else ""
+        link_playstore = (
+            f'[`[playstore]`]({playstore} "playstore")' if playstore else ""
+        )
+        link_website = f'[`[website]`]({website} "website")' if website else ""
 
-            safe_description = description.replace("|", "\\|")
-            links = " ".join(filter(None, [link_fdroid, link_playstore, link_website]))
-            lines.append(
-                f"| **{link_source}** | {status_badge(merged.get('status'))} | {safe_description} | {stars_cell} | {badge_commit} | {links} |"
-            )
+        safe_description = description.replace("|", "\\|")
+        links = " ".join(filter(None, [link_fdroid, link_playstore, link_website]))
+        lines.append(
+            f"| **{link_source}** | {status_badge(merged.get('status'))} | {safe_description} | {stars_cell} | {badge_commit} | {links} |"
+        )
 
-        f.write("\n".join(lines))
+    return lines
+
+
+def build_all_apps():
+    sorted_categories = sorted(categories)
+
+    lines = [
+        "# All Apps",
+        "[`< go back home`](README.md)",
+        "",
+        "## Table of Contents",
+    ]
+    for category in sorted_categories:
+        with category.open("r") as f:
+            json_cat = json.load(f)
+        lines.append(
+            f"- [{json_cat.get('emoji')} {json_cat.get('title')}](#{category.stem})"
+        )
+
+    lines.append("")
+    lines.append("## App Status")
+    lines.append(build_status_legend())
+
+    for category in sorted_categories:
+        lines.append("")
+        lines.extend(render_category(category))
+
+    (root / "ALL_APPS.md").open("w").write("\n".join(lines) + "\n")
 
 
 def build_readme():
@@ -146,7 +171,7 @@ def build_readme():
             title = json_cat.get("title")
             emoji = json_cat.get("emoji")
         link = category.stem
-        toc_lines.append(f"- [{emoji} {title}](categories/{link}.md)")
+        toc_lines.append(f"- [{emoji} {title}](ALL_APPS.md#{link})")
     readme_contents = replace_chunk(
         readme_contents, "table-of-contents", "\n".join(toc_lines)
     )
@@ -162,16 +187,11 @@ if __name__ == "__main__":
     root = pathlib.Path(__file__).parent.parent.resolve()
     scripts_dir = root / "scripts"
     json_dir = root / "apps"
-    categories_dir = root / "categories"
 
     cache = load_datastore(root / "curate" / "cache.json")
     overrides = load_datastore(root / "curate" / "overrides.json")
 
-    if not categories_dir.exists():
-        pathlib.Path.mkdir(categories_dir)
-
     categories = parse_categories()
     n_apps = count_apps()
     build_readme()
-    for category in categories:
-        build_category(category)
+    build_all_apps()

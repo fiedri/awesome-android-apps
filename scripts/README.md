@@ -5,7 +5,7 @@ Helper scripts for maintaining this repository. Run them from the repo root.
 | Script | Purpose |
 |--------|---------|
 | [`add.py`](#addpy) | Interactively add an app or a category to `apps/*.json` |
-| [`build.py`](#buildpy) | Regenerate `categories/*.md`, the README app count, table of contents and status legend |
+| [`build.py`](#buildpy) | Regenerate `ALL_APPS.md` (all category tables in one file, with a table of contents and status legend) plus the README app count, table of contents and status legend |
 | [`curate.py`](#curatepy) | Check repository/store health, mark statuses, remove dead apps and clean dead store links |
 
 ---
@@ -41,7 +41,7 @@ $ python scripts/build.py
 
 Regenerates the generated content from `apps/*.json`:
 
-- `categories/*.md` — one table per category (`App | Status | Description | Stars | Last commit | Links`).
+- `ALL_APPS.md` — every category table in a single file (`App | Status | Description | Stars | Last commit | Links`), with a table of contents and the status legend.
 - `README.md` — the `apps-count` badge, the `table-of-contents` chunk and the `status-legend` chunk.
 
 The script is idempotent: if the source JSONs did not change, running it again produces byte-identical files (no phantom diffs).

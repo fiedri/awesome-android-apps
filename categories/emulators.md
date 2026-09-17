@@ -1,7 +1,0 @@
-# 🕹 Emulators
-[`< go back home`](../README.md)
-
-| App | Status | Description | Stars | Last commit | Links |
-|-----|--------|-------------|-------|-------------|-------|
-| **[`Lemuroid`](https://github.com/Swordfish90/Lemuroid "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An Android open-source emulation project based on Libretro. It's main goals are ease of use, good Android integration and great user experience. | 4,324 | ![last commit](https://img.shields.io/github/last-commit/Swordfish90/Lemuroid) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid "playstore") |
-| **[`RetroArch`](https://github.com/libretro/RetroArch "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. It attempts to be small and lean while still having all the useful core features expected from an emulator. It is designed to be very portable and features a gamepad-centric and touchscreen UI. It also has a full-featured command-line interface. | 14,025 | ![last commit](https://img.shields.io/github/last-commit/libretro/RetroArch) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.retroarch "playstore") [`[website]`](https://www.libretro.com "website") |

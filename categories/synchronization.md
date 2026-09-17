@@ -1,7 +1,0 @@
-# 🔄 Synchronization
-[`< go back home`](../README.md)
-
-| App | Status | Description | Stars | Last commit | Links |
-|-----|--------|-------------|-------|-------------|-------|
-| **[`Nextcloud`](https://github.com/nextcloud/android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The Open Source Nextcloud Android app allows you to access all your files on your Nextcloud, a private file sync & share and communication server. It is fully open source and you can host it yourself or pay a company to do it for you. That way, you are in control of your photos, your calendar and contact data, your documents and everything else. | 5,579 | ![last commit](https://img.shields.io/github/last-commit/nextcloud/android) | [`[f-droid]`](https://f-droid.org/packages/com.nextcloud.client "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.nextcloud.client "playstore") [`[website]`](https://nextcloud.com "website") |
-| **[`Syncthing`](https://github.com/syncthing/syncthing-android "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet. | 4,283 | ![last commit](https://img.shields.io/github/last-commit/syncthing/syncthing-android) | [`[website]`](https://syncthing.net "website") |

@@ -43,7 +43,7 @@ There are two ways to add a new app:
     ```
     $ python scripts/build.py
     ```
-    This rebuilds the category tables in `categories/` from the `apps/*.json` files, and updates the README app counter and table of contents.
+    This regenerates `ALL_APPS.md` (a single file with every category table) from the `apps/*.json` files, and updates the README app counter, table of contents and status legend.
 
   - <details><summary>Fields stored per app (reference, in case you ever edit the json by hand)</summary>
 
