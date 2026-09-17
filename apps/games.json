@@ -27,12 +27,6 @@
             "playstore": "https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3"
         },
         {
-            "name": "2048-android",
-            "description": "An offline-capable port of the classic 2048 puzzle game.",
-            "source": "https://github.com/uberspot/2048-android",
-            "added": "2026-09-16"
-        },
-        {
             "name": "Anti-mine",
             "description": "A modern, minimalist puzzle game inspired by Minesweeper.",
             "source": "https://github.com/lucasnlm/antimine-android",

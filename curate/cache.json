@@ -2396,16 +2396,6 @@
         "stars": 7,
         "stores_status": []
     },
-    "https://github.com/uberspot/2048-android": {
-        "repo_http": 200,
-        "last_commit": "2021-06-04T07:47:53Z",
-        "is_archived": false,
-        "license": "MIT",
-        "is_foss": true,
-        "has_release": false,
-        "stars": 1087,
-        "stores_status": []
-    },
     "https://github.com/lucasnlm/antimine-android": {
         "repo_http": 200,
         "last_commit": "2025-08-02T01:20:06Z",

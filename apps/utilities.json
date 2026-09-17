@@ -49,6 +49,22 @@
             "fdroid": "https://f-droid.org/packages/com.mirfatif.permissionmanagerx",
             "playstore": "https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx",
             "website": "https://mirfatif.github.io/PermissionManagerX/help/en"
+        },
+        {
+            "source": "https://gitlab.com/juanitobananas/ping-off",
+            "added": "2026-09-17",
+            "name": "PingOff",
+            "description": "PingOff is a simple app that automatically toggles Do Not Disturb based on the apps you use.",
+            "fdroid": "https://f-droid.org/packages/com.jarsilio.android.pingoff/"
+        },
+        {
+            "source": "https://github.com/plainhub/plain-app",
+            "added": "2026-09-17",
+            "name": "PlainApp",
+            "description": "PlainApp is a free, open-source Android app that turns your phone into a self-hosted management hub you can access from any web browser on the same network \u2014 no accounts, no cloud, no subscriptions. Whether you need to transfer files, read SMS, browse photos, or mirror your screen, PlainApp puts full control back in your hands.",
+            "fdroid": "https://f-droid.org/packages/com.ismartcoding.plain/",
+            "playstore": "https://play.google.com/store/apps/details?id=com.ismartcoding.plain",
+            "website": "https://plainapp.app/es"
         }
     ]
 }

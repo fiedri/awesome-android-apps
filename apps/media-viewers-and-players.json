@@ -270,6 +270,14 @@
             "playstore": "https://play.google.com/store/apps/details?id=com.nuvio.app"
         },
         {
+            "source": "https://github.com/googol-apps/oneplayer",
+            "added": "2026-09-17",
+            "name": "OnePlayer",
+            "description": "One (Media) Player is an offline first all-in-one & all-format android native Universal music and video Player app",
+            "fdroid": "https://apt.izzysoft.de/fdroid/index/apk/com.googol.android.apps.oneplayer",
+            "playstore": "https://play.google.com/store/apps/details?id=com.googol.android.apps.oneplayer"
+        },
+        {
             "name": "Opengur",
             "description": "An open-source Imgur client for Android.",
             "source": "https://github.com/Kennyc1012/Opengur",
