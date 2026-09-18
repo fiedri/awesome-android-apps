@@ -44,6 +44,12 @@
             "playstore": "https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy"
         },
         {
+            "name": "Holdfast",
+            "description": "Android camera app (Kotlin/Compose) that seals each photo into a hash chain, so added, removed, reworded or backdated entries are detectable. Declares no network permission; everything stays in the app's private storage until exported.",
+            "source": "https://github.com/royalpinto007/Holdfast",
+            "added": "2026-09-18"
+        },
+        {
             "name": "NetGuard",
             "description": "It provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.",
             "source": "https://github.com/M66B/NetGuard",
