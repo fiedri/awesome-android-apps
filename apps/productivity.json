@@ -304,6 +304,12 @@
             "playstore": "https://play.google.com/store/apps/details?id=com.renard.ocr"
         },
         {
+            "name": "Tiny Day",
+            "description": "Fully offline daily planner for Android built with React Native (Expo): no account, no cloud, no analytics. Brain-dump the day in plain language, get a gentle timeline with a focus timer, and repair the plan in one tap when life happens.",
+            "source": "https://github.com/royalpinto007/Tiny-Day",
+            "added": "2026-09-18"
+        },
+        {
             "name": "todo.txt",
             "description": "The official Android app for managing your `todo.txt` file via Dropbox.",
             "source": "https://github.com/todotxt/todo.txt-android",
