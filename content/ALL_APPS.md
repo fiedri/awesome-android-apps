@@ -1,5 +1,5 @@
 <h1 id='title'>All Apps</h1>
-[`< go back home`](README.md)
+[`< go back home`](../README.md)
 
 ## Table of Contents
 - [🆕 Recently Added](#recently-added)

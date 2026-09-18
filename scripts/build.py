@@ -192,7 +192,7 @@ def build_all_apps():
 
     lines = [
         "<h1 id='title'>All Apps</h1>",
-        "[`< go back home`](README.md)",
+        "[`< go back home`](../README.md)",
         "",
         "## Table of Contents",
         "- [🆕 Recently Added](#recently-added)",
@@ -214,30 +214,9 @@ def build_all_apps():
     for category in sorted_categories:
         lines.append("")
         lines.extend(render_category(category))
-
-    (root / "ALL_APPS.md").open("w").write("\n".join(lines) + "\n")
-
-
-def build_readme():
-    readme_contents = (root / "README.md").open("r").read()
-
-    app_count_md = f'<img src="https://img.shields.io/badge/{n_apps}-apps-red?style=for-the-badge" alt="App count"/>'
-    readme_contents = replace_chunk(readme_contents, "apps-count", app_count_md)
-
-    toc_lines = [
-        "- [🆕 Recently Added](ALL_APPS.md#recently-added)",
-        "- [`All Apps`](ALL_APPS.md)",
-        "",
-    ]
-    readme_contents = replace_chunk(
-        readme_contents, "table-of-contents", "\n".join(toc_lines)
-    )
-
-    readme_contents = replace_chunk(
-        readme_contents, "status-legend", build_status_legend()
-    )
-
-    (root / "README.md").open("w").write(readme_contents)
+    content_folder = root / "content"
+    content_folder.mkdir(parents=True, exist_ok=True)
+    (content_folder / "ALL_APPS.md").open("w").write("\n".join(lines) + "\n")
 
 
 if __name__ == "__main__":
@@ -250,5 +229,4 @@ if __name__ == "__main__":
 
     categories = parse_categories()
     n_apps = count_apps()
-    build_readme()
     build_all_apps()

@@ -16,6 +16,12 @@
 
 A collection of great open source applications to replace proprietary ones on Android. Most of these apps are available on F-Droid.
 
+> **Android is about to stop being open.** Starting in 2027 Google requires every
+> Android app developer to register centrally with it — not just Play Store apps,
+> but **every app**, including the ones distributed through F-Droid or sideloaded.
+> Independent developers, community projects and hobbyists would be frozen out.
+> Read why this matters and how to fight it: [keepandroidopen.org](https://keepandroidopen.org/en/).
+
 _I'm not affiliated with these apps, I'm just sharing them because I think they're awesome._
 
 **[`SUGGEST A NEW APP`](#suggestions 'SUGGEST A NEW APP')**
@@ -24,9 +30,9 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 ## Table of Contents
 <!-- table-of-contents starts -->
-- [🆕 Recently Added](ALL_APPS.md#recently-added)
-- [`All Apps`](ALL_APPS.md)
-
+- [🆕 Recently Added](content/ALL_APPS.md#recently-added)
+- [`All Apps`](content/ALL_APPS.md)
+- [Alternatives to google](content/ALTERNATIVES_GOOGLE.md)
 <!-- table-of-contents ends -->
 
 ## Suggestions
