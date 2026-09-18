@@ -31,7 +31,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 ## Table of Contents
 <!-- table-of-contents starts -->
 - [🆕 Recently Added](content/ALL_APPS.md#recently-added)
-- [`All Apps`](content/ALL_APPS.md)
+- [All Apps](content/ALL_APPS.md)
 - [Alternatives to google](content/ALTERNATIVES_GOOGLE.md)
 <!-- table-of-contents ends -->
 

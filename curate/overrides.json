@@ -1,394 +1,402 @@
 {
-    "https://gitlab.com/xynngh/YetAnotherCallBlocker": {
-        "fields": {
-            "license": "GPL-3.0",
-            "is_foss": true
-        },
-        "reason": "GitLab API does not expose the license; verified manually in the README."
+  "https://gitlab.com/xynngh/YetAnotherCallBlocker": {
+    "fields": {
+      "license": "GPL-3.0",
+      "is_foss": true
     },
-    "https://github.com/arunkumar9t2/lynket-browser": {
-        "fields": {
-            "stores_status": [],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "GitLab API does not expose the license; verified manually in the README."
+  },
+  "https://github.com/arunkumar9t2/lynket-browser": {
+    "fields": {
+      "stores_status": [],
+      "playstore": null
     },
-    "https://github.com/SimpleMobileTools/Simple-Calendar": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/SimpleMobileTools/Simple-Calendar": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "fdroid": null
     },
-    "https://github.com/AntennaPod/AntennaPod": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/packages/de.danoeh.antennapod",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/AntennaPod/AntennaPod": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/packages/de.danoeh.antennapod",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/zhanghai/MaterialFiles": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/packages/me.zhanghai.android.files",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/zhanghai/MaterialFiles": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/packages/me.zhanghai.android.files",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/veloce/lichobile": {
-        "fields": {
-            "stores_status": [],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/veloce/lichobile": {
+    "fields": {
+      "stores_status": [],
+      "playstore": null
     },
-    "https://github.com/albertomosconi/TalpaSplat3": {
-        "fields": {
-            "stores_status": [],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/albertomosconi/TalpaSplat3": {
+    "fields": {
+      "stores_status": [],
+      "playstore": null
     },
-    "https://github.com/VladThodo/behe-keyboard": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null,
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/VladThodo/behe-keyboard": {
+    "fields": {
+      "stores_status": [],
+      "fdroid": null,
+      "playstore": null
     },
-    "https://github.com/klausw/hackerskeyboard": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/klausw/hackerskeyboard": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/dslul/openboard": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null,
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/dslul/openboard": {
+    "fields": {
+      "stores_status": [],
+      "fdroid": null,
+      "playstore": null
     },
-    "https://github.com/tanujnotes/Olauncher": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/packages/app.olauncher",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/tanujnotes/Olauncher": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/packages/app.olauncher",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/amirzaidi/Launcher3": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/packages/amirz.rootless.nexuslauncher",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/amirzaidi/Launcher3": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/packages/amirz.rootless.nexuslauncher",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/aeri/Nihonoari-App": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/en/packages/com.LAPARCELA.nihonoari/",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/aeri/Nihonoari-App": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/en/packages/com.LAPARCELA.nihonoari/",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://gitlab.com/axet/android-book-reader": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null,
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://gitlab.com/axet/android-book-reader": {
+    "fields": {
+      "stores_status": [],
+      "fdroid": null,
+      "playstore": null
     },
-    "https://github.com/UnevenSoftware/LeafPic": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null,
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/UnevenSoftware/LeafPic": {
+    "fields": {
+      "stores_status": [],
+      "fdroid": null,
+      "playstore": null
     },
-    "https://github.com/mpv-android/mpv-android": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://play.google.com/store/apps/details?id=is.xyz.mpv",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/mpv-android/mpv-android": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=is.xyz.mpv",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "fdroid": null
     },
-    "https://github.com/SimpleMobileTools/Simple-Gallery": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/SimpleMobileTools/Simple-Gallery": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "fdroid": null
     },
-    "https://github.com/bitwarden/mobile": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://play.google.com/store/apps/details?id=com.x8bit.bitwarden",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/bitwarden/mobile": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.x8bit.bitwarden",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "fdroid": null
     },
-    "https://github.com/gsantner/markor": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/packages/net.gsantner.markor",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/gsantner/markor": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/packages/net.gsantner.markor",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/appml/neutrinote": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/packages/com.appmindlab.nano",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/appml/neutrinote": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/packages/com.appmindlab.nano",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/orgzly/orgzly-android": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://play.google.com/store/apps/details?id=com.orgzly",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/orgzly/orgzly-android": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.orgzly",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "fdroid": null
     },
-    "https://github.com/blokadaorg/blokada": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/blokadaorg/blokada": {
+    "fields": {
+      "stores_status": [],
+      "fdroid": null
     },
-    "https://github.com/M66B/NetGuard": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/en/packages/eu.faircode.netguard",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/M66B/NetGuard": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/en/packages/eu.faircode.netguard",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/Docile-Alligator/Infinity-For-Reddit": {
-        "fields": {
-            "stores_status": [],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/Docile-Alligator/Infinity-For-Reddit": {
+    "fields": {
+      "stores_status": [],
+      "playstore": null
     },
-    "https://github.com/slapperwan/gh4a": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/packages/com.gh4a",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/slapperwan/gh4a": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/packages/com.gh4a",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/Telegram-FOSS-Team/Telegram-FOSS": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/Telegram-FOSS-Team/Telegram-FOSS": {
+    "fields": {
+      "stores_status": [],
+      "fdroid": null
     },
-    "https://github.com/tuskyapp/Tusky": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/packages/com.keylesspalace.tusky",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/tuskyapp/Tusky": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/packages/com.keylesspalace.tusky",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/TwidereProject/Twidere-Android": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://play.google.com/store/apps/details?id=org.mariotaku.twidere",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/TwidereProject/Twidere-Android": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=org.mariotaku.twidere",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "fdroid": null
     },
-    "https://github.com/syncthing/syncthing-android": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null,
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/syncthing/syncthing-android": {
+    "fields": {
+      "stores_status": [],
+      "fdroid": null,
+      "playstore": null
     },
-    "https://github.com/deltachat/deltachat-android": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/packages/com.b44t.messenger",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/deltachat/deltachat-android": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/packages/com.b44t.messenger",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/Chooloo/koler": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/Chooloo/koler": {
+    "fields": {
+      "stores_status": [],
+      "fdroid": null
     },
-    "https://github.com/moezbhatti/qksms": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://play.google.com/store/apps/details?id=com.moez.QKSMS",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "fdroid": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/moezbhatti/qksms": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.moez.QKSMS",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "fdroid": null
     },
-    "https://github.com/vivekweb2013/audio-recorder": {
-        "fields": {
-            "stores_status": [],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/vivekweb2013/audio-recorder": {
+    "fields": {
+      "stores_status": [],
+      "playstore": null
     },
-    "https://github.com/TachibanaGeneralLaboratories/download-navi": {
-        "fields": {
-            "stores_status": [
-                {
-                    "url": "https://f-droid.org/en/packages/com.tachibana.downloader",
-                    "status": 200,
-                    "available": true
-                }
-            ],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/TachibanaGeneralLaboratories/download-navi": {
+    "fields": {
+      "stores_status": [
+        {
+          "url": "https://f-droid.org/en/packages/com.tachibana.downloader",
+          "status": 200,
+          "available": true
+        }
+      ],
+      "playstore": null
     },
-    "https://github.com/WangDaYeeeeee/GeometricWeather": {
-        "fields": {
-            "stores_status": [],
-            "fdroid": null,
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/WangDaYeeeeee/GeometricWeather": {
+    "fields": {
+      "stores_status": [],
+      "fdroid": null,
+      "playstore": null
     },
-    "https://github.com/NuvioMedia/NuvioTV": {
-        "fields": {
-            "stores_status": [],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/NuvioMedia/NuvioTV": {
+    "fields": {
+      "stores_status": [],
+      "playstore": null
     },
-    "https://github.com/NuvioMedia/NuvioMobile": {
-        "fields": {
-            "stores_status": [],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/NuvioMedia/NuvioMobile": {
+    "fields": {
+      "stores_status": [],
+      "playstore": null
     },
-    "https://github.com/mayokunadeniyi/Instant-Weather": {
-        "fields": {
-            "stores_status": [],
-            "playstore": null
-        },
-        "reason": "Dead store link(s) suppressed after archived + inactive check"
-    }
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://github.com/mayokunadeniyi/Instant-Weather": {
+    "fields": {
+      "stores_status": [],
+      "playstore": null
+    },
+    "reason": "Dead store link(s) suppressed after archived + inactive check"
+  },
+  "https://gitlab.com/fdroid/fdroidclient": {
+    "fields": {
+      "is_foss": true,
+      "license": "GPLv3"
+    },
+    "reasons": "license was not detected"
+  }
 }
+

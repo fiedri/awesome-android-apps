@@ -102,8 +102,7 @@ def get_api_url(source):
 
 
 def derive_status(app):
-    """Derives the status from effective facts. Priority: archived > no_open_code >
-    broken_link > inactive > healthy.
+    """Derives the status from effective facts. Priority: archived > license_not_detected > no_open_code > broken_link > inactive > healthy.
 
     ONLY a real HTTP 404 counts as a dead store. A timeout or connection error is
     "unknown", not dead, so it never produces broken_link."""
@@ -111,6 +110,9 @@ def derive_status(app):
         return "repo_gone"
     if app.get("is_archived"):
         return "archived"
+    license_val = app.get("license")
+    if license_val is None or license_val == "":
+        return "license_not_detected"
     if not app.get("is_foss"):
         return "no_open_code"
     stores = app.get("stores_status") or []
