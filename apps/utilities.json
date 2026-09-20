@@ -42,6 +42,12 @@
             "playstore": "https://play.google.com/store/apps/details?id=io.github.sds100.keymapper"
         },
         {
+            "source": "https://github.com/Osasuwu/like-current-song",
+            "added": "2026-09-20",
+            "name": "Like Current Song",
+            "description": "Likes the song playing right now from your headphone or media buttons, with the screen off: a pause-play pattern saves it to Spotify Liked Songs or YouTube Music. Optional extras move liked tracks between playlists and follow the artist. A companion Windows hotkey app is included."
+        },
+        {
             "name": "Permission Manager X",
             "description": "eXtended Permission Manager for Android - view and set Manifest Permissions and AppOps. View, grant or revoke manifest permissions; view AppOps permissions and choose one of multiple modes; set your desired reference value for every changeable permission.",
             "source": "https://github.com/mirfatif/PermissionManagerX",
