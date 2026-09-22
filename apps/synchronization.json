@@ -12,6 +12,14 @@
             "website": "https://nextcloud.com"
         },
         {
+            "name": "SilentSuite",
+            "description": "End-to-end encrypted synchronization for calendars, contacts, and tasks through Android's system providers and compatible apps. Use SilentSuite's hosted service or self-host the open-source server.",
+            "source": "https://github.com/silent-suite/silentsuite",
+            "added": "2026-09-22",
+            "playstore": "https://play.google.com/store/apps/details?id=io.silentsuite.android",
+            "website": "https://silentsuite.io"
+        },
+        {
             "name": "Syncthing",
             "description": "A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.",
             "source": "https://github.com/syncthing/syncthing-android",
