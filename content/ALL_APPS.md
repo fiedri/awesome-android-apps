@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`SilentSuite`](https://github.com/silent-suite/silentsuite "link")** | [🔄 Synchronization](#synchronization) | 2026-09-22 | [`[playstore]`](https://play.google.com/store/apps/details?id=io.silentsuite.android "playstore") [`[website]`](https://silentsuite.io "website") |
 | **[`Like Current Song`](https://github.com/Osasuwu/like-current-song "link")** | [🛠 Utilities](#utilities) | 2026-09-20 |  |
 | **[`Holdfast`](https://github.com/royalpinto007/Holdfast "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-09-18 |  |
 | **[`Tiny Day`](https://github.com/royalpinto007/Tiny-Day "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-18 |  |
@@ -57,7 +58,6 @@
 | **[`Aarogya Setu`](https://github.com/nic-delhi/AarogyaSetu_Android "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu "playstore") |
 | **[`AcDisplay`](https://github.com/AChep/AcDisplay "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.achep.acdisplay "playstore") |
 | **[`ACEMusicPlayer`](https://github.com/C-Aniruddh/ACEMusicPlayer "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-16 |  |
-| **[`Activity Manager`](https://github.com/sdex/activitymanager "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[f-droid]`](https://f-droid.org/en/packages/com.activitymanager/ "f-droid") |
 
 ## App Status
 | Status | Meaning |
@@ -729,6 +729,7 @@
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
 | **[`Nextcloud`](https://github.com/nextcloud/android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The Open Source Nextcloud Android app allows you to access all your files on your Nextcloud, a private file sync & share and communication server. It is fully open source and you can host it yourself or pay a company to do it for you. That way, you are in control of your photos, your calendar and contact data, your documents and everything else. | 5,583 | ![last commit](https://img.shields.io/github/last-commit/nextcloud/android) | [`[f-droid]`](https://f-droid.org/packages/com.nextcloud.client "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.nextcloud.client "playstore") [`[website]`](https://nextcloud.com "website") |
+| **[`SilentSuite`](https://github.com/silent-suite/silentsuite "link")** |  | End-to-end encrypted synchronization for calendars, contacts, and tasks through Android's system providers and compatible apps. Use SilentSuite's hosted service or self-host the open-source server. | ![Stars](https://badgen.net/github/stars/silent-suite/silentsuite) | ![last commit](https://img.shields.io/github/last-commit/silent-suite/silentsuite) | [`[playstore]`](https://play.google.com/store/apps/details?id=io.silentsuite.android "playstore") [`[website]`](https://silentsuite.io "website") |
 | **[`Syncthing`](https://github.com/syncthing/syncthing-android "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet. | 4,282 | ![last commit](https://img.shields.io/github/last-commit/syncthing/syncthing-android) | [`[website]`](https://syncthing.net "website") |
 
 [**`^ back to top ^`**](#title)
