@@ -3,6 +3,12 @@
     "emoji": "\u23ef",
     "apps": [
         {
+            "source": "https://github.com/jazzy1133/airvia",
+            "added": "2026-10-04",
+            "name": "Airvia",
+            "description": "Airvia streams all of your Android phone audio - Spotify, podcasts, any app - to AirPlay 2 speakers like HomePod, Chromecast devices, and Sonos or DLNA speakers, with multi-speaker support, per-speaker volume, a 5-band equalizer, and per-app capture."
+        },
+        {
             "name": "BookReader",
             "description": "An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.",
             "source": "https://gitlab.com/axet/android-book-reader",
