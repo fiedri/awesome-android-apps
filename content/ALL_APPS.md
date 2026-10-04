@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Airvia`](https://github.com/jazzy1133/airvia "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-04 |  |
 | **[`SilentSuite`](https://github.com/silent-suite/silentsuite "link")** | [🔄 Synchronization](#synchronization) | 2026-09-22 | [`[playstore]`](https://play.google.com/store/apps/details?id=io.silentsuite.android "playstore") [`[website]`](https://silentsuite.io "website") |
 | **[`Like Current Song`](https://github.com/Osasuwu/like-current-song "link")** | [🛠 Utilities](#utilities) | 2026-09-20 |  |
 | **[`Holdfast`](https://github.com/royalpinto007/Holdfast "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-09-18 |  |
@@ -57,7 +58,6 @@
 | **[`A Photo Manager`](https://github.com/k3b/APhotoManager "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-16 |  |
 | **[`Aarogya Setu`](https://github.com/nic-delhi/AarogyaSetu_Android "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu "playstore") |
 | **[`AcDisplay`](https://github.com/AChep/AcDisplay "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.achep.acdisplay "playstore") |
-| **[`ACEMusicPlayer`](https://github.com/C-Aniruddh/ACEMusicPlayer "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-16 |  |
 
 ## App Status
 | Status | Meaning |
@@ -434,6 +434,7 @@
 | **[`A Photo Manager`](https://github.com/k3b/APhotoManager "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | 241 | ![last commit](https://img.shields.io/github/last-commit/k3b/APhotoManager) |  |
 | **[`ACEMusicPlayer`](https://github.com/C-Aniruddh/ACEMusicPlayer "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | A simple, Material Design music player for the Android platform. | 312 | ![last commit](https://img.shields.io/github/last-commit/C-Aniruddh/ACEMusicPlayer) |  |
 | **[`ad-free`](https://github.com/abertschi/ad-free "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A proof-of-concept modular audio ad-blocker for Android. | 298 | ![last commit](https://img.shields.io/github/last-commit/abertschi/ad-free) |  |
+| **[`Airvia`](https://github.com/jazzy1133/airvia "link")** |  | Airvia streams all of your Android phone audio - Spotify, podcasts, any app - to AirPlay 2 speakers like HomePod, Chromecast devices, and Sonos or DLNA speakers, with multi-speaker support, per-speaker volume, a 5-band equalizer, and per-app capture. | ![Stars](https://badgen.net/github/stars/jazzy1133/airvia) | ![last commit](https://img.shields.io/github/last-commit/jazzy1133/airvia) |  |
 | **[`AnimeTaste`](https://github.com/daimajia/AnimeTaste "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An app for discovering and watching original animations from around the world. (Archived) | 1,620 | ![last commit](https://img.shields.io/github/last-commit/daimajia/AnimeTaste) |  |
 | **[`Apollo`](https://github.com/CyanogenMod/android_packages_apps_Apollo "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | The classic, highly customizable music player from CyanogenMod. (Archived) | 261 | ![last commit](https://img.shields.io/github/last-commit/CyanogenMod/android_packages_apps_Apollo) |  |
 | **[`Auro`](https://github.com/architjn/Auro "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A fast, modern, open-source music player for Android. | 785 | ![last commit](https://img.shields.io/github/last-commit/architjn/Auro) |  |
