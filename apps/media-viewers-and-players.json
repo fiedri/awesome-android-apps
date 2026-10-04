@@ -284,6 +284,12 @@
             "added": "2026-09-16"
         },
         {
+            "source": "https://github.com/jazzy1133/outro",
+            "added": "2026-10-04",
+            "name": "Outro",
+            "description": "Outro is a modern music client for Subsonic and Navidrome servers with Android Auto, offline downloads, synced lyrics, a mixer-style equalizer with AutoEQ profiles, audiobook mode, internet radio, and casting to AirPlay 2, Chromecast, and Sonos or DLNA speakers."
+        },
+        {
             "name": "PDF Creator",
             "description": "A simple application to convert images into a single PDF file.",
             "source": "https://github.com/Swati4star/Images-to-PDF",
