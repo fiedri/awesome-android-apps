@@ -43,8 +43,9 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
-| **[`Outro`](https://github.com/jazzy1133/outro "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-04 |  |
+| **[`Domiday`](https://github.com/zapal69/domiday "link")** | [🗺️ Travel & Local](#travel-and-local) | 2026-10-11 | [`[website]`](https://domiday.com "website") |
 | **[`Airvia`](https://github.com/jazzy1133/airvia "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-04 |  |
+| **[`Outro`](https://github.com/jazzy1133/outro "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-04 |  |
 | **[`SilentSuite`](https://github.com/silent-suite/silentsuite "link")** | [🔄 Synchronization](#synchronization) | 2026-09-22 | [`[playstore]`](https://play.google.com/store/apps/details?id=io.silentsuite.android "playstore") [`[website]`](https://silentsuite.io "website") |
 | **[`Like Current Song`](https://github.com/Osasuwu/like-current-song "link")** | [🛠 Utilities](#utilities) | 2026-09-20 |  |
 | **[`Holdfast`](https://github.com/royalpinto007/Holdfast "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-09-18 |  |
@@ -57,8 +58,6 @@
 | **[`2FAS Authenticator`](https://github.com/twofas/2fas-android "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.twofasapp "playstore") |
 | **[`36krReader`](https://github.com/kinneyyan/36krReader "link")** | [📰 News & Magazines](#news-and-magazines) | 2026-09-16 |  |
 | **[`A Photo Manager`](https://github.com/k3b/APhotoManager "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-16 |  |
-| **[`Aarogya Setu`](https://github.com/nic-delhi/AarogyaSetu_Android "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu "playstore") |
-| **[`AcDisplay`](https://github.com/AChep/AcDisplay "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.achep.acdisplay "playstore") |
 
 ## App Status
 | Status | Meaning |
@@ -874,6 +873,7 @@
 
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
+| **[`Domiday`](https://github.com/zapal69/domiday "link")** |  | Domiday is a private journal of your trips that counts how many days you spent in each country. It paints the year on a calendar, shows visited countries on a rotating globe and imports Google Maps Timeline exports offline. The app has no internet permission, no account, no ads and no trackers. | ![Stars](https://badgen.net/github/stars/zapal69/domiday) | ![last commit](https://img.shields.io/github/last-commit/zapal69/domiday) | [`[website]`](https://domiday.com "website") |
 
 [**`^ back to top ^`**](#title)
 

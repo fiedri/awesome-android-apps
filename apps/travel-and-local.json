@@ -1,5 +1,13 @@
 {
     "title": "Travel & Local",
     "emoji": "\ud83d\uddfa\ufe0f",
-    "apps": []
+    "apps": [
+        {
+            "source": "https://github.com/zapal69/domiday",
+            "added": "2026-10-11",
+            "name": "Domiday",
+            "description": "Domiday is a private journal of your trips that counts how many days you spent in each country. It paints the year on a calendar, shows visited countries on a rotating globe and imports Google Maps Timeline exports offline. The app has no internet permission, no account, no ads and no trackers.",
+            "website": "https://domiday.com"
+        }
+    ]
 }
