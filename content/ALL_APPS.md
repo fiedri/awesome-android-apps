@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-26 | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
 | **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
 | **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
 | **[`MeshLive`](https://github.com/MeshLive/meshlive-android "link")** | [📨 Messaging](#messaging) | 2026-10-20 | [`[website]`](https://github.com/MeshLive/meshlive-android/releases/latest "website") |
@@ -57,7 +58,6 @@
 | **[`Like Current Song`](https://github.com/Osasuwu/like-current-song "link")** | [🛠 Utilities](#utilities) | 2026-09-20 |  |
 | **[`Holdfast`](https://github.com/royalpinto007/Holdfast "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-09-18 |  |
 | **[`Tiny Day`](https://github.com/royalpinto007/Tiny-Day "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-18 |  |
-| **[`OnePlayer`](https://github.com/googol-apps/oneplayer "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-17 | [`[f-droid]`](https://apt.izzysoft.de/fdroid/index/apk/com.googol.android.apps.oneplayer "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.googol.android.apps.oneplayer "playstore") |
 
 ## App Status
 | Status | Meaning |
@@ -437,6 +437,7 @@
 | **[`ad-free`](https://github.com/abertschi/ad-free "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A proof-of-concept modular audio ad-blocker for Android. | 298 | ![last commit](https://img.shields.io/github/last-commit/abertschi/ad-free) |  |
 | **[`Airvia`](https://github.com/jazzy1133/airvia "link")** |  | Airvia streams all of your Android phone audio - Spotify, podcasts, any app - to AirPlay 2 speakers like HomePod, Chromecast devices, and Sonos or DLNA speakers, with multi-speaker support, per-speaker volume, a 5-band equalizer, and per-app capture. | ![Stars](https://badgen.net/github/stars/jazzy1133/airvia) | ![last commit](https://img.shields.io/github/last-commit/jazzy1133/airvia) |  |
 | **[`AnimeTaste`](https://github.com/daimajia/AnimeTaste "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An app for discovering and watching original animations from around the world. (Archived) | 1,620 | ![last commit](https://img.shields.io/github/last-commit/daimajia/AnimeTaste) |  |
+| **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** |  | Modern, lightweight open-source Android music player with YouTube audio & album cover downloader, 10-band equalizer, dynamic 3D visualizer, and custom playlists. | ![Stars](https://badgen.net/github/stars/Yaromir-Anokhin/apex-music-player) | ![last commit](https://img.shields.io/github/last-commit/Yaromir-Anokhin/apex-music-player) | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
 | **[`Apollo`](https://github.com/CyanogenMod/android_packages_apps_Apollo "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | The classic, highly customizable music player from CyanogenMod. (Archived) | 261 | ![last commit](https://img.shields.io/github/last-commit/CyanogenMod/android_packages_apps_Apollo) |  |
 | **[`Auro`](https://github.com/architjn/Auro "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A fast, modern, open-source music player for Android. | 785 | ![last commit](https://img.shields.io/github/last-commit/architjn/Auro) |  |
 | **[`Aves`](https://github.com/deckerst/aves "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A gallery and metadata explorer app built for Android with Flutter. | 5,280 | ![last commit](https://img.shields.io/github/last-commit/deckerst/aves) | [`[playstore]`](https://play.google.com/store/apps/details?id=deckers.thibault.aves "playstore") |

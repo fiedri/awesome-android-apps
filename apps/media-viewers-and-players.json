@@ -9,6 +9,13 @@
             "description": "Airvia streams all of your Android phone audio - Spotify, podcasts, any app - to AirPlay 2 speakers like HomePod, Chromecast devices, and Sonos or DLNA speakers, with multi-speaker support, per-speaker volume, a 5-band equalizer, and per-app capture."
         },
         {
+            "name": "Apex Music Player",
+            "description": "Modern, lightweight open-source Android music player with YouTube audio & album cover downloader, 10-band equalizer, dynamic 3D visualizer, and custom playlists.",
+            "source": "https://github.com/Yaromir-Anokhin/apex-music-player",
+            "added": "2026-10-26",
+            "website": "https://yaromir-anokhin.github.io/apex-music-player/"
+        },
+        {
             "name": "BookReader",
             "description": "An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.",
             "source": "https://gitlab.com/axet/android-book-reader",
