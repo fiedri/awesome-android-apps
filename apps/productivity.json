@@ -253,6 +253,13 @@
             "added": "2026-09-16"
         },
         {
+            "source": "https://github.com/ateymoori/pomelu",
+            "added": "2026-10-29",
+            "name": "Pomelu",
+            "description": "Open-source Android and iOS app for Hermes Agent (Nous Research). Chat with your self-hosted AI agent on phone, foldable and tablet: voice, files, approvals, Bot Screen.",
+            "website": "https://royan.se/pomelu/"
+        },
+        {
             "name": "Quill",
             "description": "A beautiful Android app for managing your Ghost blog.",
             "source": "https://github.com/vickychijwani/quill",
