@@ -71,6 +71,12 @@
             "fdroid": "https://f-droid.org/packages/com.ismartcoding.plain/",
             "playstore": "https://play.google.com/store/apps/details?id=com.ismartcoding.plain",
             "website": "https://plainapp.app/es"
+        },
+        {
+            "name": "SplitAudio",
+            "description": "Android app that keeps the music app on Bluetooth while every other app plays through the phone speaker. Works without root through Shizuku and falls back to normal audio routing when music stops or Bluetooth disconnects.",
+            "source": "https://github.com/monarchsofchaos004-gif/splitaudio",
+            "added": "2026-10-28"
         }
     ]
 }

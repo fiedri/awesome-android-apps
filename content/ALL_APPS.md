@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`SplitAudio`](https://github.com/monarchsofchaos004-gif/splitaudio "link")** | [🛠 Utilities](#utilities) | 2026-10-28 |  |
 | **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-26 | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
 | **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
 | **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
@@ -57,7 +58,6 @@
 | **[`SilentSuite`](https://github.com/silent-suite/silentsuite "link")** | [🔄 Synchronization](#synchronization) | 2026-09-22 | [`[playstore]`](https://play.google.com/store/apps/details?id=io.silentsuite.android "playstore") [`[website]`](https://silentsuite.io "website") |
 | **[`Like Current Song`](https://github.com/Osasuwu/like-current-song "link")** | [🛠 Utilities](#utilities) | 2026-09-20 |  |
 | **[`Holdfast`](https://github.com/royalpinto007/Holdfast "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-09-18 |  |
-| **[`Tiny Day`](https://github.com/royalpinto007/Tiny-Day "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-18 |  |
 
 ## App Status
 | Status | Meaning |
@@ -899,6 +899,7 @@
 | **[`Permission Manager X`](https://github.com/mirfatif/PermissionManagerX "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | eXtended Permission Manager for Android - view and set Manifest Permissions and AppOps. View, grant or revoke manifest permissions; view AppOps permissions and choose one of multiple modes; set your desired reference value for every changeable permission. | 780 | ![last commit](https://img.shields.io/github/last-commit/mirfatif/PermissionManagerX) | [`[f-droid]`](https://f-droid.org/packages/com.mirfatif.permissionmanagerx "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx "playstore") [`[website]`](https://mirfatif.github.io/PermissionManagerX/help/en "website") |
 | **[`PingOff`](https://gitlab.com/juanitobananas/ping-off "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | PingOff is a simple app that automatically toggles Do Not Disturb based on the apps you use. | 2 | ![last commit](https://img.shields.io/gitlab/last-commit/juanitobananas/ping-off) | [`[f-droid]`](https://f-droid.org/packages/com.jarsilio.android.pingoff/ "f-droid") |
 | **[`PlainApp`](https://github.com/plainhub/plain-app "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | PlainApp is a free, open-source Android app that turns your phone into a self-hosted management hub you can access from any web browser on the same network — no accounts, no cloud, no subscriptions. Whether you need to transfer files, read SMS, browse photos, or mirror your screen, PlainApp puts full control back in your hands. | 6,731 | ![last commit](https://img.shields.io/github/last-commit/plainhub/plain-app) | [`[f-droid]`](https://f-droid.org/packages/com.ismartcoding.plain/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.ismartcoding.plain "playstore") [`[website]`](https://plainapp.app/es "website") |
+| **[`SplitAudio`](https://github.com/monarchsofchaos004-gif/splitaudio "link")** |  | Android app that keeps the music app on Bluetooth while every other app plays through the phone speaker. Works without root through Shizuku and falls back to normal audio routing when music stops or Bluetooth disconnects. | ![Stars](https://badgen.net/github/stars/monarchsofchaos004-gif/splitaudio) | ![last commit](https://img.shields.io/github/last-commit/monarchsofchaos004-gif/splitaudio) |  |
 
 [**`^ back to top ^`**](#title)
 
