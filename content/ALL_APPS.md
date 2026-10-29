@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Pomelu`](https://github.com/ateymoori/pomelu "link")** | [👩‍🔧 Productivity](#productivity) | 2026-10-29 | [`[website]`](https://royan.se/pomelu/ "website") |
 | **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-26 | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
 | **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
 | **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
@@ -57,7 +58,6 @@
 | **[`SilentSuite`](https://github.com/silent-suite/silentsuite "link")** | [🔄 Synchronization](#synchronization) | 2026-09-22 | [`[playstore]`](https://play.google.com/store/apps/details?id=io.silentsuite.android "playstore") [`[website]`](https://silentsuite.io "website") |
 | **[`Like Current Song`](https://github.com/Osasuwu/like-current-song "link")** | [🛠 Utilities](#utilities) | 2026-09-20 |  |
 | **[`Holdfast`](https://github.com/royalpinto007/Holdfast "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-09-18 |  |
-| **[`Tiny Day`](https://github.com/royalpinto007/Tiny-Day "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-18 |  |
 
 ## App Status
 | Status | Meaning |
@@ -631,6 +631,7 @@
 | **[`ownCloud`](https://github.com/owncloud/android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The official Android client for the self-hosted ownCloud file sync platform. | 4,168 | ![last commit](https://img.shields.io/github/last-commit/owncloud/android) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.owncloud.android "playstore") |
 | **[`p!n`](https://github.com/nproth/pin "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A minimalistic note-taking app utilizing your phone's notification area: take notes and save them as notifications, edit pinned notices, delete pins, hide notes for a specific period of time. This app was built with Material Design in mind. The app was built with Material Design in mind. | 138 | ![last commit](https://img.shields.io/github/last-commit/nproth/pin) | [`[f-droid]`](https://f-droid.org/packages/de.nproth.pin "f-droid") |
 | **[`PocketPal AI`](https://github.com/a-ghorbani/pocketpal-ai "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An on-device AI assistant powered by small language models (SLMs). | 8,347 | ![last commit](https://img.shields.io/github/last-commit/a-ghorbani/pocketpal-ai) |  |
+| **[`Pomelu`](https://github.com/ateymoori/pomelu "link")** |  | Open-source Android and iOS app for Hermes Agent (Nous Research). Chat with your self-hosted AI agent on phone, foldable and tablet: voice, files, approvals, Bot Screen. | ![Stars](https://badgen.net/github/stars/ateymoori/pomelu) | ![last commit](https://img.shields.io/github/last-commit/ateymoori/pomelu) | [`[website]`](https://royan.se/pomelu/ "website") |
 | **[`Quill`](https://github.com/vickychijwani/quill "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | A beautiful Android app for managing your Ghost blog. | 541 | ![last commit](https://img.shields.io/github/last-commit/vickychijwani/quill) |  |
 | **[`Read Later`](https://github.com/sak96/read_later "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Bookmark. Read. Listen. The simple way to manage your reading list. | 59 | ![last commit](https://img.shields.io/github/last-commit/sak96/read_later) | [`[playstore]`](https://play.google.com/store/apps/details?id=io.github.sak.read.it.later "playstore") |
 | **[`Remindly`](https://github.com/blanyal/Remindly "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A simple and user-friendly application for creating reminders. | 575 | ![last commit](https://img.shields.io/github/last-commit/blanyal/Remindly) |  |
