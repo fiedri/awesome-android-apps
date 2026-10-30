@@ -67,6 +67,12 @@
             "playstore": "https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture"
         },
         {
+            "name": "PhoneGuard",
+            "description": "Guard for an elderly relative's phone that steps in only when an app tries to take over the whole screen. It returns to the home screen, keeps a rescue button visible and lets family allow or block apps remotely.",
+            "source": "https://github.com/monarchsofchaos004-gif/phoneguard",
+            "added": "2026-10-28"
+        },
+        {
             "name": "RethinkDNS + Firewall",
             "description": "An open-source, no-root Firewall and DNS resolver with customizable blocklists. Block any app, IP address, or domain name from connecting to the Internet. Keep tabs on outgoing network connections, search through and analyze them.",
             "source": "https://github.com/celzero/rethink-app",
