@@ -65,6 +65,12 @@
             "added": "2026-09-16"
         },
         {
+            "name": "PadCam",
+            "description": "Turns a spare Android tablet into a self-hosted baby monitor. Streams MJPEG video and audio over your local network or Tailscale with no cloud and no account, and the camera only opens while someone is watching.",
+            "source": "https://github.com/monarchsofchaos004-gif/padcam",
+            "added": "2026-10-28"
+        },
+        {
             "name": "Reminder Pro",
             "description": "A reminder app with location, sound recording, and map features.",
             "source": "https://github.com/FarshidRoohi/ReminderPro",
