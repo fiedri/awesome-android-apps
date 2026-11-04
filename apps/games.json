@@ -156,6 +156,13 @@
             "added": "2026-09-16"
         },
         {
+            "name": "Open Chess",
+            "description": "Chess training with on-device Stockfish: game review that classifies every move and explains mistakes, 13 bots and 17 challenge engines, 104,000 Lichess puzzles, an opening trainer and lessons. Works offline, with no ads or account.",
+            "source": "https://github.com/jupiutrera/open-chess",
+            "added": "2026-11-02",
+            "website": "https://jupiutrera.github.io/open-chess/"
+        },
+        {
             "name": "Open Flood",
             "description": "A simple but challenging flood-fill puzzle game.",
             "source": "https://github.com/GunshipPenguin/open_flood",
