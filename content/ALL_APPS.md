@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`TooClose`](https://github.com/monarchsofchaos004-gif/tooclose "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-10-28 |  |
 | **[`Open Chess`](https://github.com/jupiutrera/open-chess "link")** | [🎮 Games](#games) | 2026-11-02 | [`[website]`](https://jupiutrera.github.io/open-chess/ "website") |
 | **[`Pomelu`](https://github.com/ateymoori/pomelu "link")** | [👩‍🔧 Productivity](#productivity) | 2026-10-29 | [`[website]`](https://royan.se/pomelu/ "website") |
 | **[`PadCam`](https://github.com/monarchsofchaos004-gif/padcam "link")** | [🏠 Life Style](#life-style) | 2026-10-28 |  |
@@ -322,6 +323,7 @@
 | **[`Pedometer`](https://github.com/j4velin/Pedometer "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A lightweight pedometer app that uses the hardware step-sensor. | 1,428 | ![last commit](https://img.shields.io/github/last-commit/j4velin/Pedometer) |  |
 | **[`RunnerUp`](https://github.com/jonasoreland/runnerup "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An open-source run tracker for tracking fitness activities. | 953 | ![last commit](https://img.shields.io/github/last-commit/jonasoreland/runnerup) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.runnerup "playstore") |
 | **[`SoulSync`](https://github.com/Antimatter543/mood-tracker "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A free mood tracker that stores everything on-device in SQLite, with no account, ads, or subscription. | 2 | ![last commit](https://img.shields.io/github/last-commit/Antimatter543/mood-tracker) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp "playstore") |
+| **[`TooClose`](https://github.com/monarchsofchaos004-gif/tooclose "link")** |  | Covers the screen when a child holds the phone or tablet too close, similar to iPhone Screen Distance. Uses the front camera and Android's built-in face detector entirely on the device, with no internet permission. | ![Stars](https://badgen.net/github/stars/monarchsofchaos004-gif/tooclose) | ![last commit](https://img.shields.io/github/last-commit/monarchsofchaos004-gif/tooclose) |  |
 | **[`trale`](https://github.com/QuantumPhysique/trale "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A simple and privacy-respecting body weight diary app built with Flutter. | 209 | ![last commit](https://img.shields.io/github/last-commit/QuantumPhysique/trale) |  |
 
 [**`^ back to top ^`**](#title)

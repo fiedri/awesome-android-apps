@@ -72,6 +72,12 @@
             "playstore": "https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp"
         },
         {
+            "name": "TooClose",
+            "description": "Covers the screen when a child holds the phone or tablet too close, similar to iPhone Screen Distance. Uses the front camera and Android's built-in face detector entirely on the device, with no internet permission.",
+            "source": "https://github.com/monarchsofchaos004-gif/tooclose",
+            "added": "2026-10-28"
+        },
+        {
             "name": "trale",
             "description": "A simple and privacy-respecting body weight diary app built with Flutter.",
             "source": "https://github.com/QuantumPhysique/trale",
