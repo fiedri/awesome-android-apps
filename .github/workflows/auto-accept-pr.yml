@@ -1,0 +1,24 @@
+name: Auto Accept PR
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto merge PR
+        uses: peter-evans/merge-pull-request@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ github.event.pull_request.number }}
+          merge-method: squash
+          delete-branch: true
+          commit-title: 'Merge pull request'
+          commit-message: |
+            Merge PR ${{ github.event.pull_request.number }}: ${{ github.event.pull_request.title }}
