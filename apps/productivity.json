@@ -291,6 +291,12 @@
             "added": "2026-09-16"
         },
         {
+            "name": "Sober",
+            "description": "A screen-time blocker that closes the app when the daily limit is spent instead of offering another 15 minutes. Per-app limits, a phone-wide cap, focus sessions, and blocking of Reels, Shorts and website sections while the rest of the app keeps working. No account, and no INTERNET permission at all.",
+            "source": "https://github.com/rishabhx29/Sober",
+            "added": "2026-11-04"
+        },
+        {
             "name": "Super Productivity",
             "description": "An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration.",
             "source": "https://github.com/super-productivity/super-productivity",
