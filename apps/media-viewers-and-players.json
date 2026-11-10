@@ -430,6 +430,13 @@
             "added": "2026-09-16"
         },
         {
+            "name": "Quire",
+            "description": "An EPUB reader for your self-hosted Calibre-Web library. Browse and download books over OPDS, read offline with adjustable fonts and themes, and keep highlights. An optional self-hosted server syncs reading progress and highlights across devices. No ads, no telemetry.",
+            "source": "https://github.com/vitofico/quire",
+            "added": "2026-11-10",
+            "fdroid": "https://f-droid.org/packages/io.theficos.quire"
+        },
+        {
             "source": "https://github.com/fancydirty/waifu-deck",
             "added": "2026-10-20",
             "name": "Waifu Deck",
