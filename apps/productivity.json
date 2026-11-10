@@ -297,6 +297,12 @@
             "added": "2026-11-04"
         },
         {
+            "name": "Spunto",
+            "description": "Offline notes for Android with Markdown, checklists, nested labels, quick capture and dictation. Pair it with your own self-hosted server to sync, share notes and spaces, edit in the browser, and use optional AI tools.",
+            "source": "https://github.com/vitofico/spunto",
+            "added": "2026-11-10"
+        },
+        {
             "name": "Super Productivity",
             "description": "An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration.",
             "source": "https://github.com/super-productivity/super-productivity",
