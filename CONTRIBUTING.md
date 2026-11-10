@@ -134,3 +134,5 @@ pinned its status. When in doubt, mention why you think it should go in the PR d
 ## Other Contributions
 
 There are no specific rules for any other type of contribution, feel free to send your PR!
+
+**Note for multiple apps**: If you want to add or remove several apps, please do it in a single PR rather than creating multiple PRs. This makes the review process faster and keeps the git history cleaner.
