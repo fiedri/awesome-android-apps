@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Usuals`](https://github.com/vitofico/usuals "link")** | [🏠 Life Style](#life-style) | 2026-11-10 |  |
 | **[`Sober`](https://github.com/rishabhx29/Sober "link")** | [👩‍🔧 Productivity](#productivity) | 2026-11-04 |  |
 | **[`TooClose`](https://github.com/monarchsofchaos004-gif/tooclose "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-10-28 |  |
 | **[`Open Chess`](https://github.com/jupiutrera/open-chess "link")** | [🎮 Games](#games) | 2026-11-02 | [`[website]`](https://jupiutrera.github.io/open-chess/ "website") |
@@ -398,6 +399,7 @@
 | **[`PadCam`](https://github.com/monarchsofchaos004-gif/padcam "link")** |  | Turns a spare Android tablet into a self-hosted baby monitor. Streams MJPEG video and audio over your local network or Tailscale with no cloud and no account, and the camera only opens while someone is watching. | ![Stars](https://badgen.net/github/stars/monarchsofchaos004-gif/padcam) | ![last commit](https://img.shields.io/github/last-commit/monarchsofchaos004-gif/padcam) |  |
 | **[`Reminder Pro`](https://github.com/FarshidRoohi/ReminderPro "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A reminder app with location, sound recording, and map features. | 36 | ![last commit](https://img.shields.io/github/last-commit/FarshidRoohi/ReminderPro) |  |
 | **[`Teapp`](https://github.com/marianpekar/teapp "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | A personal database for tea enthusiasts with a timer and calculator. | 2 | ![last commit](https://img.shields.io/github/last-commit/marianpekar/teapp) |  |
+| **[`Usuals`](https://github.com/vitofico/usuals "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An offline-first shopping list that remembers what you buy. Scan barcodes to add products with facts from Open Food Facts. An optional self-hosted server shares lists with end-to-end encryption and lets you edit them in the browser. No account needed, no telemetry. | 4 | ![last commit](https://img.shields.io/github/last-commit/vitofico/usuals) |  |
 | **[`Wake You In Music`](https://github.com/CedrickFlocon/wakeyouinmusic "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | An alarm clock app for Spotify or Deezer users. (Archived) | 25 | ![last commit](https://img.shields.io/github/last-commit/CedrickFlocon/wakeyouinmusic) |  |
 | **[`WonderFood`](https://github.com/vaddisrinivas/wonderfood "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Local-first food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals. | 0 | ![last commit](https://img.shields.io/github/last-commit/vaddisrinivas/wonderfood) |  |
 

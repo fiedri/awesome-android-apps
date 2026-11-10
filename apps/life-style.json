@@ -83,6 +83,12 @@
             "added": "2026-09-16"
         },
         {
+            "name": "Usuals",
+            "description": "An offline-first shopping list that remembers what you buy. Scan barcodes to add products with facts from Open Food Facts. An optional self-hosted server shares lists with end-to-end encryption and lets you edit them in the browser. No account needed, no telemetry.",
+            "source": "https://github.com/vitofico/usuals",
+            "added": "2026-11-10"
+        },
+        {
             "name": "Wake You In Music",
             "description": "An alarm clock app for Spotify or Deezer users. (Archived)",
             "source": "https://github.com/CedrickFlocon/wakeyouinmusic",
