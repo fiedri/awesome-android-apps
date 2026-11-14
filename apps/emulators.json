@@ -1,6 +1,6 @@
 {
     "title": "Emulators",
-    "emoji": "\ud83d\udd79",
+    "emoji": "🕹",
     "apps": [
         {
             "name": "Lemuroid",
@@ -16,6 +16,13 @@
             "added": "2022-01-28",
             "playstore": "https://play.google.com/store/apps/details?id=com.retroarch",
             "website": "https://www.libretro.com"
+        },
+        {
+            "name": "Armbat",
+            "description": "Runs 32-bit ARMv7 Android apps on 64-bit-only devices that have no 32-bit ABI. No root: guest Java runs on the host ART, and guest native code is translated A32 to ARM64 by a JIT built on Dynarmic. It brings its own ELF32 loader, Linux ARM EABI syscall layer, a real bionic userspace from an official armeabi-v7a image, and HLE for JNI, EGL/GLES, AAssetManager and OpenSLES.",
+            "source": "https://github.com/dima-xd/armbat",
+            "added": "2026-11-14",
+            "website": "https://armbat-web.vercel.app/"
         }
     ]
 }
