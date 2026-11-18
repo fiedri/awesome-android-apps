@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`USB Relay`](https://github.com/enesoglu/android-usb-reverse-tethering "link")** | [🛠 Utilities](#utilities) | 2026-11-16 | [`[website]`](https://enesoglu.github.io/android-usb-reverse-tethering/ "website") |
 | **[`Armbat`](https://github.com/dima-xd/armbat "link")** | [🕹 Emulators](#emulators) | 2026-11-14 | [`[website]`](https://armbat-web.vercel.app/ "website") |
 | **[`Quire`](https://github.com/vitofico/quire "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-11-10 | [`[f-droid]`](https://f-droid.org/packages/io.theficos.quire "f-droid") |
 | **[`Spunto`](https://github.com/vitofico/spunto "link")** | [👩‍🔧 Productivity](#productivity) | 2026-11-10 |  |
@@ -57,7 +58,6 @@
 | **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-26 | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
 | **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
 | **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
-| **[`MeshLive`](https://github.com/MeshLive/meshlive-android "link")** | [📨 Messaging](#messaging) | 2026-10-20 | [`[website]`](https://github.com/MeshLive/meshlive-android/releases/latest "website") |
 
 ## App Status
 | Status | Meaning |
@@ -910,6 +910,7 @@
 | **[`PingOff`](https://gitlab.com/juanitobananas/ping-off "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | PingOff is a simple app that automatically toggles Do Not Disturb based on the apps you use. | 2 | ![last commit](https://img.shields.io/gitlab/last-commit/juanitobananas/ping-off) | [`[f-droid]`](https://f-droid.org/packages/com.jarsilio.android.pingoff/ "f-droid") |
 | **[`PlainApp`](https://github.com/plainhub/plain-app "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | PlainApp is a free, open-source Android app that turns your phone into a self-hosted management hub you can access from any web browser on the same network — no accounts, no cloud, no subscriptions. Whether you need to transfer files, read SMS, browse photos, or mirror your screen, PlainApp puts full control back in your hands. | 6,731 | ![last commit](https://img.shields.io/github/last-commit/plainhub/plain-app) | [`[f-droid]`](https://f-droid.org/packages/com.ismartcoding.plain/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.ismartcoding.plain "playstore") [`[website]`](https://plainapp.app/es "website") |
 | **[`SplitAudio`](https://github.com/monarchsofchaos004-gif/splitaudio "link")** |  | Android app that keeps the music app on Bluetooth while every other app plays through the phone speaker. Works without root through Shizuku and falls back to normal audio routing when music stops or Bluetooth disconnects. | ![Stars](https://badgen.net/github/stars/monarchsofchaos004-gif/splitaudio) | ![last commit](https://img.shields.io/github/last-commit/monarchsofchaos004-gif/splitaudio) |  |
+| **[`USB Relay`](https://github.com/enesoglu/android-usb-reverse-tethering "link")** |  | Share a Windows PC's internet connection with Android over USB without root. Includes a native Windows interface, system tray, optional startup, trusted-device reconnect, and an encrypted tunnel. Public alpha; requires USB debugging and Android VPN approval. Windows x64 desktop companion required. | ![Stars](https://badgen.net/github/stars/enesoglu/android-usb-reverse-tethering) | ![last commit](https://img.shields.io/github/last-commit/enesoglu/android-usb-reverse-tethering) | [`[website]`](https://enesoglu.github.io/android-usb-reverse-tethering/ "website") |
 
 [**`^ back to top ^`**](#title)
 
