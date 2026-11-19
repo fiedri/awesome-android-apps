@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Sunlith`](https://github.com/SunSinD/Sunlith "link")** | [📅 Calendars](#calendars) | 2026-11-19 |  |
 | **[`USB Relay`](https://github.com/enesoglu/android-usb-reverse-tethering "link")** | [🛠 Utilities](#utilities) | 2026-11-16 | [`[website]`](https://enesoglu.github.io/android-usb-reverse-tethering/ "website") |
 | **[`Armbat`](https://github.com/dima-xd/armbat "link")** | [🕹 Emulators](#emulators) | 2026-11-14 | [`[website]`](https://armbat-web.vercel.app/ "website") |
 | **[`Quire`](https://github.com/vitofico/quire "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-11-10 | [`[f-droid]`](https://f-droid.org/packages/io.theficos.quire "f-droid") |
@@ -57,7 +58,6 @@
 | **[`TooClose`](https://github.com/monarchsofchaos004-gif/tooclose "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-10-28 |  |
 | **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-26 | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
 | **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
-| **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
 
 ## App Status
 | Status | Meaning |
@@ -172,6 +172,7 @@
 |-----|--------|-------------|-------|-------------|-------|
 | **[`Etar`](https://github.com/Etar-Group/Etar-Calendar "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A material designed open source calendar, for everyone! It features different views (monthly, weekly, daily and agenda), sync with Google Calendar, Exchange and others, dark and light theme, no ads, and more. | 2,602 | ![last commit](https://img.shields.io/github/last-commit/Etar-Group/Etar-Calendar) | [`[f-droid]`](https://f-droid.org/packages/ws.xsoh.etar "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=ws.xsoh.etar "playstore") |
 | **[`Simple Calendar`](https://github.com/SimpleMobileTools/Simple-Calendar "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A simple calendar with events and a customizable widget, optional CalDAV synchronization. You can easily create recurring events and setup reminders, it can also display week numbers. Contains a monthly view and an event list widget where you can customize the color of the text, as well as the alpha and the color of the background. | 3,651 | ![last commit](https://img.shields.io/github/last-commit/SimpleMobileTools/Simple-Calendar) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro "playstore") [`[website]`](https://www.simplemobiletools.com/calendar "website") |
+| **[`Sunlith`](https://github.com/SunSinD/Sunlith "link")** |  | A clean calendar with month, week and day views, events, tasks, reminders and an agenda widget. It imports and exports ICS files, works in English and French, and has no ads or analytics. An optional companion lets an assistant on your computer add or move events on your phone. | ![Stars](https://badgen.net/github/stars/SunSinD/Sunlith) | ![last commit](https://img.shields.io/github/last-commit/SunSinD/Sunlith) |  |
 | **[`Todo Agenda`](https://github.com/andstatus/todoagenda "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Home screen widgets for your Android device. Each widget has its own settings and displays configured list of calendar events and tasks so that you can easily have a glimpse at your due, current and upcoming appointments. | 173 | ![last commit](https://img.shields.io/github/last-commit/andstatus/todoagenda) | [`[f-droid]`](https://f-droid.org/en/packages/org.andstatus.todoagenda "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.andstatus.todoagenda "playstore") |
 
 [**`^ back to top ^`**](#title)
