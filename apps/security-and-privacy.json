@@ -89,6 +89,13 @@
             "website": "https://cis-c0.github.io/RFSentinel/"
         },
         {
+            "name": "unbraid",
+            "description": "Per-app VPN client. You can choose the exit for each app, from one or more VPN providers, or let an app skip the VPN, while Tailscale stays connected.",
+            "source": "https://github.com/quiet-crafts/unbraid",
+            "added": "2026-11-20",
+            "website": "https://unbraid.app"
+        },
+        {
             "name": "Warden",
             "description": "A FOSS app management utility with beautiful material design. This app detects trackers & loggers and allows you to disable them. It also features an advanced profile based app de-bloater.",
             "source": "https://gitlab.com/AuroraOSS/AppWarden",
