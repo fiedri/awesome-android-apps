@@ -341,6 +341,14 @@
             "added": "2026-09-16"
         },
         {
+            "name": "Trayzero",
+            "description": "A free, open-source Getting Things Done app. Process inbox items into next actions and projects, then work through a guided Weekly Review. Task data is stored on your device without a Trayzero account or cross-device task sync.",
+            "source": "https://github.com/roman10/trayzero",
+            "added": "2026-11-21",
+            "fdroid": "https://f-droid.org/packages/app.cleartray/",
+            "playstore": "https://play.google.com/store/apps/details?id=app.cleartray&utm_source=directory&utm_medium=referral&utm_campaign=dir-trayzero&referrer=utm_source%3Ddirectory%26utm_medium%3Dreferral%26utm_campaign%3Ddir-trayzero"
+        },
+        {
             "name": "tudounotepad",
             "description": "A simple Notepad application developed using Kotlin.",
             "source": "https://github.com/geminiwen/tudounotepad",

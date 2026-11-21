@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Trayzero`](https://github.com/roman10/trayzero "link")** | [👩‍🔧 Productivity](#productivity) | 2026-11-21 | [`[f-droid]`](https://f-droid.org/packages/app.cleartray/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=app.cleartray&utm_source=directory&utm_medium=referral&utm_campaign=dir-trayzero&referrer=utm_source%3Ddirectory%26utm_medium%3Dreferral%26utm_campaign%3Ddir-trayzero "playstore") |
 | **[`USB Relay`](https://github.com/enesoglu/android-usb-reverse-tethering "link")** | [🛠 Utilities](#utilities) | 2026-11-16 | [`[website]`](https://enesoglu.github.io/android-usb-reverse-tethering/ "website") |
 | **[`Armbat`](https://github.com/dima-xd/armbat "link")** | [🕹 Emulators](#emulators) | 2026-11-14 | [`[website]`](https://armbat-web.vercel.app/ "website") |
 | **[`Quire`](https://github.com/vitofico/quire "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-11-10 | [`[f-droid]`](https://f-droid.org/packages/io.theficos.quire "f-droid") |
@@ -57,7 +58,6 @@
 | **[`TooClose`](https://github.com/monarchsofchaos004-gif/tooclose "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-10-28 |  |
 | **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-26 | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
 | **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
-| **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
 
 ## App Status
 | Status | Meaning |
@@ -652,6 +652,7 @@
 | **[`Tiny Day`](https://github.com/royalpinto007/Tiny-Day "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Fully offline daily planner for Android built with React Native (Expo): no account, no cloud, no analytics. Brain-dump the day in plain language, get a gentle timeline with a focus timer, and repair the plan in one tap when life happens. | 1 | ![last commit](https://img.shields.io/github/last-commit/royalpinto007/Tiny-Day) |  |
 | **[`todo.txt`](https://github.com/todotxt/todo.txt-android "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | The official Android app for managing your `todo.txt` file via Dropbox. | 1,245 | ![last commit](https://img.shields.io/github/last-commit/todotxt/todo.txt-android) |  |
 | **[`ToGoZip`](https://github.com/k3b/ToGoZip "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | Adds an "Add to Zip" option to Android's share menu. | 65 | ![last commit](https://img.shields.io/github/last-commit/k3b/ToGoZip) |  |
+| **[`Trayzero`](https://github.com/roman10/trayzero "link")** |  | A free, open-source Getting Things Done app. Process inbox items into next actions and projects, then work through a guided Weekly Review. Task data is stored on your device without a Trayzero account or cross-device task sync. | ![Stars](https://badgen.net/github/stars/roman10/trayzero) | ![last commit](https://img.shields.io/github/last-commit/roman10/trayzero) | [`[f-droid]`](https://f-droid.org/packages/app.cleartray/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=app.cleartray&utm_source=directory&utm_medium=referral&utm_campaign=dir-trayzero&referrer=utm_source%3Ddirectory%26utm_medium%3Dreferral%26utm_campaign%3Ddir-trayzero "playstore") |
 | **[`tudounotepad`](https://github.com/geminiwen/tudounotepad "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | A simple Notepad application developed using Kotlin. | 108 | ![last commit](https://img.shields.io/github/last-commit/geminiwen/tudounotepad) |  |
 | **[`Turbo Editor`](https://github.com/vmihalachi/turbo-editor "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A simple, powerful, and open-source text editor for Android. | 1,364 | ![last commit](https://img.shields.io/github/last-commit/vmihalachi/turbo-editor) |  |
 | **[`VertiKin`](https://github.com/prabhakar267/vertikin "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A platform to automatically detect what a user might be interested in buying. | 81 | ![last commit](https://img.shields.io/github/last-commit/prabhakar267/vertikin) |  |
