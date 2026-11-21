@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Compose PCM SFX`](https://github.com/simple-free-apps/compose-pcm-sfx "link")** | [🧰 Tools](#tools) | 2026-11-21 |  |
 | **[`USB Relay`](https://github.com/enesoglu/android-usb-reverse-tethering "link")** | [🛠 Utilities](#utilities) | 2026-11-16 | [`[website]`](https://enesoglu.github.io/android-usb-reverse-tethering/ "website") |
 | **[`Armbat`](https://github.com/dima-xd/armbat "link")** | [🕹 Emulators](#emulators) | 2026-11-14 | [`[website]`](https://armbat-web.vercel.app/ "website") |
 | **[`Quire`](https://github.com/vitofico/quire "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-11-10 | [`[f-droid]`](https://f-droid.org/packages/io.theficos.quire "f-droid") |
@@ -57,7 +58,6 @@
 | **[`TooClose`](https://github.com/monarchsofchaos004-gif/tooclose "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-10-28 |  |
 | **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-26 | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
 | **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
-| **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
 
 ## App Status
 | Status | Meaning |
@@ -802,6 +802,7 @@
 | **[`Clip-Stack`](https://github.com/heruoxin/Clip-Stack "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | A clipboard history manager with a Material Design interface. | 917 | ![last commit](https://img.shields.io/github/last-commit/heruoxin/Clip-Stack) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.catchingnow.tinyclipboardmanager "playstore") |
 | **[`Cloudflare Mobile`](https://github.com/hasanzadee/cloudflare-mobile "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Manages Cloudflare from the phone: zones, DNS, cache, WAF, Workers, Zero Trust, and an explorer covering the whole API. | 10 | ![last commit](https://img.shields.io/github/last-commit/hasanzadee/cloudflare-mobile) |  |
 | **[`Codecks`](https://github.com/vaddisrinivas/codecks "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Local-first Android command deck, Bluetooth trackpad, and reviewable Mac automation surface. | 1 | ![last commit](https://img.shields.io/github/last-commit/vaddisrinivas/codecks) |  |
+| **[`Compose PCM SFX`](https://github.com/simple-free-apps/compose-pcm-sfx "link")** |  | On-device procedural sound effects synthesizer and pure-Kotlin 16-bit PCM library built with Jetpack Compose and AudioTrack. Test 9 UI and game SFX presets locally without bundled audio files. | ![Stars](https://badgen.net/github/stars/simple-free-apps/compose-pcm-sfx) | ![last commit](https://img.shields.io/github/last-commit/simple-free-apps/compose-pcm-sfx) |  |
 | **[`ConnectBot`](https://github.com/connectbot/connectbot "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The original, powerful SSH client for the Android platform. | 3,453 | ![last commit](https://img.shields.io/github/last-commit/connectbot/connectbot) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.connectbot "playstore") |
 | **[`Content Provider Helper`](https://github.com/k3b/ContentProviderHelper "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A developer tool to discover, query, and understand content providers. | 72 | ![last commit](https://img.shields.io/github/last-commit/k3b/ContentProviderHelper) |  |
 | **[`Cryptomator`](https://github.com/cryptomator/android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Provides transparent, client-side encryption for your cloud files. | 1,204 | ![last commit](https://img.shields.io/github/last-commit/cryptomator/android) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.cryptomator "playstore") |
