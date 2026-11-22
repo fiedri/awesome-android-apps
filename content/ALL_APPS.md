@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`LocalSR`](https://github.com/HerRei/local-upscale "link")** | [🧰 Tools](#tools) | 2026-11-22 | [`[website]`](https://herrei.github.io/localsr/ "website") |
 | **[`USB Relay`](https://github.com/enesoglu/android-usb-reverse-tethering "link")** | [🛠 Utilities](#utilities) | 2026-11-16 | [`[website]`](https://enesoglu.github.io/android-usb-reverse-tethering/ "website") |
 | **[`Armbat`](https://github.com/dima-xd/armbat "link")** | [🕹 Emulators](#emulators) | 2026-11-14 | [`[website]`](https://armbat-web.vercel.app/ "website") |
 | **[`Quire`](https://github.com/vitofico/quire "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-11-10 | [`[f-droid]`](https://f-droid.org/packages/io.theficos.quire "f-droid") |
@@ -57,7 +58,6 @@
 | **[`TooClose`](https://github.com/monarchsofchaos004-gif/tooclose "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-10-28 |  |
 | **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-26 | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
 | **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
-| **[`DSH Mobile`](https://github.com/pavel-logachev/dsh-mobile "link")** | [💻 Programming](#programming) | 2026-10-22 |  |
 
 ## App Status
 | Status | Meaning |
@@ -834,6 +834,7 @@
 | **[`LibreTorrent`](https://github.com/proninyaroslav/libretorrent "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An ad-free, open-source, Material Design torrent client. | 3,866 | ![last commit](https://img.shields.io/github/last-commit/proninyaroslav/libretorrent) | [`[playstore]`](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent "playstore") |
 | **[`LittleFreshWeather`](https://github.com/ZeusChan/LittleFreshWeather "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A clean and simple weather forecast app for Chinese cities. (Archived) | 49 | ![last commit](https://img.shields.io/github/last-commit/ZeusChan/LittleFreshWeather) |  |
 | **[`lmgtfyGen`](https://github.com/WilderPereira/lmgtfyGen "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An app that generates "Let Me Google That For You" URLs. | 5 | ![last commit](https://img.shields.io/github/last-commit/WilderPereira/lmgtfyGen) |  |
+| **[`LocalSR`](https://github.com/HerRei/local-upscale "link")** |  | Offline photo upscaler that enlarges photos 4x on the phone with two bundled super-resolution models, Best and Fast. It runs on the GPU or CPU and has no internet permission, no account and no ads. Free and MIT licensed, with signed APKs on GitHub Releases and itch.io. | ![Stars](https://badgen.net/github/stars/HerRei/local-upscale) | ![last commit](https://img.shields.io/github/last-commit/HerRei/local-upscale) | [`[website]`](https://herrei.github.io/localsr/ "website") |
 | **[`Material Color Picker`](https://github.com/captswag/material-color-picker "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | A simple, minimalistic, and beautiful color picker for developers. | 86 | ![last commit](https://img.shields.io/github/last-commit/captswag/material-color-picker) |  |
 | **[`Material Design Colors`](https://github.com/HozakaN/MaterialDesignColorPalette "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A developer tool to visualize the official Material Design color palette. | 252 | ![last commit](https://img.shields.io/github/last-commit/HozakaN/MaterialDesignColorPalette) |  |
 | **[`Materialize`](https://github.com/oxoooo/materialize "link")** | ![archived](https://img.shields.io/badge/status-archived-inactive) | An app that applies a Material Design theme to other apps. (Archived) | 405 | ![last commit](https://img.shields.io/github/last-commit/oxoooo/materialize) |  |
