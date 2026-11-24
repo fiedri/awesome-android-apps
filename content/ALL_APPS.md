@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Daylight`](https://github.com/Jurgler95/daylight "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-11-24 | [`[playstore]`](https://play.google.com/store/apps/details?id=de.behla.daylight "playstore") |
 | **[`unbraid`](https://github.com/quiet-crafts/unbraid "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-11-20 | [`[website]`](https://unbraid.app "website") |
 | **[`Sunlith`](https://github.com/SunSinD/Sunlith "link")** | [📅 Calendars](#calendars) | 2026-11-19 |  |
 | **[`USB Relay`](https://github.com/enesoglu/android-usb-reverse-tethering "link")** | [🛠 Utilities](#utilities) | 2026-11-16 | [`[website]`](https://enesoglu.github.io/android-usb-reverse-tethering/ "website") |
@@ -57,8 +58,6 @@
 | **[`PhoneGuard`](https://github.com/monarchsofchaos004-gif/phoneguard "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-10-28 |  |
 | **[`SplitAudio`](https://github.com/monarchsofchaos004-gif/splitaudio "link")** | [🛠 Utilities](#utilities) | 2026-10-28 |  |
 | **[`TooClose`](https://github.com/monarchsofchaos004-gif/tooclose "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-10-28 |  |
-| **[`Apex Music Player`](https://github.com/Yaromir-Anokhin/apex-music-player "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-26 | [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website") |
-| **[`Aster Mail`](https://github.com/Aster-Privacy/Aster-Android "link")** | [📧 Email](#email) | 2026-10-23 | [`[playstore]`](https://play.google.com/store/apps/details?id=org.astermail.android "playstore") [`[website]`](https://astermail.org "website") |
 
 ## App Status
 | Status | Meaning |
@@ -317,6 +316,7 @@
 | **[`Aarogya Setu`](https://github.com/nic-delhi/AarogyaSetu_Android "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A contact tracing and self-assessment app from the Government of India. | 2,902 | ![last commit](https://img.shields.io/github/last-commit/nic-delhi/AarogyaSetu_Android) | [`[playstore]`](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu "playstore") |
 | **[`Android app to collect medical data`](https://github.com/Ana06/medical-data-android "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An app designed to collect data for medical analysis. | 28 | ![last commit](https://img.shields.io/github/last-commit/Ana06/medical-data-android) |  |
 | **[`Android heart rate monitor`](https://github.com/phishman3579/android-heart-rate-monitor "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | Uses the phone's camera and flash to determine heart rate. | 473 | ![last commit](https://img.shields.io/github/last-commit/phishman3579/android-heart-rate-monitor) |  |
+| **[`Daylight`](https://github.com/Jurgler95/daylight "link")** |  | A private mood journal: tap a mood, pick activities and see a calendar and insights into your patterns. No internet permission, no account and no ads. Includes CSV import/export, app lock and optional read-only Health Connect data. | ![Stars](https://badgen.net/github/stars/Jurgler95/daylight) | ![last commit](https://img.shields.io/github/last-commit/Jurgler95/daylight) | [`[playstore]`](https://play.google.com/store/apps/details?id=de.behla.daylight "playstore") |
 | **[`fitPlant`](https://github.com/KrisKodira/fitPlant "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A fitness app where you grow virtual plants by tracking your exercise. | 32 | ![last commit](https://img.shields.io/github/last-commit/KrisKodira/fitPlant) |  |
 | **[`Ishihara`](https://github.com/landtanin/Ishihara "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | An application for testing color blindness using Ishihara plates. | 3 | ![last commit](https://img.shields.io/github/last-commit/landtanin/Ishihara) |  |
 | **[`NightSight`](https://github.com/meghalagrawal/NightSight "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | An app to decrease screen brightness below the system's minimum level. | 24 | ![last commit](https://img.shields.io/github/last-commit/meghalagrawal/NightSight) |  |
