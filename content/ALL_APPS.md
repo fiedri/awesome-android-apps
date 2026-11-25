@@ -43,10 +43,11 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
-| **[`Trayzero`](https://github.com/roman10/trayzero "link")** | [👩‍🔧 Productivity](#productivity) | 2026-11-21 | [`[f-droid]`](https://f-droid.org/packages/app.cleartray/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=app.cleartray&utm_source=directory&utm_medium=referral&utm_campaign=dir-trayzero&referrer=utm_source%3Ddirectory%26utm_medium%3Dreferral%26utm_campaign%3Ddir-trayzero "playstore") |
+| **[`Open POS`](https://github.com/onepiece92/openPOS "link")** | [💼 Business](#business) | 2026-11-26 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.brandbuilder.openpos "playstore") [`[website]`](https://onepiece92.github.io/openPOS/ "website") |
 | **[`Daylight`](https://github.com/Jurgler95/daylight "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-11-24 | [`[playstore]`](https://play.google.com/store/apps/details?id=de.behla.daylight "playstore") |
 | **[`LocalSR`](https://github.com/HerRei/local-upscale "link")** | [🧰 Tools](#tools) | 2026-11-22 | [`[website]`](https://herrei.github.io/localsr/ "website") |
 | **[`Compose PCM SFX`](https://github.com/simple-free-apps/compose-pcm-sfx "link")** | [🧰 Tools](#tools) | 2026-11-21 |  |
+| **[`Trayzero`](https://github.com/roman10/trayzero "link")** | [👩‍🔧 Productivity](#productivity) | 2026-11-21 | [`[f-droid]`](https://f-droid.org/packages/app.cleartray/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=app.cleartray&utm_source=directory&utm_medium=referral&utm_campaign=dir-trayzero&referrer=utm_source%3Ddirectory%26utm_medium%3Dreferral%26utm_campaign%3Ddir-trayzero "playstore") |
 | **[`unbraid`](https://github.com/quiet-crafts/unbraid "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-11-20 | [`[website]`](https://unbraid.app "website") |
 | **[`Sunlith`](https://github.com/SunSinD/Sunlith "link")** | [📅 Calendars](#calendars) | 2026-11-19 |  |
 | **[`USB Relay`](https://github.com/enesoglu/android-usb-reverse-tethering "link")** | [🛠 Utilities](#utilities) | 2026-11-16 | [`[website]`](https://enesoglu.github.io/android-usb-reverse-tethering/ "website") |
@@ -57,10 +58,6 @@
 | **[`Sober`](https://github.com/rishabhx29/Sober "link")** | [👩‍🔧 Productivity](#productivity) | 2026-11-04 |  |
 | **[`Open Chess`](https://github.com/jupiutrera/open-chess "link")** | [🎮 Games](#games) | 2026-11-02 | [`[website]`](https://jupiutrera.github.io/open-chess/ "website") |
 | **[`Pomelu`](https://github.com/ateymoori/pomelu "link")** | [👩‍🔧 Productivity](#productivity) | 2026-10-29 | [`[website]`](https://royan.se/pomelu/ "website") |
-| **[`PadCam`](https://github.com/monarchsofchaos004-gif/padcam "link")** | [🏠 Life Style](#life-style) | 2026-10-28 |  |
-| **[`PhoneGuard`](https://github.com/monarchsofchaos004-gif/phoneguard "link")** | [🔐 Security and Privacy](#security-and-privacy) | 2026-10-28 |  |
-| **[`SplitAudio`](https://github.com/monarchsofchaos004-gif/splitaudio "link")** | [🛠 Utilities](#utilities) | 2026-10-28 |  |
-| **[`TooClose`](https://github.com/monarchsofchaos004-gif/tooclose "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-10-28 |  |
 
 ## App Status
 | Status | Meaning |
@@ -152,6 +149,7 @@
 
 | App | Status | Description | Stars | Last commit | Links |
 |-----|--------|-------------|-------|-------------|-------|
+| **[`Open POS`](https://github.com/onepiece92/openPOS "link")** |  | Offline point-of-sale app and cash register for small shops, cafes and food trucks. Free and open source (MIT) for Android and iOS, with no account, subscription or ads. | ![Stars](https://badgen.net/github/stars/onepiece92/openPOS) | ![last commit](https://img.shields.io/github/last-commit/onepiece92/openPOS) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.brandbuilder.openpos "playstore") [`[website]`](https://onepiece92.github.io/openPOS/ "website") |
 | **[`OpenPetra`](https://github.com/openpetra/openpetra "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Administration software (CRM/ERP) for charitable organizations. | 116 | ![last commit](https://img.shields.io/github/last-commit/openpetra/openpetra) |  |
 | **[`OpenPost`](https://github.com/getopenpost/openpost "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Native app for drafting, scheduling, and tracking social posts through OpenPost Hosted or a self-hosted server. | 568 | ![last commit](https://img.shields.io/github/last-commit/getopenpost/openpost) |  |
 | **[`OpenShop.io`](https://github.com/openshopio/openshop.io-android "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | A mobile E-commerce solution connected to Facebook Ads and Google. (Archived) | 503 | ![last commit](https://img.shields.io/github/last-commit/openshopio/openshop.io-android) |  |
