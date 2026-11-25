@@ -137,6 +137,12 @@
             "added": "2026-09-16"
         },
         {
+            "name": "Compose PCM SFX",
+            "description": "On-device procedural sound effects synthesizer and pure-Kotlin 16-bit PCM library built with Jetpack Compose and AudioTrack. Test 9 UI and game SFX presets locally without bundled audio files.",
+            "source": "https://github.com/simple-free-apps/compose-pcm-sfx",
+            "added": "2026-11-21"
+        },
+        {
             "name": "ConnectBot",
             "description": "The original, powerful SSH client for the Android platform.",
             "source": "https://github.com/connectbot/connectbot",
