@@ -3,6 +3,14 @@
     "emoji": "\ud83d\udcbc",
     "apps": [
         {
+            "name": "Open POS",
+            "description": "Offline point-of-sale app and cash register for small shops, cafes and food trucks. Free and open source (MIT) for Android and iOS, with no account, subscription or ads.",
+            "source": "https://github.com/onepiece92/openPOS",
+            "added": "2026-11-26",
+            "playstore": "https://play.google.com/store/apps/details?id=com.brandbuilder.openpos",
+            "website": "https://onepiece92.github.io/openPOS/"
+        },
+        {
             "name": "OpenPetra",
             "description": "Administration software (CRM/ERP) for charitable organizations.",
             "source": "https://github.com/openpetra/openpetra",
