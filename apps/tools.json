@@ -650,6 +650,13 @@
             "description": "An app for printing text as many times as needed and copying to the clipboard.",
             "source": "https://github.com/Abir-Tx/XWriter",
             "added": "2026-09-16"
+        },
+        {
+            "source": "https://github.com/HerRei/local-upscale",
+            "added": "2026-11-22",
+            "name": "LocalSR",
+            "description": "Offline photo upscaler that enlarges photos 4x on the phone with two bundled super-resolution models, Best and Fast. It runs on the GPU or CPU and has no internet permission, no account and no ads. Free and MIT licensed, with signed APKs on GitHub Releases and itch.io.",
+            "website": "https://herrei.github.io/localsr/"
         }
     ]
 }
