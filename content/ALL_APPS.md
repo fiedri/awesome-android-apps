@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Telos Launcher`](https://github.com/koukomin/telos-launcher "link")** | [📱 Launchers](#launchers) | 2026-11-28 | [`[website]`](https://koukomin.github.io/Telos-Launcher/ "website") |
 | **[`Open POS`](https://github.com/onepiece92/openPOS "link")** | [💼 Business](#business) | 2026-11-26 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.brandbuilder.openpos "playstore") [`[website]`](https://onepiece92.github.io/openPOS/ "website") |
 | **[`Daylight`](https://github.com/Jurgler95/daylight "link")** | [🏥 Health & Fitness](#health-fitness) | 2026-11-24 | [`[playstore]`](https://play.google.com/store/apps/details?id=de.behla.daylight "playstore") |
 | **[`LocalSR`](https://github.com/HerRei/local-upscale "link")** | [🧰 Tools](#tools) | 2026-11-22 | [`[website]`](https://herrei.github.io/localsr/ "website") |
@@ -57,7 +58,6 @@
 | **[`Usuals`](https://github.com/vitofico/usuals "link")** | [🏠 Life Style](#life-style) | 2026-11-10 |  |
 | **[`Sober`](https://github.com/rishabhx29/Sober "link")** | [👩‍🔧 Productivity](#productivity) | 2026-11-04 |  |
 | **[`Open Chess`](https://github.com/jupiutrera/open-chess "link")** | [🎮 Games](#games) | 2026-11-02 | [`[website]`](https://jupiutrera.github.io/open-chess/ "website") |
-| **[`Pomelu`](https://github.com/ateymoori/pomelu "link")** | [👩‍🔧 Productivity](#productivity) | 2026-10-29 | [`[website]`](https://royan.se/pomelu/ "website") |
 
 ## App Status
 | Status | Meaning |
@@ -353,6 +353,7 @@
 | **[`KISS`](https://github.com/Neamar/KISS "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | A blazingly fast launcher for android requiring nearly no memory to run. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select. Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the 'phone' button. | 3,500 | ![last commit](https://img.shields.io/github/last-commit/Neamar/KISS) | [`[f-droid]`](https://f-droid.org/packages/fr.neamar.kiss "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=fr.neamar.kiss "playstore") [`[website]`](https://kisslauncher.com "website") |
 | **[`Olauncher`](https://github.com/tanujnotes/Olauncher "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | This launcher frees you from distractions so you can focus on the things that actually matter. You should use your phone, not the other way round. It's privacy focused, fast, lightweight, and has no advertisements | 3,828 | ![last commit](https://img.shields.io/github/last-commit/tanujnotes/Olauncher) | [`[f-droid]`](https://f-droid.org/packages/app.olauncher "f-droid") |
 | **[`Rootless Pixel Launcher`](https://github.com/amirzaidi/Launcher3 "link")** | ![no_open_code](https://img.shields.io/badge/status-no_open_code-orange) | A close to AOSP launcher that only changes the necessary code to allow for small extensions and backporting to older Android versions. Pixel Launcher is focused on simplicity and rock solid stability. | 3,897 | ![last commit](https://img.shields.io/github/last-commit/amirzaidi/Launcher3) | [`[f-droid]`](https://f-droid.org/packages/amirz.rootless.nexuslauncher "f-droid") |
+| **[`Telos Launcher`](https://github.com/koukomin/telos-launcher "link")** |  | A search-focused Android launcher based on Kvaesitso. It offers unified search across apps, contacts, files and calendar events, along with configurable widgets and gestures. | ![Stars](https://badgen.net/github/stars/koukomin/telos-launcher) | ![last commit](https://img.shields.io/github/last-commit/koukomin/telos-launcher) | [`[website]`](https://koukomin.github.io/Telos-Launcher/ "website") |
 
 [**`^ back to top ^`**](#title)
 

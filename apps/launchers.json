@@ -26,6 +26,13 @@
             "added": "2022-01-28",
             "fdroid": "https://f-droid.org/packages/amirz.rootless.nexuslauncher",
             "playstore": "https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher"
+        },
+        {
+            "source": "https://github.com/koukomin/telos-launcher",
+            "added": "2026-11-28",
+            "name": "Telos Launcher",
+            "description": "A search-focused Android launcher based on Kvaesitso. It offers unified search across apps, contacts, files and calendar events, along with configurable widgets and gestures.",
+            "website": "https://koukomin.github.io/Telos-Launcher/"
         }
     ]
 }
